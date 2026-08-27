@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="nl" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Power of Dialogue · Formaat 1999–2025</title>
+<meta name="description" content="Trainingsprogramma dat participatief drama verankerde in Moldavië, Servië en Kroatië">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>:root{--paper:#F6F3EC;--paper-2:#EDE8DD;--ink:#1C1915;--ink-2:#4A443B;--ink-3:#7A7267;--line:#D9D2C4;--ochre:#B8803C;--ochre-soft:#EBD9BD;--card:#FFFDF8;--shadow:0 1px 0 rgba(28,25,21,.06),0 8px 24px -16px rgba(28,25,21,.25)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#16140F;--paper-2:#1F1C15;--ink:#EFE9DD;--ink-2:#C9C1B2;--ink-3:#8F877A;--line:#37322A;--ochre:#D39A50;--ochre-soft:#3A2E1B;--card:#1D1A14;--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8)}}
+:root[data-theme="dark"]{--paper:#16140F;--paper-2:#1F1C15;--ink:#EFE9DD;--ink-2:#C9C1B2;--ink-3:#8F877A;--line:#37322A;--ochre:#D39A50;--ochre-soft:#3A2E1B;--card:#1D1A14;--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8)}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Source Serif 4",Georgia,"Times New Roman",serif;font-size:17px;line-height:1.55}
+a{color:inherit}
+.wrap{max-width:1180px;margin:0 auto;padding:0 28px}
+h1,h2,h3,.disp{font-family:"Barlow Condensed","Arial Narrow",Arial,sans-serif;font-weight:600;letter-spacing:.005em;line-height:1;text-wrap:balance;margin:0}
+.mono{font-family:"IBM Plex Mono","Courier New",monospace;font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
+.small{font-size:14px;color:var(--ink-2)}
+.proto{display:inline-block;margin:8px 0 14px;padding:4px 9px;border:1px dashed var(--ochre);border-radius:3px;color:var(--ochre)}
+/* top bar */
+.top{border-bottom:1px solid var(--line);background:var(--paper);position:sticky;top:0;z-index:5}
+.bar{display:flex;justify-content:space-between;align-items:center;gap:20px;padding:12px 28px;flex-wrap:wrap}
+.brand{font-family:"Barlow Condensed",sans-serif;font-weight:700;font-size:26px;text-transform:uppercase;text-decoration:none;letter-spacing:.02em}
+.brand span{color:var(--ochre)}
+nav{display:flex;gap:18px;flex-wrap:wrap}
+nav a{font-family:"Barlow Condensed",sans-serif;font-size:17px;text-transform:uppercase;letter-spacing:.04em;text-decoration:none;color:var(--ink-2);border-bottom:2px solid transparent}
+nav a:hover{color:var(--ochre);border-bottom-color:var(--ochre)}
+nav a.ext{color:var(--ochre)}
+/* hero */
+.hero{padding:40px 0 10px;border-bottom:1px solid var(--line)}
+.hero h1{font-size:clamp(60px,9vw,120px);text-transform:uppercase;font-weight:700}
+.hero h1 span{color:var(--ochre)}
+.hero .lede{max-width:60ch;font-size:19px;color:var(--ink-2);margin:16px 0 10px}
+.hero-meta{margin-bottom:26px}
+.hero-meta a{color:var(--ochre)}
+section{padding:40px 0 8px}
+.sec-head{display:flex;justify-content:space-between;align-items:baseline;gap:20px;border-bottom:2px solid var(--ink);padding-bottom:8px;margin-bottom:22px}
+.sec-head h2{font-size:38px;text-transform:uppercase}
+.sec-head a{text-decoration:none}
+.lede{max-width:64ch;color:var(--ink-2);margin:0 0 22px}
+/* timeline */
+.tl{overflow-x:auto;padding-bottom:8px}
+.tl-inner{min-width:960px;display:grid;grid-template-columns:160px 1fr}
+.tl-years{grid-column:2;display:grid;grid-template-columns:repeat(var(--ny),1fr);border-bottom:1px solid var(--line);margin-bottom:6px}
+.tl-years span{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--ink-3);padding-bottom:6px;font-variant-numeric:tabular-nums}
+.tl-years span:nth-child(even){visibility:hidden}
+.tl-years span:last-child{visibility:visible}
+.track-label{display:flex;flex-direction:column;justify-content:center;padding:10px 12px 10px 0;border-top:1px solid var(--line)}
+.track-label b{font-family:"Barlow Condensed",sans-serif;font-weight:600;font-size:19px;text-transform:uppercase;letter-spacing:.02em}
+.track-label small{color:var(--ink-3);font-size:13px;font-style:italic}
+.track{position:relative;border-top:1px solid var(--line);padding:10px 0;display:grid;grid-template-columns:repeat(var(--ny),1fr);grid-auto-rows:22px;row-gap:5px;grid-auto-flow:dense;background:repeating-linear-gradient(90deg,transparent 0 calc(100%/var(--ny) - 1px),var(--line) calc(100%/var(--ny) - 1px) calc(100%/var(--ny)))}
+.bar{height:22px;border-radius:2px;display:flex;align-items:center;padding:0 8px;color:#fff;background:var(--c);font-family:"Barlow Condensed",sans-serif;font-size:14px;font-weight:600;letter-spacing:.02em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-decoration:none;min-width:0}
+.bar.stub{opacity:.55}
+.bar:hover{filter:brightness(1.15);opacity:1}
+.bar[data-n]::after{content:attr(data-n);margin-left:auto;padding-left:8px;font-family:"IBM Plex Mono",monospace;font-size:11px;font-weight:400;opacity:.85}
+.tl-note{grid-column:1/-1;padding:12px 0 0;color:var(--ink-3);font-size:14px;font-style:italic}
+/* minis */
+.minis{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px}
+.mini{display:block;text-decoration:none;background:var(--card);border:1px solid var(--line);border-top:6px solid var(--c);padding:16px 18px;box-shadow:var(--shadow)}
+.mini b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:28px;font-weight:600;text-transform:uppercase;margin:6px 0 4px;line-height:1}
+.mini em{color:var(--ink-2);font-size:15px}
+.mini:hover{border-color:var(--c)}
+/* route */
+.route{list-style:none;padding:0;margin:0;display:grid;gap:12px}
+.route li{display:grid;grid-template-columns:1fr auto;gap:16px;align-items:center;background:var(--card);border:1px solid var(--line);border-left:8px solid var(--c);padding:14px 18px}
+.route li>a:first-child{text-decoration:none}
+.route b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:26px;text-transform:uppercase;font-weight:600;margin:4px 0}
+.route em{color:var(--ink-2);font-size:15px}
+.route .ars{font-family:"Barlow Condensed",sans-serif;text-transform:uppercase;letter-spacing:.03em;text-decoration:none;color:var(--ochre);white-space:nowrap}
+/* lists */
+.glist{list-style:none;padding:0;margin:0 0 26px;columns:2;column-gap:32px}
+.glist li{break-inside:avoid;padding:5px 0 5px 12px;border-left:4px solid var(--c);margin-bottom:6px}
+.glist a{text-decoration:none}
+.glist a:hover{color:var(--ochre)}
+details{border:1px solid var(--line);background:var(--card);margin:0 0 8px;padding:8px 14px}
+summary{cursor:pointer;font-size:16px}
+summary a{color:var(--ochre)}
+.items{padding-left:0;list-style:none;margin:10px 0 4px}
+.items li{padding:6px 0;border-top:1px solid var(--line)}
+.items .status{color:var(--ink-3)}
+section h2{font-size:30px;text-transform:uppercase;margin:26px 0 10px;border-left:8px solid var(--c,var(--ochre));padding-left:10px}
+.docs,.pers{padding-left:18px;font-size:15px}
+.docs li,.pers li{margin:0 0 5px}
+/* kaart */
+.kaart{padding:34px 0 20px}
+.kaart-head{border-bottom:2px solid var(--ink);padding-bottom:14px;margin-bottom:22px}
+.kaart-head .mono a{text-decoration:none;color:var(--c)}
+.kaart-head h1{font-size:clamp(40px,6vw,72px);text-transform:uppercase;margin:8px 0 6px}
+.kaart-head .sub{font-style:italic;color:var(--ink-2);margin:0;font-size:19px}
+.kaart-grid{display:grid;grid-template-columns:minmax(0,1fr) 280px;gap:36px}
+.kaart-body{max-width:70ch}
+.kaart-body h2{font-size:26px;text-transform:uppercase;margin:28px 0 8px;border-left:8px solid var(--c);padding-left:10px}
+.kaart-body p{margin:0 0 12px}
+.kaart-body blockquote{margin:0 0 10px;padding:6px 12px;border-left:3px solid var(--ochre);background:var(--ochre-soft);font-size:14.5px;color:var(--ink-2)}
+.kaart-body ul{padding-left:20px}
+.kaart-body li{margin:0 0 6px}
+.facts{display:flex;gap:22px;flex-wrap:wrap;padding:12px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-bottom:6px}
+.fact b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:34px;font-weight:600;line-height:1;font-variant-numeric:tabular-nums}
+.fact span{font-size:12.5px;color:var(--ink-3)}
+.kaart-side dl{margin:0;font-size:15px}
+.kaart-side dt{font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);margin-top:12px}
+.kaart-side dd{margin:2px 0 0;color:var(--ink-2)}
+.videos{display:grid;gap:16px}
+.yt{position:relative;padding-top:56.25%;background:var(--paper-2)}
+.yt iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+figure{margin:0}
+figcaption{font-size:13px;color:var(--ink-3);margin-top:4px}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
+.gallery img{width:100%;height:auto;display:block;border:1px solid var(--line)}
+.prose{max-width:70ch}
+.prose h2{font-size:26px;text-transform:uppercase;margin:24px 0 8px}
+footer{margin-top:48px;border-top:1px solid var(--line);padding:22px 0 40px;color:var(--ink-3);font-size:14px}
+footer p{margin:0 0 6px;max-width:90ch}
+:focus-visible{outline:2px solid var(--ochre);outline-offset:2px}
+@media (max-width:760px){.kaart-grid{grid-template-columns:1fr}.glist{columns:1}.route li{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap bar">
+    <a class="brand" href="../index.html">Formaat <span>1999–2025</span></a>
+    <nav><a href="../index.html">Tijdlijn</a><a href="../route.html">Virgilio's route</a><a href="../thema.html">Thema's</a><a href="../alles.html">Alle activiteiten</a><a href="../bronnen.html">Bronnen</a><a href="../over.html">Over</a><a class="ext" href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal van de joker ↗</a></nav>
+  </div>
+</header>
+<article class="kaart" style="--c:#35607A">
+<div class="wrap">
+<div class="kaart-head">
+  <div class="mono"><a href="../index.html#internationaal">Internationaal</a> · 2005–2013</div>
+  <h1>The Power of Dialogue</h1>
+  <p class="sub">Trainingsprogramma dat participatief drama verankerde in Moldavië, Servië en Kroatië</p>
+  <span class="mono proto">concept · nog te controleren</span>
+</div>
+<div class="kaart-grid">
+<div class="kaart-body"><div class="facts"><div class="fact"><b>146</b><span>aanmeldingen</span></div><div class="fact"><b>50</b><span>trajecten voltooid</span></div><div class="fact"><b>1.000</b><span>personen direct bereikt</span></div><div class="fact"><b>880</b><span>handboeken eerste druk</span></div></div><h2>De vraag</h2>
+<p>Na het mislukken van de Flying Jokers-stage van de ITO in 2004 bleef de vraag staan: hoe versterk je de kwaliteit en de positie van participatief drama in Oost-Europa, waar beoefenaars geïsoleerd werkten met homoseksuelen, gehandicapten, straatkinderen, gedetineerden en slachtoffers van mensenhandel? Niet door experts in te vliegen voor een festival, maar door lokale trainers op te leiden die daarna zelf verder konden.</p>
+<p>De Dutch Oak Tree Foundation, in Nederland vertegenwoordigd door Stichting De Oude Beuk (later DOB Foundation), was bereid zo'n programma te financieren.</p>
+<h2>Aanpak</h2>
+<p>Formaat ontwikkelde The Power of Dialogue als programma in vier fasen per land: onderzoek en werkbezoek, training in twee blokken van vijf dagen met een verplichte praktijkperiode ertussen, begeleiding van eigen projecten, en publicatie van een handboek in de eigen taal, een starters' kit. Elke trainingsweek eindigde in het openbaar: een forumstuk of een onzichtbaar-theateractie op straat. Luc Opdebeeck gaf de basistrainingen, met een assistent-joker; Adrian Jackson van Cardboard Citizens verzorgde gevorderdentrainingen. Per land droeg een lokale coördinator het programma.</p>
+<h2>Wat er gebeurde</h2>
+<p>Moldavië beet op 3 oktober 2005 het spits af in Chişinău. De eerste cursusweek (februari 2006) sloot af met een forumstuk over huiselijk geweld en een onzichtbaar-theateractie tegen homodiscriminatie; de gevorderdencursus in juni 2006 werd gegeven door Adrian Jackson. Er werden 27 certificaten uitgereikt, dertien voor beide trainingen. Deelnemers zetten een legislatief theaterproject op rond een concept-antidiscriminatiewet. Op 19 februari 2007 werd de Roemeenstalige starters' kit (oplage 150) gepresenteerd aan ruim 40 aanwezigen; er ontstond een landelijk netwerk.</p>
+<p>Servië volgde na een werkbezoek aan Belgrado in november 2006: twee vijfdaagse trainingen in februari en juni 2007 in cultureel centrum Rex, over vrede, geweldloosheid, verzoening, corruptie en armoede. Bijna 70 mensen meldden zich aan, 33 deden de eerste training, 27 de tweede. De eerste week eindigde met een druk bezochte forumpresentatie, de tweede met onzichtbaar theater in het centrum van Belgrado. De Servische cursisten gaven de hoogste waardering van alle POD-trainingen en begonnen direct vervolgprojecten. Kroatië liep via de dramadocentenvereniging HCDO: presentatie in Zagreb in februari 2007, een eerste training door Luc Opdebeeck, een tweede in juli 2007 door Adrian Jackson; 20 en 14 deelnemers.</p>
+<p>In november en december 2007 werden Servië en Kroatië afgesloten met de handboeken 'Moć Dijaloga' en 'Ne raspravljaj, igraj!' en slotpresentaties. De balans na drie landen: 146 aanmeldingen, 82 deelnemers aan minimaal één training, 50 voltooide trajecten (22 Servië, 14 Moldavië, 14 Kroatië), ten minste 1.000 personen direct bereikt en 880 handboeken. Het eindrapport ging begin 2008 naar de DOB Foundation.</p>
+<p>Het programma werkte door. In 2008-2009 gaf Luc Opdebeeck supervisie aan een project van ApsArt met drugsverslaafden in de regio Novi Sad, dat forumvoorstellingen opleverde en werd bekroond. In 2012-2013 opende hij met een vijfdaagse training legislatief theater voor beleidsmakers, mensenrechtenactivisten en theatermakers het Servische project 'From Lawbreaking to Law-making' van Apsart in Belgrado.</p>
+<h2>Mensen en partners</h2>
+<p>De Dutch Oak Tree Foundation / DOB Foundation financierde het volledige programma. Cardboard Citizens (Adrian Jackson) leverde de gevorderdentrainingen; HCDO organiseerde in Kroatië, ApsArt werd de blijvende partner in Servië. In Belgrado werd gesproken met UNICEF, de British Council en de ambassades van Canada en Nederland. De lokale coördinatoren in Moldavië, Servië en Kroatië en de assistent-joker van Formaat worden hier in functie genoemd; de Moldavische starters' kit werd geschreven door de lokale coördinator en de medewerker onderzoek van Formaat.</p>
+<h2>Jokerlessen</h2>
+<blockquote>
+<p>Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.</p>
+</blockquote>
+<ul>
+<li><strong>Praktijk tussen de blokken</strong> — Een verplichte praktijkperiode tussen twee trainingsweken scheidt de nieuwsgierigen van de toekomstige trainers. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Multiplicatie</a></li>
+<li><strong>Eindig op straat</strong> — Een onzichtbaar-theateractie als examen maakt de training meteen politiek en publiek. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Onzichtbaar theater</a></li>
+<li><strong>Laat een handboek achter in de taal van het land</strong> — 880 exemplaren in het Roemeens, Servisch en Kroatisch deden meer voor de continuïteit dan een derde trainingsweek. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html">Joker-praktijk › overdracht</a></li>
+</ul>
+<h2>Bronnen</h2>
+<ul>
+<li>Jaarverslag 2005-2006 (definitief), hoofdstuk 2 'The Power of Dialogue: Multiplicatie in Moldavië', p. 24-25</li>
+<li>Formaat jaarverslag 2006-2007, 4.1 'Power of Dialogue' – Servië (p. 32-33), Kroatië (p. 33), Moldavië (p. 34)</li>
+<li>Formaat jaarverslag 2007-2008, hoofdstuk 4.1 (p. 32-33) en 5.5</li>
+<li>Formaat jaarverslag 2008-2009, hoofdstuk 4.2 p. 37</li>
+<li>Formaat jaarverslag 2012-2013, hoofdstuk 1.5 (p. 11) en 4.2 (p. 26)</li>
+<li>Evaluatie The Power of Dialogue (Moldova) (2006); The Power of Dialogue – Projectverslag (2009); certificaten Moldavië 2006-2007</li>
+<li>Pers: Vjesnik, Kroatië (28 februari 2007)</li>
+</ul><h2>In de pers</h2><ul class="pers"><li><span class="mono">2007-02-28</span> Vjesnik (Kroatië) — The Power of Dialogue</li></ul><h2>Activiteiten per seizoen</h2><ol class="items"><li id="2005-the-power-of-dialogue-moldavie"><span class="mono">2005-2006</span> <b>The Power of Dialogue – Moldavië</b><br><span class="small">Op 3 oktober 2005 startte in Chişinău het door Formaat ontwikkelde trainingsprogramma The Power of Dialogue om de kwaliteit en positie van participatief drama in Oost-Europa te versterken. De eerste cursusweek (februari 2006, Luc Opdebeeck en Mieke Coupé) werd afgesloten met een Forumstuk over huiselijk geweld en een Onzichtbaar Theateractie over homodiscriminatie; de gevorderdencursus in juni 2006 werd gegeven door Adrian Jackson. Deelnemers zetten onder meer een Legislatief Theaterproject op rond een concept-antidiscriminatiewet.</span></li><li id="2005-the-power-of-dialogue-pod-afronding-servie-en-kroatie"><span class="mono">2007-2008</span> <b>The Power of Dialogue (POD) - afronding Servië en Kroatië</b><br><span class="small">Trainingsprogramma (2005-2007) in vier fasen ter stimulering van Participatief Drama in Moldavië, Servië en Kroatië: onderzoek, training in twee blokken van vijf dagen, praktijkperiode en publicatie van een lokaal handboek. De projecten in Servië en Kroatië werden in november en december 2007 afgesloten met het uitbrengen van de handboeken &#x27;Moć Dijaloga&#x27; en &#x27;Ne raspravljaj, igraj!&#x27; en slotpresentaties; het eindrapport werd begin 2008 aangeboden aan de DOB Foundation.</span></li><li id="2006-the-power-of-dialogue-moldavie-starters-kit-en-netwerkvorming"><span class="mono">2006-2007</span> <b>The Power of Dialogue – Moldavië: starters&#x27; kit en netwerkvorming</b><br><span class="small">In het seizoen 2006-2007 werd in Moldavië vooral gewerkt aan de starters&#x27; kit, een Roemeenstalig handboek voor mensen die met participatief drama willen werken, geschreven door Lilia Raileanu en Ronald Matthijssen. Op 19 februari 2007 werd de kit in Chişinău gepresenteerd aan de deelnemers van het trainingsprogramma en belangstellende organisaties. Participatief drama werd in Moldavië op brede schaal geïmplementeerd, onder meer rond rechten van straatkinderen, gehandicapten, homoseksuelen en minderheden; er ontstond een landelijk netwerk van beoefenaars.</span></li><li id="2006-the-power-of-dialogue-servie"><span class="mono">2006-2007</span> <b>The Power of Dialogue – Servië</b><br><span class="small">Na een werkbezoek van de internationaal coördinator aan Belgrado in november 2006 vonden in februari en juni 2007 twee vijfdaagse trainingen plaats onder leiding van Luc Opdebeeck, met een verplicht praktijkonderdeel ertussen. Thema&#x27;s waren vrede, geweldloosheid, verzoening, corruptie en armoede. De eerste week werd afgesloten met een druk bezochte Forumtheaterpresentatie, de tweede met een Onzichtbaar Theateractie in het centrum van Belgrado. De cursisten gaven de hoogste waardering van alle POD-trainingen en zetten direct vervolgprojecten op.</span></li><li id="2007-the-power-of-dialogue-kroatie"><span class="mono">2006-2007</span> <b>The Power of Dialogue – Kroatië</b><br><span class="small">Samenwerkingsproject met de Kroatische Vereniging van Dramadocenten HCDO. Na de presentatie in februari 2007 in Zagreb volgden twee trainingen: de eerste door Luc Opdebeeck met assistentie van Mieke Coupé, de tweede in juli 2007 door Adrian Jackson. Deelnemers gaven aan dat POD een grote stimulans was voor aarzelende beoefenaars; in het najaar van 2007 zou de Kroatische starters&#x27; kit worden geschreven.</span></li><li id="2008-supervisie-vervolgproject-the-power-of-dialogue-servie-apsart-novi-sad"><span class="mono">2008-2009</span> <b>Supervisie vervolgproject The Power of Dialogue Servië (ApsArt, Novi Sad)</b><br><span class="small">Vervolg op het trainingstraject The Power of Dialogue dat Luc Opdebeeck in 2006-2007 in Servië uitvoerde. In 2008-2009 gaf Opdebeeck supervisie aan een project van ApsArt met drugsverslaafden in de regio Novi Sad, dat leidde tot een aantal Forumtheatervoorstellingen en werd bekroond.</span></li><li id="2012-training-legislatief-theater-from-lawbreaking-to-law-making-apsart-bel"><span class="mono">2012-2013</span> <b>Training Legislatief Theater &#x27;From Lawbreaking to Law-making&#x27; - Apsart Belgrado</b><br><span class="small">Als aftrap van het Servische Legislatief Theaterproject &#x27;From Lawbreaking to Law-making&#x27; van het centrum voor innovatieve theaterprojecten Apsart verzorgde Luc Opdebeeck een vijfdaagse training Legislatief Theater voor beleidsmakers, mensenrechtenactivisten en theatermakers. De kern van het Legislatief Theater werd in korte tijd overgedragen; het project zou vervolgens door Servië toeren.</span></li></ol></div>
+<aside class="kaart-side"><dl><dt>Plaatsen</dt><dd>Chişinău, Belgrado, Zagreb, Novi Sad</dd><dt>Partners</dt><dd>Dutch Oak Tree Foundation / DOB Foundation, Stichting De Oude Beuk, Cardboard Citizens, HCDO (Kroatische Vereniging van Dramadocenten), ApsArt / Centre for Theatre Research Belgrado, UNICEF, British Council</dd><dt>Thema</dt><dd>vrede, internationaal, multiplicatie, mensenrechten</dd></dl>
+<p class="small">Deze kaart hoort bij het spoor <b>Internationaal</b>. Het <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal van de joker</a> beschrijft de oefeningen en houdingen waarnaar de jokerlessen verwijzen.</p>
+</dl></aside>
+</div></div></article>
+<footer><div class="wrap">
+<p>Formaat 1999–2025 is het werk van Stichting Formaat, Werkplaats voor Participatief Drama (Rotterdam, 1999–2025), en van de jokers, spelers en partners die de projecten droegen. Samengesteld door Luc Opdebeeck.</p>
+<p>Licentie: nog vast te stellen (voorstel: teksten en eigen beeld CC BY-SA 4.0, code MIT). Bronmateriaal: jaarverslagen en projectdocumenten in het Formaat-archief; foto&#x27;s alleen met toestemming; video via YouTube-kanaal Formaat231.</p>
+<p class="mono">Gegenereerd uit <code>data/</code> en <code>kaarten/</code> · <a href="https://github.com/lucopdb-cpu/Formaat-1999-2025">broncode en correcties</a></p>
+</div></footer>
+</body>
+</html>
