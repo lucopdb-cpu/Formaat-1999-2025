@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="nl" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Geweldloosheid in beeld · Formaat 1999–2025</title>
+<meta name="description" content="Jongeren uit Kralingen/De Esch brengen hun visie op vrede en geweld in beeld, met een uitloper naar jongeren en statenleden in Waalwijk">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>:root{--paper:#F6F3EC;--paper-2:#EDE8DD;--ink:#1C1915;--ink-2:#4A443B;--ink-3:#7A7267;--line:#D9D2C4;--ochre:#B8803C;--ochre-soft:#EBD9BD;--card:#FFFDF8;--shadow:0 1px 0 rgba(28,25,21,.06),0 8px 24px -16px rgba(28,25,21,.25)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#16140F;--paper-2:#1F1C15;--ink:#EFE9DD;--ink-2:#C9C1B2;--ink-3:#8F877A;--line:#37322A;--ochre:#D39A50;--ochre-soft:#3A2E1B;--card:#1D1A14;--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8)}}
+:root[data-theme="dark"]{--paper:#16140F;--paper-2:#1F1C15;--ink:#EFE9DD;--ink-2:#C9C1B2;--ink-3:#8F877A;--line:#37322A;--ochre:#D39A50;--ochre-soft:#3A2E1B;--card:#1D1A14;--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8)}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Source Serif 4",Georgia,"Times New Roman",serif;font-size:17px;line-height:1.55}
+a{color:inherit}
+.wrap{max-width:1180px;margin:0 auto;padding:0 28px}
+h1,h2,h3,.disp{font-family:"Barlow Condensed","Arial Narrow",Arial,sans-serif;font-weight:600;letter-spacing:.005em;line-height:1;text-wrap:balance;margin:0}
+.mono{font-family:"IBM Plex Mono","Courier New",monospace;font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
+.small{font-size:14px;color:var(--ink-2)}
+.proto{display:inline-block;margin:8px 0 14px;padding:4px 9px;border:1px dashed var(--ochre);border-radius:3px;color:var(--ochre)}
+/* top bar */
+.top{border-bottom:1px solid var(--line);background:var(--paper);position:sticky;top:0;z-index:5}
+.topbar{display:flex;justify-content:space-between;align-items:center;gap:20px;padding:12px 28px;flex-wrap:wrap}
+.brand{font-family:"Barlow Condensed",sans-serif;font-weight:700;font-size:26px;text-transform:uppercase;text-decoration:none;letter-spacing:.02em}
+.brand span{color:var(--ochre)}
+nav{display:flex;gap:18px;flex-wrap:wrap}
+nav a{font-family:"Barlow Condensed",sans-serif;font-size:17px;text-transform:uppercase;letter-spacing:.04em;text-decoration:none;color:var(--ink-2);border-bottom:2px solid transparent}
+nav a:hover{color:var(--ochre);border-bottom-color:var(--ochre)}
+nav a.ext{color:var(--ochre)}
+/* hero */
+.hero{padding:40px 0 10px;border-bottom:1px solid var(--line)}
+.hero h1{font-size:clamp(60px,9vw,120px);text-transform:uppercase;font-weight:700}
+.hero h1 span{color:var(--ochre)}
+.hero .lede{max-width:60ch;font-size:19px;color:var(--ink-2);margin:16px 0 10px}
+.hero-meta{margin-bottom:26px}
+.hero-meta a{color:var(--ochre)}
+section{padding:40px 0 8px}
+.sec-head{display:flex;justify-content:space-between;align-items:baseline;gap:20px;border-bottom:2px solid var(--ink);padding-bottom:8px;margin-bottom:22px}
+.sec-head h2{font-size:38px;text-transform:uppercase}
+.sec-head a{text-decoration:none}
+.lede{max-width:64ch;color:var(--ink-2);margin:0 0 22px}
+/* timeline */
+.tl{overflow-x:auto;padding-bottom:8px}
+.tl-inner{min-width:960px;display:grid;grid-template-columns:160px 1fr}
+.tl-years{grid-column:2;display:grid;grid-template-columns:repeat(var(--ny),1fr);border-bottom:1px solid var(--line);margin-bottom:6px}
+.tl-years span{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--ink-3);padding-bottom:6px;font-variant-numeric:tabular-nums}
+.tl-years span:nth-child(even){visibility:hidden}
+.tl-years span:last-child{visibility:visible}
+.track-label{display:flex;flex-direction:column;justify-content:center;padding:10px 12px 10px 0;border-top:1px solid var(--line)}
+.track-label b{font-family:"Barlow Condensed",sans-serif;font-weight:600;font-size:19px;text-transform:uppercase;letter-spacing:.02em}
+.track-label small{color:var(--ink-3);font-size:13px;font-style:italic}
+.track{position:relative;border-top:1px solid var(--line);padding:10px 0;display:grid;grid-template-columns:repeat(var(--ny),1fr);grid-auto-rows:22px;row-gap:5px;grid-auto-flow:dense;background:repeating-linear-gradient(90deg,transparent 0 calc(100%/var(--ny) - 1px),var(--line) calc(100%/var(--ny) - 1px) calc(100%/var(--ny)))}
+.bar{height:22px;border-radius:2px;display:flex;align-items:center;padding:0 8px;color:#fff;background:var(--c);font-family:"Barlow Condensed",sans-serif;font-size:14px;font-weight:600;letter-spacing:.02em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-decoration:none;min-width:0}
+.bar.stub{opacity:.55}
+.bar:hover{filter:brightness(1.15);opacity:1}
+.bar[data-n]::after{content:attr(data-n);margin-left:auto;padding-left:8px;font-family:"IBM Plex Mono",monospace;font-size:11px;font-weight:400;opacity:.85}
+.tl-note{grid-column:1/-1;padding:12px 0 0;color:var(--ink-3);font-size:14px;font-style:italic}
+/* minis */
+.minis{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px}
+.mini{display:block;text-decoration:none;background:var(--card);border:1px solid var(--line);border-top:6px solid var(--c);padding:16px 18px;box-shadow:var(--shadow)}
+.mini b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:28px;font-weight:600;text-transform:uppercase;margin:6px 0 4px;line-height:1}
+.mini em{color:var(--ink-2);font-size:15px}
+.mini:hover{border-color:var(--c)}
+/* route */
+.route{list-style:none;padding:0;margin:0;display:grid;gap:12px}
+.route li{display:grid;grid-template-columns:1fr auto;gap:16px;align-items:center;background:var(--card);border:1px solid var(--line);border-left:8px solid var(--c);padding:14px 18px}
+.route li>a:first-child{text-decoration:none}
+.route b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:26px;text-transform:uppercase;font-weight:600;margin:4px 0}
+.route em{color:var(--ink-2);font-size:15px}
+.route .ars{font-family:"Barlow Condensed",sans-serif;text-transform:uppercase;letter-spacing:.03em;text-decoration:none;color:var(--ochre);white-space:nowrap}
+/* lists */
+.glist{list-style:none;padding:0;margin:0 0 26px;columns:2;column-gap:32px}
+.glist li{break-inside:avoid;padding:5px 0 5px 12px;border-left:4px solid var(--c);margin-bottom:6px}
+.glist a{text-decoration:none}
+.glist a:hover{color:var(--ochre)}
+details{border:1px solid var(--line);background:var(--card);margin:0 0 8px;padding:8px 14px}
+summary{cursor:pointer;font-size:16px}
+summary a{color:var(--ochre)}
+.items{padding-left:0;list-style:none;margin:10px 0 4px}
+.items li{padding:6px 0;border-top:1px solid var(--line)}
+.items .status{color:var(--ink-3)}
+section h2{font-size:30px;text-transform:uppercase;margin:26px 0 10px;border-left:8px solid var(--c,var(--ochre));padding-left:10px}
+.docs,.pers{padding-left:18px;font-size:15px}
+.docs li,.pers li{margin:0 0 5px}
+/* kaart */
+.kaart{padding:34px 0 20px}
+.kaart-head{border-bottom:2px solid var(--ink);padding-bottom:14px;margin-bottom:22px}
+.kaart-head .mono a{text-decoration:none;color:var(--c)}
+.kaart-head h1{font-size:clamp(40px,6vw,72px);text-transform:uppercase;margin:8px 0 6px}
+.kaart-head .sub{font-style:italic;color:var(--ink-2);margin:0;font-size:19px}
+.kaart-grid{display:grid;grid-template-columns:minmax(0,1fr) 280px;gap:36px}
+.kaart-body{max-width:70ch}
+.kaart-body h2{font-size:26px;text-transform:uppercase;margin:28px 0 8px;border-left:8px solid var(--c);padding-left:10px}
+.kaart-body p{margin:0 0 12px}
+.kaart-body blockquote{margin:0 0 10px;padding:6px 12px;border-left:3px solid var(--ochre);background:var(--ochre-soft);font-size:14.5px;color:var(--ink-2)}
+.kaart-body ul{padding-left:20px}
+.kaart-body li{margin:0 0 6px}
+.facts{display:flex;gap:22px;flex-wrap:wrap;padding:12px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-bottom:6px}
+.fact b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:34px;font-weight:600;line-height:1;font-variant-numeric:tabular-nums}
+.fact span{font-size:12.5px;color:var(--ink-3)}
+.kaart-side dl{margin:0;font-size:15px}
+.kaart-side dt{font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);margin-top:12px}
+.kaart-side dd{margin:2px 0 0;color:var(--ink-2)}
+.videos{display:grid;gap:16px}
+.yt{position:relative;padding-top:56.25%;background:var(--paper-2)}
+.yt iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+figure{margin:0}
+figcaption{font-size:13px;color:var(--ink-3);margin-top:4px}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
+.gallery img{width:100%;height:auto;display:block;border:1px solid var(--line)}
+.prose{max-width:70ch}
+.prose h2{font-size:26px;text-transform:uppercase;margin:24px 0 8px}
+footer{margin-top:48px;border-top:1px solid var(--line);padding:22px 0 40px;color:var(--ink-3);font-size:14px}
+footer p{margin:0 0 6px;max-width:90ch}
+:focus-visible{outline:2px solid var(--ochre);outline-offset:2px}
+@media (max-width:760px){.kaart-grid{grid-template-columns:1fr}.glist{columns:1}.route li{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap topbar">
+    <a class="brand" href="../index.html">Formaat <span>1999–2025</span></a>
+    <nav><a href="../index.html">Tijdlijn</a><a href="../route.html">Virgilio's route</a><a href="../thema.html">Thema's</a><a href="../alles.html">Alle activiteiten</a><a href="../bronnen.html">Bronnen</a><a href="../over.html">Over</a><a class="ext" href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal van de joker ↗</a></nav>
+  </div>
+</header>
+<article class="kaart" style="--c:#3E6B5A">
+<div class="wrap">
+<div class="kaart-head">
+  <div class="mono"><a href="../index.html#wijk">Wijk &amp; legislatief theater</a> · 2002–2003</div>
+  <h1>Geweldloosheid in beeld</h1>
+  <p class="sub">Jongeren uit Kralingen/De Esch brengen hun visie op vrede en geweld in beeld, met een uitloper naar jongeren en statenleden in Waalwijk</p>
+  <span class="mono proto">concept · nog te controleren</span>
+</div>
+<div class="kaart-grid">
+<div class="kaart-body"><div class="facts"><div class="fact"><b>8</b><span>jongerengroepen</span></div><div class="fact"><b>16</b><span>workshops</span></div><div class="fact"><b>ruim 70</b><span>jongeren</span></div><div class="fact"><b>ruim 200</b><span>toeschouwers manifestatie</span></div></div><h2>De vraag</h2>
+<p>De Verenigde Naties riepen 2001-2010 uit tot decennium voor een cultuur van vrede en geweldloosheid. Het Humanistisch Vredesberaad en de vereniging Pais benaderden Formaat in dat kader, als vervolg op het Rotterdams Vredesmanifest. De vraag: kunnen jongeren uit één wijk zelf laten zien wat vrede en geweldloosheid voor hen betekenen, en wat er in hun buurt anders moet? De wijk werd Kralingen/De Esch in Rotterdam, met Knooppunt Kralingen als lokale partner en de gemeente Rotterdam als financier.</p>
+<h2>Aanpak</h2>
+<p>In september-november 2002 werkte Formaat met acht groepen jongeren van 10 tot 18 jaar: van drie basisscholen, een school voor voortgezet onderwijs en het jongerenwerk. Elke groep maakte in twee beeldentheaterworkshops een beeld van haar visie op vrede en geweldloosheid. Daarna volgde een repetitieweekend waarin de beelden werden uitgewerkt tot een gezamenlijk programma met beeldentheater en forumtheater, aangevuld met wat de jongeren zelf inbrachten: breakdance, rap, dans, teksten en capoeira.</p>
+<p>Een van de acht groepen trok zich terug uit angst voor de gevolgen van het vertellen van hun verhalen. Dat is op zichzelf een uitkomst: geweld in beeld brengen is niet vrijblijvend.</p>
+<h2>Wat er gebeurde</h2>
+<p>Op zondag 17 november 2002 presenteerden ruim 60 jongeren hun manifestatie in HAL 4, voor een massaal opgekomen publiek van bewoners en politieke partijen. De nadruk lag op verwerking van geweldservaringen en op alternatieven. Het was het eerste evenement van deze omvang dat Formaat organiseerde. De uitkomsten werden aangeboden aan het nieuwe dagelijks bestuur van de deelgemeente, als inbreng voor het beleid 2002-2006.</p>
+<p>De aanpak kreeg een uitloper in Waalwijk. In oktober 2002 werkten leerlingen van het Midden-Brabant College een middag lang aan beelden van onveiligheid: agressie in discotheken, zakkenrollerij op stations, geweld op straat. Zij bedachten onder meer een landelijke discopas. 's Avonds maakten de leden van de commissie Jeugdbeleid van de Provinciale Staten van Noord-Brabant in een korte workshop hun eigen beeld van onveiligheid. In het gesprek dat volgde kwamen de standpunten van jongeren en volwassenen dichter bij elkaar. De sessie diende als oefening voor de oprichting van het provinciaal Jeugdparlement in het voorjaar van 2003.</p>
+<h2>Mensen en partners</h2>
+<p>Initiatiefnemers waren het Humanistisch Vredesberaad en de vereniging Pais; Knooppunt Kralingen was de wijkpartner en de gemeente Rotterdam financierde. De Waalwijkse workshops werden uitgevoerd in opdracht van K2, het Brabantse kenniscentrum jeugd, met steun van de provincie Noord-Brabant. Jokers en begeleiders kwamen van Formaat; de jongeren traden op onder eigen naam van hun groep, niet individueel.</p>
+<h2>Jokerlessen</h2>
+<blockquote>
+<p>Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.</p>
+</blockquote>
+<ul>
+<li><strong>Laat elke groep haar eigen beeld maken</strong> — Acht aparte groepen die pas in het repetitieweekend samenkomen, geven een veelstemmiger beeld van de wijk dan één gemengde groep. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal › Beeldentheater</a></li>
+<li><strong>Terugtrekken is informatie</strong> — Als een groep afhaakt uit angst voor de gevolgen, zegt dat iets over de wijk; respecteer het en benoem het. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html">Joker-praktijk › veiligheid in de groep</a></li>
+<li><strong>Laat de beslissers zelf ook een beeld maken</strong> — Statenleden die hun eigen beeld van onveiligheid bouwen, praten daarna anders met jongeren dan vanuit de zaal. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html">Joker-praktijk › dialoog met beleid</a></li>
+</ul>
+<h2>Bronnen</h2>
+<ul>
+<li>Formaat jaarverslag 2001-2002, p. 17-18 en 43</li>
+<li>Formaat jaarverslag 2002-2003, Geweldloosheid in beeld (p. 16-17), Participatie en dialoog (p. 15) en Partners (p. 37)</li>
+<li>OPDRUK nr. 11 en nr. 12</li>
+</ul><h2>Activiteiten per seizoen</h2><ol class="items"><li id="2002-geweldloosheid-in-beeld-kralingen-de-esch"><span class="mono">2002-2003</span> <b>Geweldloosheid in beeld (Kralingen/De Esch)</b><br><span class="small">Vervolg op het Rotterdams Vredesmanifest waarin acht groepen jongeren uit de wijk Kralingen/De Esch via Beeldentheater en Forumtheater hun ervaringen met en alternatieven voor geweld in beeld brachten. Na 16 workshops volgde op 17 november 2002 een manifestatie met muziek, breakdance, rap en capoeira, waarin de nadruk lag op verwerking van geweldservaringen. Het was het eerste evenement van deze omvang dat Formaat organiseerde.</span></li><li id="2002-workshops-waalwijk-geweldloosheid-in-beeld-jongeren-en-politici"><span class="mono">2002-2003</span> <b>Workshops Waalwijk (Geweldloosheid in beeld / jongeren en politici)</b><br><span class="small">Workshops in het kader van een dialoog tussen jongeren en politici over veiligheid, uitgevoerd in Waalwijk in opdracht van het Brabantse kenniscentrum jeugd. De aanpak sloot aan bij het Rotterdamse project Geweldloosheid in beeld.</span></li></ol></div>
+<aside class="kaart-side"><dl><dt>Plaatsen</dt><dd>Rotterdam-Kralingen, Rotterdam-De Esch, Waalwijk</dd><dt>Partners</dt><dd>Humanistisch Vredesberaad, Vereniging Pais, Knooppunt Kralingen, Gemeente Rotterdam, K2 Kenniscentrum Jeugd / Brabants Steunpunt Jeugdwelzijn, Provincie Noord-Brabant</dd><dt>Thema</dt><dd>vrede, jongeren, wijk, geweld</dd></dl>
+<p class="small">Deze kaart hoort bij het spoor <b>Wijk &amp; legislatief theater</b>. Het <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal van de joker</a> beschrijft de oefeningen en houdingen waarnaar de jokerlessen verwijzen.</p>
+</dl></aside>
+</div></div></article>
+<footer><div class="wrap">
+<p>Formaat 1999–2025 is het werk van Stichting Formaat, Werkplaats voor Participatief Drama (Rotterdam, 1999–2025), en van de jokers, spelers en partners die de projecten droegen. Samengesteld door Luc Opdebeeck.</p>
+<p>Licentie: nog vast te stellen (voorstel: teksten en eigen beeld CC BY-SA 4.0, code MIT). Bronmateriaal: jaarverslagen en projectdocumenten in het Formaat-archief; foto&#x27;s alleen met toestemming; video via YouTube-kanaal Formaat231.</p>
+<p class="mono">Gegenereerd uit <code>data/</code> en <code>kaarten/</code> · <a href="https://github.com/lucopdb-cpu/Formaat-1999-2025">broncode en correcties</a></p>
+</div></footer>
+</body>
+</html>

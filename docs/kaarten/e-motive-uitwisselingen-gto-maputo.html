@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="nl" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>E-Motive / GTO Maputo · Formaat 1999–2025</title>
+<meta name="description" content="Omgekeerde ontwikkelingssamenwerking; uitwisseling met het Grupo de Teatro do Oprimido uit Mozambique rond The Bitterest Taboo">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>:root{--paper:#F6F3EC;--paper-2:#EDE8DD;--ink:#1C1915;--ink-2:#4A443B;--ink-3:#7A7267;--line:#D9D2C4;--ochre:#B8803C;--ochre-soft:#EBD9BD;--card:#FFFDF8;--shadow:0 1px 0 rgba(28,25,21,.06),0 8px 24px -16px rgba(28,25,21,.25)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#16140F;--paper-2:#1F1C15;--ink:#EFE9DD;--ink-2:#C9C1B2;--ink-3:#8F877A;--line:#37322A;--ochre:#D39A50;--ochre-soft:#3A2E1B;--card:#1D1A14;--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8)}}
+:root[data-theme="dark"]{--paper:#16140F;--paper-2:#1F1C15;--ink:#EFE9DD;--ink-2:#C9C1B2;--ink-3:#8F877A;--line:#37322A;--ochre:#D39A50;--ochre-soft:#3A2E1B;--card:#1D1A14;--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8)}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Source Serif 4",Georgia,"Times New Roman",serif;font-size:17px;line-height:1.55}
+a{color:inherit}
+.wrap{max-width:1180px;margin:0 auto;padding:0 28px}
+h1,h2,h3,.disp{font-family:"Barlow Condensed","Arial Narrow",Arial,sans-serif;font-weight:600;letter-spacing:.005em;line-height:1;text-wrap:balance;margin:0}
+.mono{font-family:"IBM Plex Mono","Courier New",monospace;font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
+.small{font-size:14px;color:var(--ink-2)}
+.proto{display:inline-block;margin:8px 0 14px;padding:4px 9px;border:1px dashed var(--ochre);border-radius:3px;color:var(--ochre)}
+/* top bar */
+.top{border-bottom:1px solid var(--line);background:var(--paper);position:sticky;top:0;z-index:5}
+.topbar{display:flex;justify-content:space-between;align-items:center;gap:20px;padding:12px 28px;flex-wrap:wrap}
+.brand{font-family:"Barlow Condensed",sans-serif;font-weight:700;font-size:26px;text-transform:uppercase;text-decoration:none;letter-spacing:.02em}
+.brand span{color:var(--ochre)}
+nav{display:flex;gap:18px;flex-wrap:wrap}
+nav a{font-family:"Barlow Condensed",sans-serif;font-size:17px;text-transform:uppercase;letter-spacing:.04em;text-decoration:none;color:var(--ink-2);border-bottom:2px solid transparent}
+nav a:hover{color:var(--ochre);border-bottom-color:var(--ochre)}
+nav a.ext{color:var(--ochre)}
+/* hero */
+.hero{padding:40px 0 10px;border-bottom:1px solid var(--line)}
+.hero h1{font-size:clamp(60px,9vw,120px);text-transform:uppercase;font-weight:700}
+.hero h1 span{color:var(--ochre)}
+.hero .lede{max-width:60ch;font-size:19px;color:var(--ink-2);margin:16px 0 10px}
+.hero-meta{margin-bottom:26px}
+.hero-meta a{color:var(--ochre)}
+section{padding:40px 0 8px}
+.sec-head{display:flex;justify-content:space-between;align-items:baseline;gap:20px;border-bottom:2px solid var(--ink);padding-bottom:8px;margin-bottom:22px}
+.sec-head h2{font-size:38px;text-transform:uppercase}
+.sec-head a{text-decoration:none}
+.lede{max-width:64ch;color:var(--ink-2);margin:0 0 22px}
+/* timeline */
+.tl{overflow-x:auto;padding-bottom:8px}
+.tl-inner{min-width:960px;display:grid;grid-template-columns:160px 1fr}
+.tl-years{grid-column:2;display:grid;grid-template-columns:repeat(var(--ny),1fr);border-bottom:1px solid var(--line);margin-bottom:6px}
+.tl-years span{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--ink-3);padding-bottom:6px;font-variant-numeric:tabular-nums}
+.tl-years span:nth-child(even){visibility:hidden}
+.tl-years span:last-child{visibility:visible}
+.track-label{display:flex;flex-direction:column;justify-content:center;padding:10px 12px 10px 0;border-top:1px solid var(--line)}
+.track-label b{font-family:"Barlow Condensed",sans-serif;font-weight:600;font-size:19px;text-transform:uppercase;letter-spacing:.02em}
+.track-label small{color:var(--ink-3);font-size:13px;font-style:italic}
+.track{position:relative;border-top:1px solid var(--line);padding:10px 0;display:grid;grid-template-columns:repeat(var(--ny),1fr);grid-auto-rows:22px;row-gap:5px;grid-auto-flow:dense;background:repeating-linear-gradient(90deg,transparent 0 calc(100%/var(--ny) - 1px),var(--line) calc(100%/var(--ny) - 1px) calc(100%/var(--ny)))}
+.bar{height:22px;border-radius:2px;display:flex;align-items:center;padding:0 8px;color:#fff;background:var(--c);font-family:"Barlow Condensed",sans-serif;font-size:14px;font-weight:600;letter-spacing:.02em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-decoration:none;min-width:0}
+.bar.stub{opacity:.55}
+.bar:hover{filter:brightness(1.15);opacity:1}
+.bar[data-n]::after{content:attr(data-n);margin-left:auto;padding-left:8px;font-family:"IBM Plex Mono",monospace;font-size:11px;font-weight:400;opacity:.85}
+.tl-note{grid-column:1/-1;padding:12px 0 0;color:var(--ink-3);font-size:14px;font-style:italic}
+/* minis */
+.minis{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px}
+.mini{display:block;text-decoration:none;background:var(--card);border:1px solid var(--line);border-top:6px solid var(--c);padding:16px 18px;box-shadow:var(--shadow)}
+.mini b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:28px;font-weight:600;text-transform:uppercase;margin:6px 0 4px;line-height:1}
+.mini em{color:var(--ink-2);font-size:15px}
+.mini:hover{border-color:var(--c)}
+/* route */
+.route{list-style:none;padding:0;margin:0;display:grid;gap:12px}
+.route li{display:grid;grid-template-columns:1fr auto;gap:16px;align-items:center;background:var(--card);border:1px solid var(--line);border-left:8px solid var(--c);padding:14px 18px}
+.route li>a:first-child{text-decoration:none}
+.route b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:26px;text-transform:uppercase;font-weight:600;margin:4px 0}
+.route em{color:var(--ink-2);font-size:15px}
+.route .ars{font-family:"Barlow Condensed",sans-serif;text-transform:uppercase;letter-spacing:.03em;text-decoration:none;color:var(--ochre);white-space:nowrap}
+/* lists */
+.glist{list-style:none;padding:0;margin:0 0 26px;columns:2;column-gap:32px}
+.glist li{break-inside:avoid;padding:5px 0 5px 12px;border-left:4px solid var(--c);margin-bottom:6px}
+.glist a{text-decoration:none}
+.glist a:hover{color:var(--ochre)}
+details{border:1px solid var(--line);background:var(--card);margin:0 0 8px;padding:8px 14px}
+summary{cursor:pointer;font-size:16px}
+summary a{color:var(--ochre)}
+.items{padding-left:0;list-style:none;margin:10px 0 4px}
+.items li{padding:6px 0;border-top:1px solid var(--line)}
+.items .status{color:var(--ink-3)}
+section h2{font-size:30px;text-transform:uppercase;margin:26px 0 10px;border-left:8px solid var(--c,var(--ochre));padding-left:10px}
+.docs,.pers{padding-left:18px;font-size:15px}
+.docs li,.pers li{margin:0 0 5px}
+/* kaart */
+.kaart{padding:34px 0 20px}
+.kaart-head{border-bottom:2px solid var(--ink);padding-bottom:14px;margin-bottom:22px}
+.kaart-head .mono a{text-decoration:none;color:var(--c)}
+.kaart-head h1{font-size:clamp(40px,6vw,72px);text-transform:uppercase;margin:8px 0 6px}
+.kaart-head .sub{font-style:italic;color:var(--ink-2);margin:0;font-size:19px}
+.kaart-grid{display:grid;grid-template-columns:minmax(0,1fr) 280px;gap:36px}
+.kaart-body{max-width:70ch}
+.kaart-body h2{font-size:26px;text-transform:uppercase;margin:28px 0 8px;border-left:8px solid var(--c);padding-left:10px}
+.kaart-body p{margin:0 0 12px}
+.kaart-body blockquote{margin:0 0 10px;padding:6px 12px;border-left:3px solid var(--ochre);background:var(--ochre-soft);font-size:14.5px;color:var(--ink-2)}
+.kaart-body ul{padding-left:20px}
+.kaart-body li{margin:0 0 6px}
+.facts{display:flex;gap:22px;flex-wrap:wrap;padding:12px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-bottom:6px}
+.fact b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:34px;font-weight:600;line-height:1;font-variant-numeric:tabular-nums}
+.fact span{font-size:12.5px;color:var(--ink-3)}
+.kaart-side dl{margin:0;font-size:15px}
+.kaart-side dt{font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);margin-top:12px}
+.kaart-side dd{margin:2px 0 0;color:var(--ink-2)}
+.videos{display:grid;gap:16px}
+.yt{position:relative;padding-top:56.25%;background:var(--paper-2)}
+.yt iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+figure{margin:0}
+figcaption{font-size:13px;color:var(--ink-3);margin-top:4px}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
+.gallery img{width:100%;height:auto;display:block;border:1px solid var(--line)}
+.prose{max-width:70ch}
+.prose h2{font-size:26px;text-transform:uppercase;margin:24px 0 8px}
+footer{margin-top:48px;border-top:1px solid var(--line);padding:22px 0 40px;color:var(--ink-3);font-size:14px}
+footer p{margin:0 0 6px;max-width:90ch}
+:focus-visible{outline:2px solid var(--ochre);outline-offset:2px}
+@media (max-width:760px){.kaart-grid{grid-template-columns:1fr}.glist{columns:1}.route li{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap topbar">
+    <a class="brand" href="../index.html">Formaat <span>1999–2025</span></a>
+    <nav><a href="../index.html">Tijdlijn</a><a href="../route.html">Virgilio's route</a><a href="../thema.html">Thema's</a><a href="../alles.html">Alle activiteiten</a><a href="../bronnen.html">Bronnen</a><a href="../over.html">Over</a><a class="ext" href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal van de joker ↗</a></nav>
+  </div>
+</header>
+<article class="kaart" style="--c:#35607A">
+<div class="wrap">
+<div class="kaart-head">
+  <div class="mono"><a href="../index.html#internationaal">Internationaal</a> · 2009–2011</div>
+  <h1>E-Motive / GTO Maputo</h1>
+  <p class="sub">Omgekeerde ontwikkelingssamenwerking; uitwisseling met het Grupo de Teatro do Oprimido uit Mozambique rond The Bitterest Taboo</p>
+  <span class="mono proto">concept · nog te controleren</span>
+</div>
+<div class="kaart-grid">
+<div class="kaart-body"><div class="facts"><div class="fact"><b>5</b><span>delegatieleden uit Maputo</span></div><div class="fact"><b>6</b><span>dagdelen uitwisseling Rotterdam</span></div><div class="fact"><b>10</b><span>dagdelen training Mozambique</span></div></div><h2>De vraag</h2>
+<p>Kan het Noorden leren van het Zuiden? Dat was het uitgangspunt van E-Motive, het netwerk van Oxfam Novib voor 'omgekeerde ontwikkelingssamenwerking': kennis van organisaties in ontwikkelingslanden naar Nederland halen in plaats van andersom. Formaat kwam in dat netwerk terecht via Outspoken, de eerdere uitwisseling met Jana Sanskriti in India. De volgende vraag lag voor de hand: welke organisatie in het Zuiden werkte met Theater van de Onderdrukten aan thema's waar Nederlandse preventiewerkers ook mee worstelen?</p>
+<h2>Aanpak</h2>
+<p>In 2009-2010 nam Formaat deel aan het effectonderzoek van E-Motive, gepubliceerd in januari 2010, en werd het in juni 2010 lid van de E-Motive netwerkgroep. Tegelijk werd een uitwisseling voorbereid met GTO Maputo, het Grupo de Teatro do Oprimido in Mozambique onder leiding van Alvim Cossa, dat forumtheater inzet rond hiv/aids en de positie van de vrouw.</p>
+<p>De uitwisseling kreeg de naam The Bitterest Taboo en bestond uit twee bezoeken: eerst de Mozambikanen naar Rotterdam, daarna Formaat naar Maputo.</p>
+<h2>Wat er gebeurde</h2>
+<p>Van 18 tot 22 mei 2011 ontving Formaat een vijfkoppige delegatie uit Maputo. Het programma in Rotterdam omvatte een tweedaagse training aan preventiewerkers over het bespreekbaar maken van taboethema's, twee forumvoorstellingen over hiv/aids-preventie en de positie van de vrouw, en een tweedaagse masterclass van Alvim Cossa voor professionals in Participatief Drama. De opkomst lag tussen 60 en 100 procent. De Havenloods Delfshaven deed verslag van de 'Maputo-week'.</p>
+<p>Van 11 tot 17 juli 2011 reisde Luc Opdebeeck naar Mozambique voor een zesdaagse training in het maken en jokeren van forumtheaterstukken, tien dagdelen in totaal. Formaat maakte eind 2011 een evaluatie van het project. In het archief van Formaat duikt GTO Maputo ook in de jaren 2015-2016 weer op als partner.</p>
+<h2>Mensen en partners</h2>
+<p>De uitwisseling werd gedragen door het E-Motivenetwerk van Oxfam Novib. Partner in Mozambique was GTO Maputo, met Alvim Cossa als artistiek leider en trainer. Van de kant van Formaat organiseerden en begeleidden de jokers en medewerkers het programma in Rotterdam; Luc Opdebeeck gaf de training in Maputo. Deelnemers in Nederland waren preventiewerkers, Participatief Drama-professionals en publiek uit Delfshaven; in Mozambique theatermakers van GTO en verwante groepen.</p>
+<h2>Jokerlessen</h2>
+<blockquote>
+<p>Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.</p>
+</blockquote>
+<ul>
+<li><strong>Haal de directheid van het Zuiden op</strong> — GTO Maputo speelt hiv/aids en de positie van de vrouw zonder omwegen; die directheid is precies wat Nederlandse preventiewerkers kunnen gebruiken. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html">Joker-praktijk › netwerk en uitwisseling</a></li>
+<li><strong>Een uitwisseling heeft twee helften</strong> — Bezoek en tegenbezoek in hetzelfde jaar houden de relatie gelijkwaardig; wie alleen ontvangt, leert de helft. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html">Joker-praktijk › netwerk en uitwisseling</a></li>
+<li><strong>Combineer voorstelling, training en masterclass</strong> — Drie vormen in één week bereiken drie publieken: buurt, werkers en vakgenoten. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal › Forumtheater</a></li>
+</ul>
+<h2>Bronnen</h2>
+<ul>
+<li>Formaat jaarverslag 2009-2010, hoofdstuk 4.1 'E-Motivenetwerk' (p. 32)</li>
+<li>Formaat jaarverslag 2010-2011, hoofdstuk 4.1 (p. 32-33)</li>
+<li>E-Motive, effectonderzoek omgekeerde ontwikkelingssamenwerking (januari 2010)</li>
+<li>Flyer 'The Bitterest Taboo – GTO Maputo / masterclass Alvim Cossa' (Stichting Formaat, mei 2011); persbericht The Bitterest Taboo (23 maart 2011)</li>
+<li>Pers: De Havenloods Delfshaven, 11 mei 2011</li>
+</ul><h2>In de pers</h2><ul class="pers"><li><span class="mono">2011-03-23</span> Stichting Formaat — Persbericht The Bitterest Taboo (GTO Maputo)</li><li><span class="mono">2011-05-06</span> Stichting Formaat — Mailing &#x27;Bijzondere week bij Formaat&#x27; (Maputo-week)</li><li><span class="mono">2011-05-11</span> De Havenloods Delfshaven — Maputo-week / The Bitterest Taboo</li></ul><h2>Activiteiten per seizoen</h2><ol class="items"><li id="2009-e-motivenetwerk-en-effectonderzoek-omgekeerde-ontwikkelingssamenwerkin"><span class="mono">2009-2010</span> <b>E-Motivenetwerk en effectonderzoek omgekeerde ontwikkelingssamenwerking</b><br><span class="small">Op basis van het uitwisselingsproject Outspoken met Jana Sanskriti neemt Formaat deel aan het E-Motivenetwerk, gericht op kennisuitwisseling met organisaties in ontwikkelingslanden volgens het principe dat het Noorden van het Zuiden kan leren. Formaat nam deel aan het effectonderzoek van E-Motive, gepubliceerd in januari 2010, en is sinds juni 2010 lid van de E-motive netwerkgroep. Een uitwisseling met GTO Maputo (Mozambique) werd voorbereid voor 2011.</span></li><li id="2011-the-bitterest-taboo-uitwisseling-met-gto-maputo-e-motivenetwerk"><span class="mono">2010-2011</span> <b>The Bitterest Taboo - uitwisseling met GTO Maputo (E-Motivenetwerk)</b><br><span class="small">Uitwisselingsproject binnen het E-Motivenetwerk, gericht op het leren van kennis uit het Zuiden. In mei 2011 ontving Formaat een vijfkoppige delegatie uit Mozambique die een tweedaagse training aan preventiewerkers gaf over taboethema&#x27;s, twee voorstellingen over hiv/aids-preventie en de positie van de vrouw speelde en een tweedaagse masterclass verzorgde. In juli 2011 gaf Luc Opdebeeck in Mozambique een zesdaagse training in het maken en jokeren van Forumtheaterstukken.</span></li></ol></div>
+<aside class="kaart-side"><dl><dt>Plaatsen</dt><dd>Rotterdam, Maputo</dd><dt>Partners</dt><dd>E-Motive (Oxfam Novib), GTO Maputo (Grupo de Teatro do Oprimido), Jana Sanskriti</dd><dt>Thema</dt><dd>internationale uitwisseling, hiv/aids, positie van de vrouw, taboes, jokeropleiding</dd></dl>
+<p class="small">Deze kaart hoort bij het spoor <b>Internationaal</b>. Het <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal van de joker</a> beschrijft de oefeningen en houdingen waarnaar de jokerlessen verwijzen.</p>
+</dl></aside>
+</div></div></article>
+<footer><div class="wrap">
+<p>Formaat 1999–2025 is het werk van Stichting Formaat, Werkplaats voor Participatief Drama (Rotterdam, 1999–2025), en van de jokers, spelers en partners die de projecten droegen. Samengesteld door Luc Opdebeeck.</p>
+<p>Licentie: nog vast te stellen (voorstel: teksten en eigen beeld CC BY-SA 4.0, code MIT). Bronmateriaal: jaarverslagen en projectdocumenten in het Formaat-archief; foto&#x27;s alleen met toestemming; video via YouTube-kanaal Formaat231.</p>
+<p class="mono">Gegenereerd uit <code>data/</code> en <code>kaarten/</code> · <a href="https://github.com/lucopdb-cpu/Formaat-1999-2025">broncode en correcties</a></p>
+</div></footer>
+</body>
+</html>
