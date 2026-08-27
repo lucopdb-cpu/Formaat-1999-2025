@@ -20,7 +20,7 @@ Publiek archief van Stichting Formaat, Werkplaats voor Participatief Drama (Rott
 
 - **Een kaart aanpassen**: bewerk `kaarten/<id>.md`. De kop (tussen `---`) bevat titel, periode, plaatsen, partners, thema's en cijfers; daaronder de zes secties. Zet `status: definitief` als de kaart is gecontroleerd.
 - **Een spoor of projectlijn verplaatsen**: wijzig `spoor` in `data/projectgroepen.json`. Een nieuw spoor: voeg het toe in `data/sporen.json`.
-- **Bronnen op een kaart**: alleen openbare bronnen (jaarverslagen, publicaties, pers, video). Interne stukken die als informatiebron dienden staan in `bronnen-intern/<id>.txt`; die map wordt niet gepubliceerd.
+- **Bronnen op een kaart**: alleen openbare bronnen (jaarverslagen, publicaties, pers, video). Interne stukken die als informatiebron dienden staan buiten de repo, in het Formaat-archief (map _Publicatie/bronnen-intern op de archiefschijf).
 - **De route wijzigen**: `data/route.json` (volgorde, vraag, Arsenaal-link).
 - **Beeld toevoegen**: zet webversies (max. 1600 px) in `docs/beeld/` en vul in `data/media.json` bij de fotoserie het veld `gekozen` met `{"bestand": "...", "bijschrift": "...", "fotograaf": "...", "alt": "..."}`. Alleen beeld dat aan de toestemmingsregel voldoet (zie `data/over.md`).
 - **Een document openbaar maken**: zet in `data/media.json` bij de publicatie `openbaar: true` en `url` (bijvoorbeeld een Zenodo-DOI).

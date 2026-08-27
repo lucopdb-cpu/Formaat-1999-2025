@@ -37,4 +37,4 @@ status: concept
 ## Bronnen
 <opsomming van de gebruikte jaarverslagen/documenten met seizoen, zoals in het veld bron van de items>
 
-<!-- REGEL: In "Bronnen" alleen openbare bronnen: jaarverslagen, Formaat in beeld, nieuwsbrieven (OPDRUK/Under Pressure), gepubliceerde rapporten/boeken/handleidingen, pers, video. Interne stukken (bedrijfsplan, werkplannen, bestuursverslagen, projectopzetten, aanvragen, evaluaties voor financiers, FORMAAT_Historie, CV's, fotoseries) mogen als informatiebron dienen maar horen in bronnen-intern/<id>.txt, niet op de kaart. -->
+<!-- REGEL: In "Bronnen" alleen openbare bronnen: jaarverslagen, Formaat in beeld, nieuwsbrieven (OPDRUK/Under Pressure), gepubliceerde rapporten/boeken/handleidingen, pers, video. Interne stukken (bedrijfsplan, werkplannen, bestuursverslagen, projectopzetten, aanvragen, evaluaties voor financiers, FORMAAT_Historie, CV's, fotoseries) mogen als informatiebron dienen maar horen buiten de repo (archiefschijf, _Publicatie/bronnen-intern), niet op de kaart. -->
