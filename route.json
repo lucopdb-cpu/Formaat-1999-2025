@@ -1,0 +1,58 @@
+[
+ {
+  "halte": 1,
+  "groep": "voor-het-blok",
+  "titel": "Voor het blok (2000)",
+  "vraag": "Wat doe je als joker wanneer een klas liever lacht dan kiest?",
+  "arsenaal": "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/"
+ },
+ {
+  "halte": 2,
+  "groep": "legislatief-theater-programma-wijkgerichte-methodiek",
+  "titel": "De dood in het JUP (1999)",
+  "vraag": "Hoe wordt een wens van bewoners een voorstel aan de gemeente?",
+  "arsenaal": "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/"
+ },
+ {
+  "halte": 3,
+  "groep": "mooi-verhaal",
+  "titel": "Mooi Verhaal (2002)",
+  "vraag": "Welke bescherming heeft een speler nodig als het eigen verhaal het materiaal is?",
+  "arsenaal": "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html"
+ },
+ {
+  "halte": 4,
+  "groep": "theatre-for-development-laos",
+  "titel": "Laos (2004)",
+  "vraag": "Wat neem je mee en wat laat je thuis als gast-joker?",
+  "arsenaal": "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html"
+ },
+ {
+  "halte": 5,
+  "groep": "dunk",
+  "titel": "DUNK (2008)",
+  "vraag": "Wanneer wordt een atelier een theatergroep, en wat verandert er dan voor de joker?",
+  "arsenaal": "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/"
+ },
+ {
+  "halte": 6,
+  "groep": "grassroots-peacebuilding-combatants-for-peace",
+  "titel": "Over de Brug (2014)",
+  "vraag": "Hoe joker je tussen twee groepen die elkaar niet vertrouwen?",
+  "arsenaal": "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/"
+ },
+ {
+  "halte": 7,
+  "groep": "participatiepodium-crooswijk",
+  "titel": "Stadsdialogen Crooswijk (2016)",
+  "vraag": "Wat doe je als het publiek zelf de antagonist speelt?",
+  "arsenaal": "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/"
+ },
+ {
+  "halte": 8,
+  "groep": "shadows-united",
+  "titel": "Shadows United (2023)",
+  "vraag": "Wanneer stapt de joker terug en neemt de brongroep het over?",
+  "arsenaal": "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html"
+ }
+]

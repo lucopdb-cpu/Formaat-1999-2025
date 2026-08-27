@@ -1,0 +1,38 @@
+[
+ {
+  "id": "onderwijs",
+  "naam": "Forumtheater in het onderwijs",
+  "sub": "tournees, 700+ voorstellingen",
+  "kleur": "#B8803C"
+ },
+ {
+  "id": "ateliers",
+  "naam": "Theaterateliers",
+  "sub": "psychiatrie, detentie, ongedocumenteerden",
+  "kleur": "#8A3B3B"
+ },
+ {
+  "id": "wijk",
+  "naam": "Wijk & legislatief theater",
+  "sub": "van Leiden 1999 tot 2DO",
+  "kleur": "#3E6B5A"
+ },
+ {
+  "id": "internationaal",
+  "naam": "Internationaal",
+  "sub": "ITO, uitwisseling, vredeswerk",
+  "kleur": "#35607A"
+ },
+ {
+  "id": "multiplicatie",
+  "naam": "Multiplicatie",
+  "sub": "opleiding, boeken, masterclasses",
+  "kleur": "#6B5A8A"
+ },
+ {
+  "id": "organisatie",
+  "naam": "Organisatie",
+  "sub": "stichting, werkplaats, collectief",
+  "kleur": "#6E6A60"
+ }
+]

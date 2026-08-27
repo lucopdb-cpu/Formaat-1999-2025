@@ -1,0 +1,1503 @@
+[
+ {
+  "id": "organisatie-stichting-formaat",
+  "naam": "Organisatie Stichting Formaat",
+  "spoor": "organisatie",
+  "van": 1999,
+  "tot": 2026,
+  "n": 11,
+  "kaart": false,
+  "titel_kort": "Organisatie Stichting Formaat",
+  "thema": [],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "legislatief-theater-programma-wijkgerichte-methodiek",
+  "naam": "Legislatief Theater-programma (wijkgerichte methodiek)",
+  "spoor": "wijk",
+  "van": 1999,
+  "tot": 2001,
+  "n": 3,
+  "kaart": true,
+  "titel_kort": "Legislatief Theater-programma",
+  "thema": [
+   "wijk"
+  ],
+  "plaatsen": [
+   "Leiden",
+   "Wijchen"
+  ]
+ },
+ {
+  "id": "nieuwsbrief-under-pressure-opdruk",
+  "naam": "Nieuwsbrief Under Pressure / OPDRUK",
+  "spoor": "organisatie",
+  "van": 1999,
+  "tot": 2004,
+  "n": 3,
+  "kaart": false,
+  "titel_kort": "Nieuwsbrief Under Pressure / OPDRUK",
+  "thema": [],
+  "plaatsen": []
+ },
+ {
+  "id": "veni-vidi-vici-tolero-eerste-producties",
+  "naam": "Veni, Vidi, Vici / Tolero (eerste producties)",
+  "spoor": "onderwijs",
+  "van": 1999,
+  "tot": 2001,
+  "n": 4,
+  "kaart": true,
+  "titel_kort": "Veni, Vidi, Vici / Tolero",
+  "thema": [
+   "jongeren",
+   "onderwijs"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "voor-het-blok",
+  "naam": "Voor het blok",
+  "spoor": "onderwijs",
+  "van": 1999,
+  "tot": 2003,
+  "n": 6,
+  "kaart": true,
+  "titel_kort": "Voor het blok",
+  "thema": [
+   "onderwijs",
+   "jongeren",
+   "discriminatie"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "ito-international-theatre-of-the-oppressed-organisation",
+  "naam": "ITO – International Theatre of the Oppressed Organisation",
+  "spoor": "internationaal",
+  "van": 2000,
+  "tot": 2010,
+  "n": 10,
+  "kaart": true,
+  "titel_kort": "ITO",
+  "thema": [],
+  "plaatsen": []
+ },
+ {
+  "id": "methodiekontwikkeling-en-publicaties-vroege-periode",
+  "naam": "Methodiekontwikkeling en publicaties (vroege periode)",
+  "spoor": "multiplicatie",
+  "van": 2000,
+  "tot": 2004,
+  "n": 8,
+  "kaart": false,
+  "titel_kort": "Methodiekontwikkeling (vroeg)",
+  "thema": [],
+  "plaatsen": []
+ },
+ {
+  "id": "slimm",
+  "naam": "Slimm!",
+  "spoor": "onderwijs",
+  "van": 2000,
+  "tot": 2013,
+  "n": 14,
+  "kaart": true,
+  "titel_kort": "Slimm!",
+  "thema": [
+   "jongeren",
+   "detentie"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "opleiding-participatief-drama",
+  "naam": "Opleiding Participatief Drama",
+  "spoor": "multiplicatie",
+  "van": 2000,
+  "tot": 2024,
+  "n": 23,
+  "kaart": true,
+  "titel_kort": "Opleiding Participatief Drama",
+  "thema": [
+   "onderwijs"
+  ],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "internationale-trainingen-en-advisering-vroege-periode",
+  "naam": "Internationale trainingen en advisering (vroege periode)",
+  "spoor": "internationaal",
+  "van": 2001,
+  "tot": 2002,
+  "n": 2,
+  "kaart": false,
+  "titel_kort": "Internationale trainingen (vroeg)",
+  "thema": [],
+  "plaatsen": []
+ },
+ {
+  "id": "geweldmodules",
+  "naam": "Geweldmodules",
+  "spoor": "onderwijs",
+  "van": 2001,
+  "tot": 2002,
+  "n": 1,
+  "kaart": true,
+  "titel_kort": "Geweldmodules",
+  "thema": [
+   "jongeren",
+   "vrede"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "kijkdoos",
+  "naam": "Kijkdoos",
+  "spoor": "ateliers",
+  "van": 2001,
+  "tot": 2003,
+  "n": 2,
+  "kaart": true,
+  "titel_kort": "Kijkdoos",
+  "thema": [
+   "armoede"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "who-cares",
+  "naam": "Who Cares?!",
+  "spoor": "onderwijs",
+  "van": 2001,
+  "tot": 2003,
+  "n": 3,
+  "kaart": true,
+  "titel_kort": "Who Cares?!",
+  "thema": [
+   "jongeren",
+   "zorg"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "workshops-en-trainingen-op-maat",
+  "naam": "Workshops en trainingen op maat",
+  "spoor": "multiplicatie",
+  "van": 2001,
+  "tot": 2024,
+  "n": 42,
+  "kaart": false,
+  "titel_kort": "Workshops en trainingen op maat",
+  "thema": [],
+  "plaatsen": []
+ },
+ {
+  "id": "kop-of-munt-veilig-spel-trainingspad",
+  "naam": "Kop of Munt / Veilig Spel / TrainingsPAD",
+  "spoor": "onderwijs",
+  "van": 2002,
+  "tot": 2008,
+  "n": 12,
+  "kaart": true,
+  "titel_kort": "Kop of Munt / Veilig Spel",
+  "thema": [
+   "sport",
+   "jongeren"
+  ],
+  "plaatsen": [
+   "Zwolle"
+  ]
+ },
+ {
+  "id": "masterclasses-internationale-experts",
+  "naam": "Masterclasses internationale experts",
+  "spoor": "multiplicatie",
+  "van": 2002,
+  "tot": 2024,
+  "n": 13,
+  "kaart": true,
+  "titel_kort": "Masterclasses internationale experts",
+  "thema": [],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "mooi-verhaal",
+  "naam": "Mooi Verhaal",
+  "spoor": "ateliers",
+  "van": 2002,
+  "tot": 2007,
+  "n": 4,
+  "kaart": true,
+  "titel_kort": "Mooi Verhaal",
+  "thema": [
+   "ouderen"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "geweldloosheid-in-beeld",
+  "naam": "Geweldloosheid in beeld",
+  "spoor": "wijk",
+  "van": 2002,
+  "tot": 2003,
+  "n": 2,
+  "kaart": true,
+  "titel_kort": "Geweldloosheid in beeld",
+  "thema": [
+   "vrede",
+   "jongeren",
+   "wijk"
+  ],
+  "plaatsen": [
+   "Rotterdam-Kralingen",
+   "Waalwijk"
+  ]
+ },
+ {
+  "id": "internationale-advisering-amnesty-international-barefoot-drama-leaders",
+  "naam": "Internationale advisering (Amnesty International / Barefoot Drama Leaders)",
+  "spoor": "internationaal",
+  "van": 2002,
+  "tot": 2004,
+  "n": 2,
+  "kaart": false,
+  "titel_kort": "Advisering Amnesty / Barefoot Drama",
+  "thema": [],
+  "plaatsen": []
+ },
+ {
+  "id": "palet-transvaal",
+  "naam": "Palet Transvaal",
+  "spoor": "wijk",
+  "van": 2002,
+  "tot": 2003,
+  "n": 1,
+  "kaart": true,
+  "titel_kort": "Palet Transvaal",
+  "thema": [
+   "wijk"
+  ],
+  "plaatsen": [
+   "Den Haag-Transvaal"
+  ]
+ },
+ {
+  "id": "wagenziek-trek-die-lijn",
+  "naam": "Wagenziek / Trek die Lijn",
+  "spoor": "onderwijs",
+  "van": 2002,
+  "tot": 2006,
+  "n": 6,
+  "kaart": true,
+  "titel_kort": "Wagenziek / Trek die Lijn",
+  "thema": [
+   "jongeren",
+   "onderwijs"
+  ],
+  "plaatsen": [
+   "Den Haag"
+  ]
+ },
+ {
+  "id": "theateratelier-leiden",
+  "naam": "Theateratelier Leiden",
+  "spoor": "ateliers",
+  "van": 2003,
+  "tot": 2004,
+  "n": 3,
+  "kaart": true,
+  "titel_kort": "Theateratelier Leiden",
+  "thema": [
+   "psychiatrie"
+  ],
+  "plaatsen": [
+   "Leiden"
+  ]
+ },
+ {
+  "id": "anders-willen-anders-doen-vieren",
+  "naam": "Anders Willen? Anders Doen! / Vieren",
+  "spoor": "onderwijs",
+  "van": 2003,
+  "tot": 2006,
+  "n": 5,
+  "kaart": true,
+  "titel_kort": "Anders Willen? Anders Doen! / Vieren",
+  "thema": [
+   "jongeren",
+   "onderwijs"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "marsdijk-een-beeld-van-een-wijk",
+  "naam": "Marsdijk, een beeld van een wijk",
+  "spoor": "wijk",
+  "van": 2003,
+  "tot": 2003,
+  "n": 1,
+  "kaart": true,
+  "titel_kort": "Marsdijk, een beeld van een wijk",
+  "thema": [
+   "wijk"
+  ],
+  "plaatsen": [
+   "Assen-Marsdijk"
+  ]
+ },
+ {
+  "id": "cardboard-citizens-uitwisseling",
+  "naam": "Cardboard Citizens (uitwisseling)",
+  "spoor": "internationaal",
+  "van": 2004,
+  "tot": 2007,
+  "n": 1,
+  "kaart": true,
+  "titel_kort": "Uitwisseling Cardboard Citizens",
+  "thema": [
+   "armoede"
+  ],
+  "plaatsen": [
+   "Londen"
+  ]
+ },
+ {
+  "id": "de-mens-in-de-hoofdrol",
+  "naam": "De Mens in de Hoofdrol",
+  "spoor": "ateliers",
+  "van": 2004,
+  "tot": 2013,
+  "n": 5,
+  "kaart": true,
+  "titel_kort": "De Mens in de Hoofdrol",
+  "thema": [
+   "zorg",
+   "psychiatrie"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "jong-oud-in-de-wijk",
+  "naam": "Jong & Oud in de wijk",
+  "spoor": "wijk",
+  "van": 2004,
+  "tot": 2007,
+  "n": 9,
+  "kaart": true,
+  "titel_kort": "Jong & Oud in de wijk",
+  "thema": [
+   "wijk",
+   "jongeren",
+   "ouderen"
+  ],
+  "plaatsen": [
+   "Amsterdam-Osdorp"
+  ]
+ },
+ {
+  "id": "theatre-for-development-laos",
+  "naam": "Theatre for Development Laos",
+  "spoor": "internationaal",
+  "van": 2004,
+  "tot": 2005,
+  "n": 2,
+  "kaart": true,
+  "titel_kort": "Theatre for Development Laos",
+  "thema": [],
+  "plaatsen": [
+   "Laos"
+  ]
+ },
+ {
+  "id": "the-power-of-dialogue",
+  "naam": "The Power of Dialogue",
+  "spoor": "internationaal",
+  "van": 2005,
+  "tot": 2013,
+  "n": 7,
+  "kaart": true,
+  "titel_kort": "The Power of Dialogue",
+  "thema": [
+   "vrede"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "blagg-transitions-in-prison",
+  "naam": "Blagg! – Transitions in Prison",
+  "spoor": "internationaal",
+  "van": 2006,
+  "tot": 2007,
+  "n": 2,
+  "kaart": true,
+  "titel_kort": "Blagg! – Transitions in Prison",
+  "thema": [
+   "detentie"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "theateratelier-haarlem-spotvogel",
+  "naam": "Theateratelier Haarlem / Spotvogel",
+  "spoor": "ateliers",
+  "van": 2006,
+  "tot": 2010,
+  "n": 5,
+  "kaart": true,
+  "titel_kort": "Theateratelier Haarlem / Spotvogel",
+  "thema": [
+   "psychiatrie"
+  ],
+  "plaatsen": [
+   "Haarlem"
+  ]
+ },
+ {
+  "id": "home-away",
+  "naam": "Home & Away",
+  "spoor": "onderwijs",
+  "van": 2007,
+  "tot": 2009,
+  "n": 4,
+  "kaart": true,
+  "titel_kort": "Home & Away",
+  "thema": [
+   "jongeren",
+   "discriminatie"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "werkplaats-voor-participatief-drama-opening-en-debatten",
+  "naam": "Werkplaats voor Participatief Drama (opening en debatten)",
+  "spoor": "organisatie",
+  "van": 2007,
+  "tot": 2008,
+  "n": 3,
+  "kaart": true,
+  "titel_kort": "Opening Werkplaats Participatief Drama",
+  "thema": [],
+  "plaatsen": [
+   "Rotterdam-Delfshaven"
+  ]
+ },
+ {
+  "id": "gastlessen-en-gastcolleges",
+  "naam": "Gastlessen en gastcolleges",
+  "spoor": "multiplicatie",
+  "van": 2007,
+  "tot": 2012,
+  "n": 5,
+  "kaart": false,
+  "titel_kort": "Gastlessen en gastcolleges",
+  "thema": [
+   "onderwijs"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "publicaties-en-dvd-s",
+  "naam": "Publicaties en dvd's",
+  "spoor": "organisatie",
+  "van": 2007,
+  "tot": 2011,
+  "n": 2,
+  "kaart": false,
+  "titel_kort": "Publicaties en dvd's",
+  "thema": [],
+  "plaatsen": []
+ },
+ {
+  "id": "theateratelier-rotterdam-delfshaven",
+  "naam": "Theateratelier Rotterdam-Delfshaven",
+  "spoor": "ateliers",
+  "van": 2007,
+  "tot": 2013,
+  "n": 6,
+  "kaart": true,
+  "titel_kort": "Theateratelier Delfshaven",
+  "thema": [
+   "psychiatrie"
+  ],
+  "plaatsen": [
+   "Rotterdam-Delfshaven"
+  ]
+ },
+ {
+  "id": "theaterateliers-empowerment-jeugd",
+  "naam": "Theaterateliers Empowerment (jeugd)",
+  "spoor": "ateliers",
+  "van": 2007,
+  "tot": 2009,
+  "n": 4,
+  "kaart": true,
+  "titel_kort": "Theaterateliers Empowerment",
+  "thema": [
+   "jongeren"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "dunk",
+  "naam": "DUNK",
+  "spoor": "ateliers",
+  "van": 2008,
+  "tot": 2015,
+  "n": 11,
+  "kaart": true,
+  "titel_kort": "DUNK",
+  "thema": [
+   "psychiatrie"
+  ],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "jana-sanskriti-outspoken",
+  "naam": "Jana Sanskriti / Outspoken",
+  "spoor": "internationaal",
+  "van": 2008,
+  "tot": 2016,
+  "n": 5,
+  "kaart": true,
+  "titel_kort": "Jana Sanskriti / Outspoken",
+  "thema": [],
+  "plaatsen": [
+   "India"
+  ]
+ },
+ {
+  "id": "agenda-delfshaven-2020",
+  "naam": "Agenda Delfshaven 2020",
+  "spoor": "wijk",
+  "van": 2008,
+  "tot": 2010,
+  "n": 2,
+  "kaart": true,
+  "titel_kort": "Agenda Delfshaven 2020",
+  "thema": [
+   "wijk"
+  ],
+  "plaatsen": [
+   "Rotterdam-Delfshaven"
+  ]
+ },
+ {
+  "id": "buurtatelier-delfshaven",
+  "naam": "Buurtatelier Delfshaven",
+  "spoor": "wijk",
+  "van": 2008,
+  "tot": 2014,
+  "n": 6,
+  "kaart": true,
+  "titel_kort": "Buurtatelier Delfshaven",
+  "thema": [
+   "wijk"
+  ],
+  "plaatsen": [
+   "Rotterdam-Delfshaven"
+  ]
+ },
+ {
+  "id": "evenementen-werkplaats-open-dag-gastvoorstellingen",
+  "naam": "Evenementen Werkplaats (open dag, gastvoorstellingen)",
+  "spoor": "organisatie",
+  "van": 2008,
+  "tot": 2009,
+  "n": 2,
+  "kaart": false,
+  "titel_kort": "Evenementen Werkplaats",
+  "thema": [],
+  "plaatsen": [
+   "Rotterdam-Delfshaven"
+  ]
+ },
+ {
+  "id": "jokerlaboratorium",
+  "naam": "Jokerlaboratorium",
+  "spoor": "multiplicatie",
+  "van": 2008,
+  "tot": 2009,
+  "n": 1,
+  "kaart": false,
+  "titel_kort": "Jokerlaboratorium",
+  "thema": [],
+  "plaatsen": []
+ },
+ {
+  "id": "filmfestival-week-van-de-psychiatrie",
+  "naam": "Filmfestival Week van de Psychiatrie",
+  "spoor": "ateliers",
+  "van": 2009,
+  "tot": 2010,
+  "n": 2,
+  "kaart": true,
+  "titel_kort": "Filmfestival Week van de Psychiatrie",
+  "thema": [
+   "psychiatrie"
+  ],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "kort-lontje",
+  "naam": "Kort Lontje",
+  "spoor": "wijk",
+  "van": 2009,
+  "tot": 2010,
+  "n": 2,
+  "kaart": true,
+  "titel_kort": "Kort Lontje",
+  "thema": [
+   "jongeren",
+   "wijk"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "under-pressure",
+  "naam": "Under Pressure",
+  "spoor": "onderwijs",
+  "van": 2009,
+  "tot": 2014,
+  "n": 6,
+  "kaart": true,
+  "titel_kort": "Under Pressure",
+  "thema": [
+   "jongeren",
+   "onderwijs"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "circus-pa-meijer",
+  "naam": "Circus Pa Meijer",
+  "spoor": "wijk",
+  "van": 2009,
+  "tot": 2010,
+  "n": 1,
+  "kaart": true,
+  "titel_kort": "Circus Pa Meijer",
+  "thema": [
+   "wijk"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "e-motive-uitwisselingen-gto-maputo",
+  "naam": "E-Motive uitwisselingen (GTO Maputo)",
+  "spoor": "internationaal",
+  "van": 2009,
+  "tot": 2011,
+  "n": 2,
+  "kaart": true,
+  "titel_kort": "E-Motive / GTO Maputo",
+  "thema": [],
+  "plaatsen": [
+   "Maputo"
+  ]
+ },
+ {
+  "id": "het-gelijk-van-oosterhout",
+  "naam": "Het Gelijk van Oosterhout",
+  "spoor": "wijk",
+  "van": 2009,
+  "tot": 2010,
+  "n": 1,
+  "kaart": true,
+  "titel_kort": "Het Gelijk van Oosterhout",
+  "thema": [
+   "wijk"
+  ],
+  "plaatsen": [
+   "Oosterhout"
+  ]
+ },
+ {
+  "id": "ondersteuning-stichting-stuk-antwerpen",
+  "naam": "Ondersteuning Stichting STUK Antwerpen",
+  "spoor": "internationaal",
+  "van": 2009,
+  "tot": 2010,
+  "n": 1,
+  "kaart": false,
+  "titel_kort": "Ondersteuning STUK Antwerpen",
+  "thema": [],
+  "plaatsen": [
+   "Antwerpen"
+  ]
+ },
+ {
+  "id": "strevelswijk-the-last-resort",
+  "naam": "Strevelswijk – The Last Resort",
+  "spoor": "wijk",
+  "van": 2009,
+  "tot": 2010,
+  "n": 1,
+  "kaart": true,
+  "titel_kort": "Strevelswijk – The Last Resort",
+  "thema": [
+   "wijk"
+  ],
+  "plaatsen": [
+   "Rotterdam-Zuid"
+  ]
+ },
+ {
+  "id": "pax-christi-vlaanderen-aramir",
+  "naam": "Pax Christi Vlaanderen / Aramir",
+  "spoor": "internationaal",
+  "van": 2010,
+  "tot": 2011,
+  "n": 3,
+  "kaart": true,
+  "titel_kort": "Pax Christi Vlaanderen / Aramir",
+  "thema": [
+   "vrede"
+  ],
+  "plaatsen": [
+   "Vlaanderen"
+  ]
+ },
+ {
+  "id": "perron-4",
+  "naam": "Perron 4",
+  "spoor": "onderwijs",
+  "van": 2010,
+  "tot": 2011,
+  "n": 2,
+  "kaart": true,
+  "titel_kort": "Perron 4",
+  "thema": [
+   "jongeren",
+   "onderwijs"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "module-pd-hogeschool-rotterdam",
+  "naam": "Module PD Hogeschool Rotterdam",
+  "spoor": "multiplicatie",
+  "van": 2010,
+  "tot": 2020,
+  "n": 7,
+  "kaart": true,
+  "titel_kort": "Module PD Hogeschool Rotterdam",
+  "thema": [
+   "onderwijs"
+  ],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "theateratelier-rotterdam-zuid-bloemhof",
+  "naam": "Theateratelier Rotterdam-Zuid / Bloemhof",
+  "spoor": "ateliers",
+  "van": 2010,
+  "tot": 2020,
+  "n": 11,
+  "kaart": true,
+  "titel_kort": "Theateratelier Zuid / Bloemhof",
+  "thema": [
+   "psychiatrie",
+   "wijk"
+  ],
+  "plaatsen": [
+   "Rotterdam-Zuid"
+  ]
+ },
+ {
+  "id": "studio-sterk",
+  "naam": "Studio Sterk",
+  "spoor": "ateliers",
+  "van": 2011,
+  "tot": 2015,
+  "n": 6,
+  "kaart": true,
+  "titel_kort": "Studio Sterk",
+  "thema": [
+   "verstandelijke beperking"
+  ],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "effectiviteitsonderzoek-theaterateliers-databank-movisie",
+  "naam": "Effectiviteitsonderzoek theaterateliers / databank Movisie",
+  "spoor": "multiplicatie",
+  "van": 2011,
+  "tot": 2014,
+  "n": 4,
+  "kaart": true,
+  "titel_kort": "Effectiviteitsonderzoek theaterateliers",
+  "thema": [
+   "psychiatrie"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "jongeren-en-meidenatelier-delfshaven",
+  "naam": "Jongeren- en Meidenatelier Delfshaven",
+  "spoor": "wijk",
+  "van": 2011,
+  "tot": 2012,
+  "n": 2,
+  "kaart": true,
+  "titel_kort": "Jongeren- en Meidenatelier Delfshaven",
+  "thema": [
+   "jongeren",
+   "gender",
+   "wijk"
+  ],
+  "plaatsen": [
+   "Rotterdam-Delfshaven"
+  ]
+ },
+ {
+  "id": "module-sociale-kracht-community-arts-learning-lab",
+  "naam": "Module Sociale Kracht – Community Arts Learning Lab",
+  "spoor": "multiplicatie",
+  "van": 2011,
+  "tot": 2012,
+  "n": 1,
+  "kaart": true,
+  "titel_kort": "Module Sociale Kracht (CALL)",
+  "thema": [
+   "onderwijs"
+  ],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "seniorenatelier-delfshaven",
+  "naam": "Seniorenatelier Delfshaven",
+  "spoor": "wijk",
+  "van": 2012,
+  "tot": 2015,
+  "n": 4,
+  "kaart": true,
+  "titel_kort": "Seniorenatelier Delfshaven",
+  "thema": [
+   "ouderen",
+   "wijk"
+  ],
+  "plaatsen": [
+   "Rotterdam-Delfshaven"
+  ]
+ },
+ {
+  "id": "boek-een-scene-schoppen",
+  "naam": "Boek 'Een scène schoppen'",
+  "spoor": "multiplicatie",
+  "van": 2012,
+  "tot": 2015,
+  "n": 3,
+  "kaart": true,
+  "titel_kort": "Boek 'Een scène schoppen'",
+  "thema": [],
+  "plaatsen": []
+ },
+ {
+  "id": "conferentie-laurea-university-finland",
+  "naam": "Conferentie Laurea University (Finland)",
+  "spoor": "internationaal",
+  "van": 2012,
+  "tot": 2012,
+  "n": 1,
+  "kaart": false,
+  "titel_kort": "Conferentie Laurea (Finland)",
+  "thema": [],
+  "plaatsen": [
+   "Finland"
+  ]
+ },
+ {
+  "id": "grassroots-peacebuilding-combatants-for-peace",
+  "naam": "Grassroots Peacebuilding / Combatants for Peace",
+  "spoor": "internationaal",
+  "van": 2012,
+  "tot": 2017,
+  "n": 6,
+  "kaart": true,
+  "titel_kort": "Combatants for Peace",
+  "thema": [
+   "vrede"
+  ],
+  "plaatsen": [
+   "Israël/Palestina"
+  ]
+ },
+ {
+  "id": "opleiding-pd-coaches-pameijer",
+  "naam": "Opleiding PD-coaches Pameijer",
+  "spoor": "multiplicatie",
+  "van": 2012,
+  "tot": 2015,
+  "n": 5,
+  "kaart": true,
+  "titel_kort": "Opleiding PD-coaches Pameijer",
+  "thema": [
+   "zorg",
+   "verstandelijke beperking"
+  ],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "workshops-do-school-hamburg",
+  "naam": "Workshops DO School Hamburg",
+  "spoor": "internationaal",
+  "van": 2012,
+  "tot": 2013,
+  "n": 1,
+  "kaart": false,
+  "titel_kort": "Workshops DO School Hamburg",
+  "thema": [],
+  "plaatsen": [
+   "Hamburg"
+  ]
+ },
+ {
+  "id": "legislatief-theater-van-abbemuseum",
+  "naam": "Legislatief Theater Van Abbemuseum",
+  "spoor": "wijk",
+  "van": 2013,
+  "tot": 2013,
+  "n": 1,
+  "kaart": false,
+  "titel_kort": "Legislatief Theater Van Abbemuseum",
+  "thema": [],
+  "plaatsen": [
+   "Eindhoven"
+  ]
+ },
+ {
+  "id": "stadsatelier",
+  "naam": "Stadsatelier",
+  "spoor": "wijk",
+  "van": 2013,
+  "tot": 2024,
+  "n": 13,
+  "kaart": true,
+  "titel_kort": "Stadsatelier",
+  "thema": [
+   "wijk"
+  ],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "theateratelier-pauluskerk",
+  "naam": "Theateratelier Pauluskerk",
+  "spoor": "ateliers",
+  "van": 2013,
+  "tot": 2023,
+  "n": 12,
+  "kaart": true,
+  "titel_kort": "Theateratelier Pauluskerk",
+  "thema": [
+   "ongedocumenteerden",
+   "armoede"
+  ],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "scenes-uit-de-stad",
+  "naam": "Scenes uit de stad",
+  "spoor": "wijk",
+  "van": 2014,
+  "tot": 2014,
+  "n": 1,
+  "kaart": true,
+  "titel_kort": "Scenes uit de stad",
+  "thema": [
+   "wijk"
+  ],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "aan-de-slag",
+  "naam": "Aan de Slag",
+  "spoor": "wijk",
+  "van": 2014,
+  "tot": 2019,
+  "n": 3,
+  "kaart": true,
+  "titel_kort": "Aan de Slag",
+  "thema": [
+   "armoede"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "bouwsteen-participatief-drama",
+  "naam": "Bouwsteen Participatief Drama",
+  "spoor": "multiplicatie",
+  "van": 2014,
+  "tot": 2015,
+  "n": 1,
+  "kaart": false,
+  "titel_kort": "Bouwsteen Participatief Drama",
+  "thema": [],
+  "plaatsen": []
+ },
+ {
+  "id": "masterclass-iom-beiroet",
+  "naam": "Masterclass IOM Beiroet",
+  "spoor": "internationaal",
+  "van": 2015,
+  "tot": 2015,
+  "n": 1,
+  "kaart": false,
+  "titel_kort": "Masterclass IOM Beiroet",
+  "thema": [
+   "ongedocumenteerden"
+  ],
+  "plaatsen": [
+   "Beiroet"
+  ]
+ },
+ {
+  "id": "international-theatre-of-the-oppressed-festival-rotterdam",
+  "naam": "International Theatre of the Oppressed Festival Rotterdam",
+  "spoor": "internationaal",
+  "van": 2015,
+  "tot": 2015,
+  "n": 1,
+  "kaart": true,
+  "titel_kort": "TO Festival Rotterdam",
+  "thema": [],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "participatiepodium-rotterdam-couleur-locale",
+  "naam": "Participatiepodium Rotterdam / Couleur Locale",
+  "spoor": "wijk",
+  "van": 2015,
+  "tot": 2025,
+  "n": 11,
+  "kaart": true,
+  "titel_kort": "Participatiepodium Rotterdam",
+  "thema": [
+   "wijk"
+  ],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "stadsdialogen-rotterdam-open-mind-radicalisering-eenzaamheid",
+  "naam": "Stadsdialogen Rotterdam (Open Mind / radicalisering / eenzaamheid)",
+  "spoor": "wijk",
+  "van": 2015,
+  "tot": 2020,
+  "n": 7,
+  "kaart": true,
+  "titel_kort": "Stadsdialogen Rotterdam",
+  "thema": [
+   "discriminatie",
+   "ouderen"
+  ],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "leerwerkgemeenschap-cultural-agents-for-social-change-hogeschool-rotterdam",
+  "naam": "Leerwerkgemeenschap Cultural Agents for Social Change (Hogeschool Rotterdam)",
+  "spoor": "multiplicatie",
+  "van": 2016,
+  "tot": 2018,
+  "n": 2,
+  "kaart": true,
+  "titel_kort": "Leerwerkgemeenschap Cultural Agents",
+  "thema": [
+   "onderwijs"
+  ],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "participatiepodium-crooswijk",
+  "naam": "Participatiepodium Crooswijk",
+  "spoor": "wijk",
+  "van": 2016,
+  "tot": 2020,
+  "n": 11,
+  "kaart": true,
+  "titel_kort": "Participatiepodium Crooswijk",
+  "thema": [
+   "wijk"
+  ],
+  "plaatsen": [
+   "Rotterdam-Crooswijk"
+  ]
+ },
+ {
+  "id": "studio-maia-maia-s-aan-de-maas",
+  "naam": "Studio Maia / Maia's aan de Maas",
+  "spoor": "ateliers",
+  "van": 2016,
+  "tot": 2025,
+  "n": 19,
+  "kaart": true,
+  "titel_kort": "Studio Maia / Maia's aan de Maas",
+  "thema": [
+   "psychiatrie",
+   "gender"
+  ],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "aller-oogen-zijn-gericht-op-kwatta",
+  "naam": "Aller oogen zijn gericht op Kwatta",
+  "spoor": "wijk",
+  "van": 2017,
+  "tot": 2017,
+  "n": 1,
+  "kaart": true,
+  "titel_kort": "Aller oogen zijn gericht op Kwatta",
+  "thema": [
+   "discriminatie"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "expertmeetings-en-trainingen-ministerie-venj-nctv",
+  "naam": "Expertmeetings en trainingen ministerie VenJ / NCTV",
+  "spoor": "multiplicatie",
+  "van": 2017,
+  "tot": 2018,
+  "n": 3,
+  "kaart": false,
+  "titel_kort": "Expertmeetings VenJ / NCTV",
+  "thema": [],
+  "plaatsen": []
+ },
+ {
+  "id": "niet-pluis-training",
+  "naam": "Niet Pluis-training",
+  "spoor": "multiplicatie",
+  "van": 2017,
+  "tot": 2017,
+  "n": 1,
+  "kaart": false,
+  "titel_kort": "Niet Pluis-training",
+  "thema": [
+   "zorg"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "open-space",
+  "naam": "Open Space",
+  "spoor": "wijk",
+  "van": 2017,
+  "tot": 2025,
+  "n": 8,
+  "kaart": true,
+  "titel_kort": "Open Space",
+  "thema": [
+   "wijk"
+  ],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "onderzoek-autoritatieve-allianties",
+  "naam": "Onderzoek Autoritatieve Allianties",
+  "spoor": "multiplicatie",
+  "van": 2018,
+  "tot": 2021,
+  "n": 1,
+  "kaart": false,
+  "titel_kort": "Onderzoek Autoritatieve Allianties",
+  "thema": [
+   "jongeren"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "social-impact-by-design-delfshaven-cooperatie",
+  "naam": "Social Impact by Design / Delfshaven Coöperatie",
+  "spoor": "wijk",
+  "van": 2018,
+  "tot": 2020,
+  "n": 1,
+  "kaart": true,
+  "titel_kort": "Social Impact by Design",
+  "thema": [
+   "wijk"
+  ],
+  "plaatsen": [
+   "Rotterdam-Delfshaven"
+  ]
+ },
+ {
+  "id": "jongerenprojecten-delfshaven-np-jongeren-what-s-up-doc",
+  "naam": "Jongerenprojecten Delfshaven (NP Jongeren / What's Up Doc!)",
+  "spoor": "wijk",
+  "van": 2019,
+  "tot": 2019,
+  "n": 2,
+  "kaart": true,
+  "titel_kort": "Jongerenprojecten Delfshaven",
+  "thema": [
+   "jongeren",
+   "wijk"
+  ],
+  "plaatsen": [
+   "Rotterdam-Delfshaven"
+  ]
+ },
+ {
+  "id": "theateratelier-royaal-zorg-den-haag",
+  "naam": "Theateratelier Royaal Zorg Den Haag",
+  "spoor": "ateliers",
+  "van": 2019,
+  "tot": 2019,
+  "n": 1,
+  "kaart": false,
+  "titel_kort": "Theateratelier Royaal Zorg",
+  "thema": [
+   "zorg"
+  ],
+  "plaatsen": [
+   "Den Haag"
+  ]
+ },
+ {
+  "id": "uitwisseling-kava-boedapest",
+  "naam": "Uitwisseling Káva (Boedapest)",
+  "spoor": "internationaal",
+  "van": 2019,
+  "tot": 2019,
+  "n": 1,
+  "kaart": false,
+  "titel_kort": "Uitwisseling Káva (Boedapest)",
+  "thema": [],
+  "plaatsen": [
+   "Boedapest"
+  ]
+ },
+ {
+  "id": "theateratelier-voor-verbinding-rozenburg",
+  "naam": "Theateratelier voor verbinding Rozenburg",
+  "spoor": "ateliers",
+  "van": 2019,
+  "tot": 2019,
+  "n": 1,
+  "kaart": false,
+  "titel_kort": "Theateratelier Rozenburg",
+  "thema": [
+   "wijk"
+  ],
+  "plaatsen": [
+   "Rozenburg"
+  ]
+ },
+ {
+  "id": "twinning-suriname",
+  "naam": "Twinning Suriname",
+  "spoor": "internationaal",
+  "van": 2019,
+  "tot": 2021,
+  "n": 2,
+  "kaart": true,
+  "titel_kort": "Twinning Suriname",
+  "thema": [],
+  "plaatsen": [
+   "Suriname"
+  ]
+ },
+ {
+  "id": "van-verhaal-naar-actie-dordrecht-kromhout-kasperspad",
+  "naam": "Van verhaal naar actie Dordrecht (Kromhout/Kasperspad)",
+  "spoor": "wijk",
+  "van": 2019,
+  "tot": 2020,
+  "n": 1,
+  "kaart": true,
+  "titel_kort": "Van verhaal naar actie Dordrecht",
+  "thema": [
+   "wijk"
+  ],
+  "plaatsen": [
+   "Dordrecht"
+  ]
+ },
+ {
+  "id": "icaf-2020",
+  "naam": "ICAF 2020",
+  "spoor": "internationaal",
+  "van": 2020,
+  "tot": 2020,
+  "n": 1,
+  "kaart": false,
+  "titel_kort": "ICAF 2020",
+  "thema": [],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "forumtheaterproductie-straateconomie-utrecht",
+  "naam": "Forumtheaterproductie straateconomie Utrecht",
+  "spoor": "wijk",
+  "van": 2020,
+  "tot": 2020,
+  "n": 1,
+  "kaart": true,
+  "titel_kort": "Straateconomie Utrecht",
+  "thema": [
+   "jongeren",
+   "armoede"
+  ],
+  "plaatsen": [
+   "Utrecht"
+  ]
+ },
+ {
+  "id": "parade-van-maskers",
+  "naam": "Parade van Maskers",
+  "spoor": "organisatie",
+  "van": 2020,
+  "tot": 2020,
+  "n": 1,
+  "kaart": false,
+  "titel_kort": "Parade van Maskers",
+  "thema": [],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "gender-matters-europe-for-citizens",
+  "naam": "Gender Matters (Europe for Citizens)",
+  "spoor": "internationaal",
+  "van": 2021,
+  "tot": 2022,
+  "n": 1,
+  "kaart": true,
+  "titel_kort": "Gender Matters",
+  "thema": [
+   "gender"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "2do",
+  "naam": "2DO",
+  "spoor": "wijk",
+  "van": 2021,
+  "tot": 2025,
+  "n": 13,
+  "kaart": true,
+  "titel_kort": "2DO",
+  "thema": [
+   "wijk",
+   "jongeren"
+  ],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "erasmus-legislative-theatre-4-you-th-breaking-the-rules",
+  "naam": "Erasmus+ Legislative Theatre 4 You(th) / Breaking the Rules",
+  "spoor": "internationaal",
+  "van": 2021,
+  "tot": 2025,
+  "n": 4,
+  "kaart": true,
+  "titel_kort": "Erasmus+ Legislative Theatre 4 You(th)",
+  "thema": [
+   "jongeren"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "shadows-united",
+  "naam": "Shadows United",
+  "spoor": "ateliers",
+  "van": 2021,
+  "tot": 2025,
+  "n": 19,
+  "kaart": true,
+  "titel_kort": "Shadows United",
+  "thema": [
+   "ongedocumenteerden"
+  ],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ },
+ {
+  "id": "kansfonds-project",
+  "naam": "Kansfonds-project",
+  "spoor": "organisatie",
+  "van": 2022,
+  "tot": 2023,
+  "n": 1,
+  "kaart": false,
+  "titel_kort": "Kansfonds-project",
+  "thema": [
+   "armoede"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "manifest-uitdaging-in-de-zorg",
+  "naam": "Manifest Uitdaging in de Zorg",
+  "spoor": "organisatie",
+  "van": 2023,
+  "tot": 2023,
+  "n": 1,
+  "kaart": false,
+  "titel_kort": "Manifest Uitdaging in de Zorg",
+  "thema": [
+   "zorg"
+  ],
+  "plaatsen": []
+ },
+ {
+  "id": "publieke-interventies-en-dialogen-in-de-wijk",
+  "naam": "Publieke interventies en dialogen in de wijk",
+  "spoor": "wijk",
+  "van": 2023,
+  "tot": 2023,
+  "n": 1,
+  "kaart": false,
+  "titel_kort": "Publieke interventies in de wijk",
+  "thema": [
+   "wijk"
+  ],
+  "plaatsen": [
+   "Rotterdam"
+  ]
+ }
+]

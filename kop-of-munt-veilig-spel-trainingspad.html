@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="nl" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kop of Munt / Veilig Spel · Formaat 1999–2025</title>
+<meta name="description" content="Forumtheater in de sportkantine en de training TrainingsPAD voor het amateurvoetbal">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>:root{--paper:#F6F3EC;--paper-2:#EDE8DD;--ink:#1C1915;--ink-2:#4A443B;--ink-3:#7A7267;--line:#D9D2C4;--ochre:#B8803C;--ochre-soft:#EBD9BD;--card:#FFFDF8;--shadow:0 1px 0 rgba(28,25,21,.06),0 8px 24px -16px rgba(28,25,21,.25)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#16140F;--paper-2:#1F1C15;--ink:#EFE9DD;--ink-2:#C9C1B2;--ink-3:#8F877A;--line:#37322A;--ochre:#D39A50;--ochre-soft:#3A2E1B;--card:#1D1A14;--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8)}}
+:root[data-theme="dark"]{--paper:#16140F;--paper-2:#1F1C15;--ink:#EFE9DD;--ink-2:#C9C1B2;--ink-3:#8F877A;--line:#37322A;--ochre:#D39A50;--ochre-soft:#3A2E1B;--card:#1D1A14;--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8)}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Source Serif 4",Georgia,"Times New Roman",serif;font-size:17px;line-height:1.55}
+a{color:inherit}
+.wrap{max-width:1180px;margin:0 auto;padding:0 28px}
+h1,h2,h3,.disp{font-family:"Barlow Condensed","Arial Narrow",Arial,sans-serif;font-weight:600;letter-spacing:.005em;line-height:1;text-wrap:balance;margin:0}
+.mono{font-family:"IBM Plex Mono","Courier New",monospace;font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
+.small{font-size:14px;color:var(--ink-2)}
+.proto{display:inline-block;margin:8px 0 14px;padding:4px 9px;border:1px dashed var(--ochre);border-radius:3px;color:var(--ochre)}
+/* top bar */
+.top{border-bottom:1px solid var(--line);background:var(--paper);position:sticky;top:0;z-index:5}
+.bar{display:flex;justify-content:space-between;align-items:center;gap:20px;padding:12px 28px;flex-wrap:wrap}
+.brand{font-family:"Barlow Condensed",sans-serif;font-weight:700;font-size:26px;text-transform:uppercase;text-decoration:none;letter-spacing:.02em}
+.brand span{color:var(--ochre)}
+nav{display:flex;gap:18px;flex-wrap:wrap}
+nav a{font-family:"Barlow Condensed",sans-serif;font-size:17px;text-transform:uppercase;letter-spacing:.04em;text-decoration:none;color:var(--ink-2);border-bottom:2px solid transparent}
+nav a:hover{color:var(--ochre);border-bottom-color:var(--ochre)}
+nav a.ext{color:var(--ochre)}
+/* hero */
+.hero{padding:40px 0 10px;border-bottom:1px solid var(--line)}
+.hero h1{font-size:clamp(60px,9vw,120px);text-transform:uppercase;font-weight:700}
+.hero h1 span{color:var(--ochre)}
+.hero .lede{max-width:60ch;font-size:19px;color:var(--ink-2);margin:16px 0 10px}
+.hero-meta{margin-bottom:26px}
+.hero-meta a{color:var(--ochre)}
+section{padding:40px 0 8px}
+.sec-head{display:flex;justify-content:space-between;align-items:baseline;gap:20px;border-bottom:2px solid var(--ink);padding-bottom:8px;margin-bottom:22px}
+.sec-head h2{font-size:38px;text-transform:uppercase}
+.sec-head a{text-decoration:none}
+.lede{max-width:64ch;color:var(--ink-2);margin:0 0 22px}
+/* timeline */
+.tl{overflow-x:auto;padding-bottom:8px}
+.tl-inner{min-width:960px;display:grid;grid-template-columns:160px 1fr}
+.tl-years{grid-column:2;display:grid;grid-template-columns:repeat(var(--ny),1fr);border-bottom:1px solid var(--line);margin-bottom:6px}
+.tl-years span{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--ink-3);padding-bottom:6px;font-variant-numeric:tabular-nums}
+.tl-years span:nth-child(even){visibility:hidden}
+.tl-years span:last-child{visibility:visible}
+.track-label{display:flex;flex-direction:column;justify-content:center;padding:10px 12px 10px 0;border-top:1px solid var(--line)}
+.track-label b{font-family:"Barlow Condensed",sans-serif;font-weight:600;font-size:19px;text-transform:uppercase;letter-spacing:.02em}
+.track-label small{color:var(--ink-3);font-size:13px;font-style:italic}
+.track{position:relative;border-top:1px solid var(--line);padding:10px 0;display:grid;grid-template-columns:repeat(var(--ny),1fr);grid-auto-rows:22px;row-gap:5px;grid-auto-flow:dense;background:repeating-linear-gradient(90deg,transparent 0 calc(100%/var(--ny) - 1px),var(--line) calc(100%/var(--ny) - 1px) calc(100%/var(--ny)))}
+.bar{height:22px;border-radius:2px;display:flex;align-items:center;padding:0 8px;color:#fff;background:var(--c);font-family:"Barlow Condensed",sans-serif;font-size:14px;font-weight:600;letter-spacing:.02em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-decoration:none;min-width:0}
+.bar.stub{opacity:.55}
+.bar:hover{filter:brightness(1.15);opacity:1}
+.bar[data-n]::after{content:attr(data-n);margin-left:auto;padding-left:8px;font-family:"IBM Plex Mono",monospace;font-size:11px;font-weight:400;opacity:.85}
+.tl-note{grid-column:1/-1;padding:12px 0 0;color:var(--ink-3);font-size:14px;font-style:italic}
+/* minis */
+.minis{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px}
+.mini{display:block;text-decoration:none;background:var(--card);border:1px solid var(--line);border-top:6px solid var(--c);padding:16px 18px;box-shadow:var(--shadow)}
+.mini b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:28px;font-weight:600;text-transform:uppercase;margin:6px 0 4px;line-height:1}
+.mini em{color:var(--ink-2);font-size:15px}
+.mini:hover{border-color:var(--c)}
+/* route */
+.route{list-style:none;padding:0;margin:0;display:grid;gap:12px}
+.route li{display:grid;grid-template-columns:1fr auto;gap:16px;align-items:center;background:var(--card);border:1px solid var(--line);border-left:8px solid var(--c);padding:14px 18px}
+.route li>a:first-child{text-decoration:none}
+.route b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:26px;text-transform:uppercase;font-weight:600;margin:4px 0}
+.route em{color:var(--ink-2);font-size:15px}
+.route .ars{font-family:"Barlow Condensed",sans-serif;text-transform:uppercase;letter-spacing:.03em;text-decoration:none;color:var(--ochre);white-space:nowrap}
+/* lists */
+.glist{list-style:none;padding:0;margin:0 0 26px;columns:2;column-gap:32px}
+.glist li{break-inside:avoid;padding:5px 0 5px 12px;border-left:4px solid var(--c);margin-bottom:6px}
+.glist a{text-decoration:none}
+.glist a:hover{color:var(--ochre)}
+details{border:1px solid var(--line);background:var(--card);margin:0 0 8px;padding:8px 14px}
+summary{cursor:pointer;font-size:16px}
+summary a{color:var(--ochre)}
+.items{padding-left:0;list-style:none;margin:10px 0 4px}
+.items li{padding:6px 0;border-top:1px solid var(--line)}
+.items .status{color:var(--ink-3)}
+section h2{font-size:30px;text-transform:uppercase;margin:26px 0 10px;border-left:8px solid var(--c,var(--ochre));padding-left:10px}
+.docs,.pers{padding-left:18px;font-size:15px}
+.docs li,.pers li{margin:0 0 5px}
+/* kaart */
+.kaart{padding:34px 0 20px}
+.kaart-head{border-bottom:2px solid var(--ink);padding-bottom:14px;margin-bottom:22px}
+.kaart-head .mono a{text-decoration:none;color:var(--c)}
+.kaart-head h1{font-size:clamp(40px,6vw,72px);text-transform:uppercase;margin:8px 0 6px}
+.kaart-head .sub{font-style:italic;color:var(--ink-2);margin:0;font-size:19px}
+.kaart-grid{display:grid;grid-template-columns:minmax(0,1fr) 280px;gap:36px}
+.kaart-body{max-width:70ch}
+.kaart-body h2{font-size:26px;text-transform:uppercase;margin:28px 0 8px;border-left:8px solid var(--c);padding-left:10px}
+.kaart-body p{margin:0 0 12px}
+.kaart-body blockquote{margin:0 0 10px;padding:6px 12px;border-left:3px solid var(--ochre);background:var(--ochre-soft);font-size:14.5px;color:var(--ink-2)}
+.kaart-body ul{padding-left:20px}
+.kaart-body li{margin:0 0 6px}
+.facts{display:flex;gap:22px;flex-wrap:wrap;padding:12px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-bottom:6px}
+.fact b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:34px;font-weight:600;line-height:1;font-variant-numeric:tabular-nums}
+.fact span{font-size:12.5px;color:var(--ink-3)}
+.kaart-side dl{margin:0;font-size:15px}
+.kaart-side dt{font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);margin-top:12px}
+.kaart-side dd{margin:2px 0 0;color:var(--ink-2)}
+.videos{display:grid;gap:16px}
+.yt{position:relative;padding-top:56.25%;background:var(--paper-2)}
+.yt iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+figure{margin:0}
+figcaption{font-size:13px;color:var(--ink-3);margin-top:4px}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
+.gallery img{width:100%;height:auto;display:block;border:1px solid var(--line)}
+.prose{max-width:70ch}
+.prose h2{font-size:26px;text-transform:uppercase;margin:24px 0 8px}
+footer{margin-top:48px;border-top:1px solid var(--line);padding:22px 0 40px;color:var(--ink-3);font-size:14px}
+footer p{margin:0 0 6px;max-width:90ch}
+:focus-visible{outline:2px solid var(--ochre);outline-offset:2px}
+@media (max-width:760px){.kaart-grid{grid-template-columns:1fr}.glist{columns:1}.route li{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap bar">
+    <a class="brand" href="../index.html">Formaat <span>1999–2025</span></a>
+    <nav><a href="../index.html">Tijdlijn</a><a href="../route.html">Virgilio's route</a><a href="../thema.html">Thema's</a><a href="../alles.html">Alle activiteiten</a><a href="../bronnen.html">Bronnen</a><a href="../over.html">Over</a><a class="ext" href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal van de joker ↗</a></nav>
+  </div>
+</header>
+<article class="kaart" style="--c:#B8803C">
+<div class="wrap">
+<div class="kaart-head">
+  <div class="mono"><a href="../index.html#onderwijs">Forumtheater in het onderwijs</a> · 2002–2008</div>
+  <h1>Kop of Munt / Veilig Spel</h1>
+  <p class="sub">Forumtheater in de sportkantine en de training TrainingsPAD voor het amateurvoetbal</p>
+  <span class="mono proto">concept · nog te controleren</span>
+</div>
+<div class="kaart-grid">
+<div class="kaart-body"><div class="facts"><div class="fact"><b>13</b><span>voorstellingen Kop of Munt 2003</span></div><div class="fact"><b>bijna 100</b><span>verenigingen bereikt in drie jaar</span></div><div class="fact"><b>ruim 500 (ca. 35 verenigingen)</b><span>deelnemers KNVB-voorstellingen 2004</span></div><div class="fact"><b>bijna 200</b><span>getrainde verenigingsbegeleiders 2006-2008</span></div></div><h2>De vraag</h2>
+<p>Langs de lijn van het amateurvoetbal ging het begin deze eeuw vaak mis: verbaal geweld tegen scheidsrechters, ruziënde ouders, vernielingen in kleedkamers. Tegelijk vergrijsde het vrijwilligerskader en verkleurde het ledenbestand. De KNVB zette Waarden &amp; Normentrajecten op, het SportCode Platform voerde campagne voor sportiviteit en respect. De vraag aan Formaat, al vanaf 2000 in voorbereiding: kan geweldpreventie in de sport ook via theater, op de plek waar het gebeurt, de kantine?</p>
+<h2>Aanpak</h2>
+<p>Veilig Spel kende drie onderdelen: workshops voor jeugdspelers, methodiekoverdracht aan trainers en begeleiders, en een forumtheaterstuk voor de vereniging als geheel. Dat stuk werd Kop of Munt, na een half jaar research bij verenigingen, gemeenten en bonden. Het vertelt het verhaal van de fictieve VV VMDB ("Vooruit Met Die Bal"), waar de B1 promoveert en vervolgens alles misgaat: sjoemelen om het kampioenschap, ouders die niet willen rijden, geschreeuw langs de lijn en een bestuur dat een normen-en-waardencommissie instelt. Hier werd de Morele Dilemma Discussiemethode voor het eerst bij volwassenen ingezet.</p>
+<p>Vanaf 2004 kreeg het werk het format "Modules Veilig Spel": een ingekort stuk, met ruimte voor situaties die kaderleden zelf aandroegen en die ter plekke werden geïmproviseerd en bespeeld. De methodiek werd vastgelegd in het handboek TrainingsPAD (Training Sport en Participatief Drama).</p>
+<h2>Wat er gebeurde</h2>
+<p>In het voorjaar van 2002 begon Veilig Spel met pilotworkshops voor de jeugd van VV Roodenburg in Leiden. Kop of Munt ging op 27 februari 2003 in première bij VV LenS in Den Haag en speelde tot eind mei in volle kantines in Utrecht, Rotterdam en Den Haag: dertien voorstellingen, acht afgelastingen. In april 2003 volgden drie workshops bij CSV '28 in Zwolle. Verenigingen meldden een week later een positiever klimaat. Een effectonderzoek van de Universiteit van Amsterdam en het Kohnstamm Instituut (november 2003) vond kleine maar positieve effecten op prosociaal handelen; de haalbaarheidsstudie "Jeugdsport &amp; Morele Socialisatie" toonde dat die effecten het sterkst buiten de vereniging optraden.</p>
+<p>In 2004 programmeerde de KNVB twaalf module-voorstellingen in Amsterdam, Den Haag en Rotterdam voor ruim 500 kaderleden van zo'n 35 verenigingen; bijna een op de vijf aanwezigen kwam op het podium. Het handboek TrainingsPAD verscheen in augustus 2004, en in december werd Kop of Munt opgenomen als een van 37 good practices in het boek "Education through Sport" van het Mulier Instituut. Seizoen 2004-2005 bracht acht voorstellingen voor circa dertig verenigingen, met in april 2005 een terugkeer naar de kantine van VV Roodenburg, waar het begon. In oktober 2005 ontving VV Hekelingen in theater De Stoep in Spijkenisse voor 200 leden het certificaat Normen &amp; Waarden; daar presenteerde Formaat het werkboekje "TrainingsPAD – Participatief Drama en Sport" aan NOC*NSF.</p>
+<p>Daarna verschoof het werk naar overdracht: twee cursussen Trainingspad op het KNVB-opleidingscentrum in Zeist (2006-2007, elk circa 25 verenigingsbegeleiders), vier workshops Waarden &amp; Normen op het Bondsbureau (2007-2008) en een slotsessie met circa vijftig deelnemers in november 2008. In drie jaar waren bijna honderd verenigingen bereikt en tussen 2006 en 2008 bijna 200 verenigingsbegeleiders getraind.</p>
+<h2>Mensen en partners</h2>
+<p>De KNVB (districten West 1 en West 2, project Grotestedenbeleid en Tijd voor Sport) was de belangrijkste partner, met NOC*NSF, de KNHB, het SportCode Platform, NISB, Sportraad Overijssel en Platform Breedtesport Zwolle. Financiers waren VSB-Fonds, Fonds 1818, de Provincie Noord-Holland en de gemeenten Amsterdam, Utrecht, Den Haag en Rotterdam. Luc Opdebeeck schreef het artikel "Heads or Tails" voor Education through Sport. Spelers en kaderleden blijven ongenoemd.</p>
+<h2>Jokerlessen</h2>
+<blockquote>
+<p>Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.</p>
+</blockquote>
+<ul>
+<li><strong>Speel waar het conflict woont</strong> — Een kantine vol kaderleden is een ander forum dan een theaterzaal; de joker gebruikt de vertrouwde plek om de drempel naar het podium te verlagen. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal › Forumtheater</a></li>
+<li><strong>Laat het publiek de scène aanleveren</strong> — De modules van 2004 improviseerden situaties die bestuurders zelf inbrachten; een kort vast stuk plus open ruimte haalde een op de vijf aanwezigen op de vloer. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html">Joker-praktijk › Improvisatie op aanvraag</a></li>
+<li><strong>Van voorstelling naar handboek naar cursus</strong> — Kop of Munt eindigde als TrainingsPAD in handen van tweehonderd verenigingsbegeleiders; overdracht is het eigenlijke eindproduct. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html">Joker-praktijk › Multiplicatie</a></li>
+</ul>
+<h2>Bronnen</h2>
+<ul>
+<li>Jaarverslag 2001-2002, p.16, p.39</li>
+<li>Jaarverslag 2002-2003, Veilig spel/Kop of Munt p.18-19, Statistiek p.36, Partners p.37</li>
+<li>Jaarverslag 2003-2004, Veilig Spel p.24-25, Evaluatie WerkPAD p.30, Partners p.43, Literatuurlijst p.48</li>
+<li>Jaarverslag 2004-2005 definitief, hoofdstuk 2 "Veilig Spel – Plezier en Respect in het amateurvoetbal" p.24-25, hoofdstuk 3 "WerkPAD" p.34</li>
+<li>Jaarverslag 2005-2006 definitief, hoofdstuk 2 "Veilig Spel: Plezier en respect in het amateurvoetbal" p.22</li>
+<li>Formaat jaarverslag 06-07, 3.3 "Overige cursussen – Trainingspad" p.28</li>
+<li>Formaat JV 0708, hoofdstuk 2.3 p.25; Formaat jaarverslag 08-09, hoofdstuk 3.4 p.33</li>
+<li>Publicaties: Verslag Veilig Spel (2003); Onderzoek Kop of Munt (Kohnstamm Instituut/UvA, 2003); haalbaarheidsstudie Jeugdsport &amp; Morele Socialisatie (2003, ISBN 90-6813-736-0); Reader Trainingspad (Formaat i.s.m. KNVB, 2005); "Heads or Tails" in Education through Sport (Mulier Instituut/Arko Sports Media, 2004/2005)</li>
+</ul><h2>Activiteiten per seizoen</h2><ol class="items"><li id="2002-veilig-spel-pilotworkshops-jeugdvoetballers-vv-roodenburg-leiden"><span class="mono">2001-2002</span> <b>Veilig Spel – pilotworkshops jeugdvoetballers VV Roodenburg Leiden</b><br><span class="small">Als eerste stap van het project Veilig Spel (geweldpreventie in de sport via theatermethoden) organiseerde Formaat in het voorjaar van 2002 twee workshops met de jeugdspelers van VV Roodenburg in Leiden; een derde volgde na de zomer. Het verslag van de eerste workshop op de website wekte landelijke belangstelling. Na bijna twee jaar voorbereiding kon het project in juni 2002 als pilot doorgaan, met als onderdelen workshops voor jeugdspelers, methodiekoverdracht aan trainers en elftalbegeleiders en een forumtheaterstuk voor de vereniging als geheel (werktitel Kop of Munt).</span></li><li id="2002-kop-of-munt"><span class="mono">2002-2003</span> <b>Kop of Munt</b><br><span class="small">Eerste Forumtheatervoorstelling over waarden en normen en conflicten in de sportvereniging, na een half jaar research bij verenigingen, gemeenten en sportbonden. De première vond plaats op 27 februari 2003 bij voetbalvereniging LenS in Den Haag; de voorstellingen werden grotendeels in volle clubkantines gespeeld als onderdeel van de Waarden &amp; Normentrajecten van de KNVB. Thema&#x27;s waren onder meer gedrag tegenover scheidsrechters, het vergrijzende vrijwilligerskader en het verkleurende ledenbestand.</span></li><li id="2002-workshops-veilig-spel-zwolle"><span class="mono">2002-2003</span> <b>Workshops Veilig Spel (Zwolle)</b><br><span class="small">Workshops over waarden en normen in de sportvereniging, uitgevoerd in Zwolle in samenwerking met het Platform Breedtesport en voetbalvereniging CSV &#x27;28, parallel aan de voorstelling Kop of Munt.</span></li><li id="2003-onderzoek-effecten-kop-of-munt-uva-kohnstamm-instituut"><span class="mono">2002-2003</span> <b>Onderzoek effecten Kop of Munt (UvA / Kohnstamm Instituut)</b><br><span class="small">Wetenschappelijk onderzoek naar de invloed van de voorstelling Kop of Munt op het moreel redeneren en de denk- en handelingspatronen van deelnemende jeugdspelers. Het rapport van het Kohnstamm Instituut verscheen in november 2003 en wees kleine maar positieve effecten uit op het prosociaal handelen.</span></li><li id="2004-trainingspad-handboek-sport-en-participatief-drama"><span class="mono">2003-2004</span> <b>Trainingspad (handboek sport en participatief drama)</b><br><span class="small">Handleiding voor de Training Sport en Participatief Drama, een methode om participatief drama in de sport te gebruiken. Het handboek kwam in juni 2004 gereed, verscheen in augustus 2004 en werd in oktober 2004 aan de sportwereld aangeboden.</span></li><li id="2004-veilig-spel-knvb-voorstellingen"><span class="mono">2003-2004</span> <b>Veilig Spel (KNVB-voorstellingen)</b><br><span class="small">Vervolg op Kop of Munt in een nieuw concept: het gespeelde stuk werd ingekort en er kwam meer ruimte voor inbreng van het publiek. In de eerste helft van 2004 programmeerde de KNVB twaalf voorstellingen in voetbalkantines. Veelbesproken thema&#x27;s waren verbaal geweld langs de lijn, vernielingen in kleedkamers, sanctiebeleid en werving van vrijwilligers.</span></li><li id="2004-publicatie-education-through-sport-artikel-over-veilig-spel-kop-of-mun"><span class="mono">2004-2005</span> <b>Publicatie &#x27;Education through Sport&#x27; – artikel over Veilig Spel / Kop of Munt</b><br><span class="small">In december 2004 verscheen het boek Education through Sport (Mulier Instituut/Arko Sports Media) met 37 good practices, waaronder een artikel over de voorstelling Kop of Munt, in 2003 onderdeel van het project Veilig Spel. Het artikel was te downloaden via de website van Formaat.</span></li><li id="2004-veilig-spel"><span class="mono">2004-2005</span> <b>Veilig Spel</b><br><span class="small">Forumtheatervoorstelling over het wel en wee van de fictieve voetbalvereniging Altijd Voor De Winst, onderdeel van de Plezier &amp; Respect-trajecten van de KNVB voor amateurverenigingen. Kernthema&#x27;s dit seizoen: afstemming tussen bestuur en vereniging, het vinden van vrijwilligers en verbaal geweld langs de lijn. Memorabel was de terugkeer in april 2005 naar de kantine van VV Roodenburg in Leiden, waar het project vijf jaar eerder begon. Het project werd opgenomen als good practice in het boek Education through Sport.</span></li><li id="2005-veilig-spel-afsluitende-workshops-en-presentatie-trainingspad"><span class="mono">2005-2006</span> <b>Veilig Spel (afsluitende workshops) en presentatie TrainingsPAD</b><br><span class="small">In 2005-2006 vonden de laatste workshops van Veilig Spel plaats in het kader van de Normen &amp; Waardentrajecten van de KNVB. Bijzonder was het optreden in theater De Stoep in Spijkenisse in oktober 2005, waar voetbalvereniging Hekelingen voor 200 leden het certificaat Normen &amp; Waarden ontving. Bij die gelegenheid presenteerde Formaat het werkboekje &#x27;TrainingsPAD – Participatief Drama en Sport&#x27; aan het NOC*NSF.</span></li><li id="2006-trainingspad-cursus-sport-en-participatief-drama-knvb"><span class="mono">2006-2007</span> <b>Trainingspad – cursus Sport en Participatief Drama (KNVB)</b><br><span class="small">Op het KNVB-opleidingscentrum in Zeist vond twee keer de cursus Trainingspad (Training Sport en Participatief Drama) plaats voor verenigingsbegeleiders uit het project Tijd voor Sport. Trainingspad was in 2005 het product van het project Veilig Spel. De KNVB wilde in het volgende seizoen minimaal twee en mogelijk vier vervolgcursussen programmeren.</span></li><li id="2007-workshops-waarden-normen-knvb-tijd-voor-sport"><span class="mono">2007-2008</span> <b>Workshops Waarden &amp; Normen KNVB (Tijd voor Sport)</b><br><span class="small">Vier workshops rond waarden en normen, gebaseerd op de Morele Dilemma Discussiemethode en het boekje TrainingSPAD (2004), voor verenigingsondersteuners die via de KNVB worden geschoold. Doel: besturen van amateurverenigingen toerusten om met name allochtone ouders beter te bereiken en de sportvereniging tot een plek te maken waar de samenleving mede wordt gemaakt.</span></li><li id="2008-trainingspad-slotsessie-overdrachtstraject-knvb"><span class="mono">2008-2009</span> <b>TrainingSPAD: slotsessie overdrachtstraject KNVB</b><br><span class="small">In november 2008 vond de laatste sessie plaats van het overdrachtstraject van de TrainingSPAD (Training Sport en Participatief Drama), ontwikkeld in het kader van het project Waarden en Normen van NOC*NSF. In december 2008 volgde nog een workshop Beeldentheater over waarden en normen in de sport op een studiedag sportfacilities.</span></li></ol></div>
+<aside class="kaart-side"><dl><dt>Plaatsen</dt><dd>Leiden, Den Haag, Rotterdam, Utrecht, Amsterdam, Zwolle, Heemstede, Spijkenisse, Zeist</dd><dt>Partners</dt><dd>KNVB, KNHB, SportCode Platform, NOC*NSF, NISB, Universiteit van Amsterdam / Kohnstamm Instituut, Sportraad Overijssel, Platform Breedtesport Zwolle, VSB-Fonds, Fonds 1818, Provincie Noord-Holland, gemeenten Amsterdam, Utrecht, Den Haag en Rotterdam</dd><dt>Thema</dt><dd>sport, jongeren, waarden en normen, vrijwilligers</dd></dl>
+<p class="small">Deze kaart hoort bij het spoor <b>Forumtheater in het onderwijs</b>. Het <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal van de joker</a> beschrijft de oefeningen en houdingen waarnaar de jokerlessen verwijzen.</p>
+</dl></aside>
+</div></div></article>
+<footer><div class="wrap">
+<p>Formaat 1999–2025 is het werk van Stichting Formaat, Werkplaats voor Participatief Drama (Rotterdam, 1999–2025), en van de jokers, spelers en partners die de projecten droegen. Samengesteld door Luc Opdebeeck.</p>
+<p>Licentie: nog vast te stellen (voorstel: teksten en eigen beeld CC BY-SA 4.0, code MIT). Bronmateriaal: jaarverslagen en projectdocumenten in het Formaat-archief; foto&#x27;s alleen met toestemming; video via YouTube-kanaal Formaat231.</p>
+<p class="mono">Gegenereerd uit <code>data/</code> en <code>kaarten/</code> · <a href="https://github.com/">broncode en correcties</a></p>
+</div></footer>
+</body>
+</html>
