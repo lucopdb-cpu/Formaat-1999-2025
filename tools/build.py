@@ -16,6 +16,7 @@ sporen = json.load(open(D('data/sporen.json')))
 groepen = json.load(open(D('data/projectgroepen.json')))
 projecten = json.load(open(D('data/projecten.json')))
 route = json.load(open(D('data/route.json')))
+organisatie = json.load(open(D('data/organisatie.json')))
 media = json.load(open(D('data/media.json')))
 site = json.load(open(D('data/site.json')))
 
@@ -49,7 +50,7 @@ CSS = open(D('tools/site.css'), encoding='utf-8').read()
 
 def page(title, body, depth=0, desc=''):
     rel = '../' * depth
-    nav = ''.join(f'<a href="{rel}{h}">{t}</a>' for h, t in [('index.html', 'Tijdlijn'), ('route.html', "Virgilio's route"), ('thema.html', "Thema's"), ('alles.html', 'Alle activiteiten'), ('bronnen.html', 'Bronnen'), ('over.html', 'Over')])
+    nav = ''.join(f'<a href="{rel}{h}">{t}</a>' for h, t in [('index.html', 'Tijdlijn'), ('route.html', "Virgilio's route"), ('thema.html', "Thema's"), ('organisatie.html', 'De organisatie'), ('alles.html', 'Alle activiteiten'), ('bronnen.html', 'Bronnen'), ('over.html', 'Over')])
     return f'''<!doctype html>
 <html lang="nl" data-theme="light">
 <head>
@@ -88,6 +89,7 @@ def bar(g, depth=0):
 
 def tijdlijn(depth=0):
     years = ''.join(f'<span>{y}</span>' for y in range(Y0, Y1 + 1))
+    band = fasenband(depth)
     rows = ''
     for s in sporen:
         gs = sorted([g for g in groepen if g['spoor'] == s['id']], key=lambda g: (g['van'], -g['n']))
@@ -96,9 +98,82 @@ def tijdlijn(depth=0):
         rows += f'<div class="track-label"><b>{esc(s["naam"])}</b><small>{esc(s["sub"])}</small></div>'
         rows += f'<div class="track" style="--c:{s["kleur"]}">' + ''.join(bar(g, depth) for g in gs) + '</div>'
     return f'''<div class="tl"><div class="tl-inner" style="--ny:{NY}">
-<div></div><div class="tl-years">{years}</div>{rows}
+<div></div><div class="tl-years">{years}</div>{band}{rows}
 <div class="tl-note">Elke balk is een projectlijn; de lengte is de looptijd, het cijfer het aantal activiteiten in de inventaris. Lichte balken hebben nog geen eigen kaart en verwijzen naar de index.</div>
 </div></div>'''
+
+def fasenband(depth=0, link=True):
+    cells = ''
+    for f in organisatie['fasen']:
+        c0 = max(1, f['van'] - Y0 + 1)
+        c1 = min(NY + 1, f['tot'] - Y0 + 1)
+        if c1 <= c0:
+            c1 = c0 + 1
+        href = f'{"../"*depth}organisatie.html#{f["id"]}'
+        cells += f'<a class="fase" style="grid-column:{c0}/{c1}" href="{href}" title="{f["van"]}–{f["tot"]} · {esc(f["titel"])}">{esc(f["titel"])}</a>'
+    return f'<div class="track-label"><b>De organisatie</b><small><a href="{"../"*depth}organisatie.html">de bestuurlijke lijn →</a></small></div><div class="fasen">{cells}</div>'
+
+def org_chart(key, titel, kleur_l, kleur_d, unit='× 1.000 euro'):
+    rows = organisatie['financien']['reeks']
+    vals = [r[key] for r in rows]
+    lo, hi = min(0, min(vals)), max(vals)
+    W, H, PAD_L, PAD_B, PAD_T = 960, 260, 46, 34, 16
+    n = len(rows); bw = (W - PAD_L - 8) / n
+    def y(v):
+        return PAD_T + (H - PAD_T - PAD_B) * (1 - (v - lo) / (hi - lo))
+    y0 = y(0)
+    bars = ''
+    peak = vals.index(max(vals)); last = n - 1
+    for i, r in enumerate(rows):
+        v = r[key]
+        x = PAD_L + i * bw
+        top, hgt = (y(v), y0 - y(v)) if v >= 0 else (y0, y(v) - y0)
+        hgt = max(hgt, 1)
+        tip = f'{r["p"]}: {v:,.0f} euro'.replace(',', '.') + (f' — {r["note"]}' if r['note'] else '')
+        bars += f'<rect class="dbar" x="{x+1:.1f}" y="{top:.1f}" width="{bw-2:.1f}" height="{hgt:.1f}" rx="2"><title>{esc(tip)}</title></rect>'
+        if i in (peak, last, 0):
+            lab_y = top - 5 if v >= 0 else top + hgt + 12
+            bars += f'<text class="dlab" x="{x+bw/2:.1f}" y="{lab_y:.1f}" text-anchor="middle">{round(v/1000)}</text>'
+    ticks = ''
+    for i, r in enumerate(rows):
+        if i % 4 == 0 or i == n - 1:
+            ticks += f'<text class="dtick" x="{PAD_L+i*bw+bw/2:.1f}" y="{H-8}" text-anchor="middle">{esc(r["p"][:4])}</text>'
+    gl = ''
+    step = 100000 if hi > 300000 else 50000
+    v = step
+    while v <= hi:
+        gl += f'<line class="dgrid" x1="{PAD_L}" x2="{W-8}" y1="{y(v):.1f}" y2="{y(v):.1f}"/><text class="dtick" x="{PAD_L-6}" y="{y(v)+3:.1f}" text-anchor="end">{v//1000}</text>'
+        v += step
+    zero = f'<line class="dzero" x1="{PAD_L}" x2="{W-8}" y1="{y0:.1f}" y2="{y0:.1f}"/>'
+    tbl = '<details class="dtable"><summary>Cijfers als tabel</summary><div style="overflow-x:auto"><table><tr><th>Boekjaar</th><th>Omzet</th><th>Resultaat</th><th>Eigen vermogen</th><th>Gebeurtenis</th></tr>' + ''.join(
+        f'<tr><td>{esc(r["p"])}</td><td>{r["omzet"]:,}</td><td>{r["resultaat"]:,}</td><td>{r["vermogen"]:,}</td><td>{esc(r["note"])}</td></tr>'.replace(',', '.') for r in rows) + '</table></div></details>'
+    return f'''<figure class="dfig" style="--dl:{kleur_l};--dd:{kleur_d}">
+<figcaption><b>{esc(titel)}</b> <span class="mono">{esc(unit)}</span></figcaption>
+<svg viewBox="0 0 {W} {H}" role="img" aria-label="{esc(titel)} per boekjaar, 1999 tot 2025">{gl}{zero}{bars}{ticks}</svg>
+{tbl if key == 'omzet' else ''}</figure>'''
+
+def organisatie_page():
+    fasen_html = ''
+    for f in organisatie['fasen']:
+        fasen_html += f'<section class="orgfase" id="{f["id"]}"><h2><span class="mono">{f["van"]}–{f["tot"]}</span> {esc(f["titel"])}</h2><p>{esc(f["tekst"])}</p></section>'
+    def dl(items, k1, k2):
+        return '<dl class="orgdl">' + ''.join(f'<dt>{esc(i[k1])}</dt><dd>{esc(i[k2])}</dd>' for i in items) + '</dl>'
+    body = f'''<section><div class="wrap">
+<div class="sec-head"><h2>De organisatie</h2><span class="mono">1999–2026 · zeven fasen</span></div>
+<p class="lede">{esc(organisatie['intro'])}</p>
+<div class="tl"><div class="tl-inner" style="--ny:{NY}"><div></div><div class="tl-years">{''.join(f'<span>{y}</span>' for y in range(Y0, Y1+1))}</div>{fasenband(0, link=True)}</div></div>
+{fasen_html}
+<div class="orggrid">
+<div><h2>Besturing</h2>{dl(organisatie['besturing'], 'periode', 'vorm')}</div>
+<div><h2>Huisvesting</h2>{dl(organisatie['huisvesting'], 'periode', 'plek')}</div>
+</div>
+<h2>Geld</h2>
+<p class="lede">{esc(organisatie['financien']['toelichting'])}</p>
+{org_chart('omzet', 'Omzet, fondsen en subsidies', '#B8803C', '#C08438')}
+{org_chart('vermogen', 'Eigen vermogen', '#1F6F9B', '#3F9BD8')}
+<h2>Bronnen</h2><ul class="docs">{''.join(f'<li>{esc(b)}</li>' for b in organisatie['bronnen'])}</ul>
+</div></section>'''
+    return page('De organisatie', body, desc='De bestuurlijke lijn van Stichting Formaat: rechtsvorm, besturing, huisvesting en financiën, 1999-2026.')
 
 def facts_html(fm):
     cs = fm.get('cijfers') or []
@@ -253,6 +328,7 @@ def main():
     open(os.path.join(OUT, 'alles.html'), 'w', encoding='utf-8').write(alles_page())
     open(os.path.join(OUT, 'bronnen.html'), 'w', encoding='utf-8').write(bronnen_page())
     open(os.path.join(OUT, 'over.html'), 'w', encoding='utf-8').write(over_page())
+    open(os.path.join(OUT, 'organisatie.html'), 'w', encoding='utf-8').write(organisatie_page())
     for gid in kaarten:
         if gid not in G:
             print('LET OP: kaart zonder projectgroep:', gid); continue

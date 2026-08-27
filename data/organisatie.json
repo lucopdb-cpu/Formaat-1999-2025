@@ -1,0 +1,72 @@
+{
+ "intro": "Onder de projecten lag een organisatie die zichzelf keer op keer opnieuw uitvond. Deze pagina volgt die bestuurlijke lijn: rechtsvorm, besturing, mensen, huisvesting en geld — en laat zien hoe elke fase bepaalde welke projecten mogelijk waren.",
+ "fasen": [
+  {"id": "oprichting", "van": 1999, "tot": 2002, "titel": "Oprichting en eerste tournees",
+   "tekst": "Op 22 februari 1999 wordt Stichting Maat opgericht, in november van dat jaar omgedoopt tot Stichting Formaat. Een klein kernteam bouwt rond producties als Veni, Vidi, Vici, Tolero en Voor het blok een organisatie van jokers, spelers en vrijwilligers; in het seizoen 2001-2002 werken zo'n twintig mensen mee en bereikt Formaat 8.500 scholieren. Het werk is geordend in drie programma's: Jeugd & open samenleving, Participatie & Dialoog en Methodiek in ontwikkeling. De omzet groeit in drie jaar van 9.000 naar 230.000 euro."},
+  {"id": "werkpad", "van": 2002, "tot": 2007, "titel": "Van theatergroep naar werkplaats",
+   "tekst": "In 2002-2003 treedt een nieuw bestuur aan, verhuist de organisatie en verschijnt het beleidsplan 2002-2004. Het plan voor een landelijk Nederlands Instituut Forumtheater (NIFOR) haalt het niet; in plaats daarvan kiest Formaat in 2004 de naam Werkplaats voor Participatief Drama, met bewustwording, empowerment, participatie en dialoog als leidraad en multiplicatie als nieuwe opdracht: de methodiek zo breed mogelijk in de samenleving uitzetten. Prijzen als de Hein Roethofprijs (2003) en de RIBW Alliantie Trofee (2006) bevestigen de koers."},
+  {"id": "bloei", "van": 2007, "tot": 2012, "titel": "De Werkplaats: bloeijaren",
+   "tekst": "In 2007 opent de fysieke Werkplaats aan de Westzeedijk, met Augusto Boal als eregast bij de driedaagse opening in januari 2008. Er komt een bedrijfsplan (2008), kantoorruimte aan de Oostkousdijk en vanaf april 2010 aan de Havenstraat, en de besluitvorming wordt sociocratisch georganiseerd in kringen. Het team groeit naar zijn grootste omvang; de omzet piekt in 2010-2011 op 541.000 euro. In deze jaren draaien tournee, theaterateliers, wijkwerk, internationale uitwisseling en de Jokeropleiding tegelijk."},
+  {"id": "crisis", "van": 2012, "tot": 2015, "titel": "Crisis en reorganisatie",
+   "tekst": "Vanaf 2012 worden de gevolgen van de financiële crisis merkbaar: fondsen en partners maken andere keuzes, en de transitie van AWBZ naar Wmo beëindigt de samenwerking met Pameijer en de theaterateliers in de GGZ. Twee jaar met zware verliezen (2012-2014, samen ruim 70.000 euro) dwingen tot een reorganisatie: medio 2014 wordt voor alle medewerkers ontslag aangevraagd en wordt de Havenstraat opgezegd. De honorering van Grassroots Peacebuilding / Over de Brug als beeldbepalend project door het Fonds voor Cultuurparticipatie zorgt eind 2014 voor een doorstart.",
+   "gevoelig": true},
+  {"id": "projectorganisatie", "van": 2015, "tot": 2020, "titel": "Projectgestuurde organisatie",
+   "tekst": "Formaat gaat verder als kleine, projectgestuurde organisatie rond de Werkplaats. De aanvraag voor het Rotterdamse Cultuurplan 2017-2020 wordt afgewezen; de gemeenteraad neemt daarop in november 2016 de motie 'Stichting Formaat' aan, goed voor eenmalig 100.000 euro subsidie voor 2017. Halverwege 2017 worden nieuwe medewerkers aangetrokken voor naamsbekendheid, financiën en de transformatie naar een passender organisatievorm, en verschuift het zwaartepunt naar de participatiepodia in de wijken. Structurele financiering blijft uit; tijdelijke contracten worden niet verlengd."},
+  {"id": "collectief", "van": 2020, "tot": 2025, "titel": "Het collectief",
+   "tekst": "In 2020 eindigen de laatste dienstverbanden; corona legt het werk maandenlang stil en een TVL-steunregeling houdt de stichting overeind. Een groep betrokkenen wil de Werkplaats behouden en vormt een collectief van creatieve producenten en zzp'ers dat het werken met communities, de financiering en het beheer van de werkplaats draagt; een tijdelijk bestuur geeft het collectief de ruimte om de organisatie opnieuw vorm te geven, met een nieuwe besluitvormingsstructuur (2021-2023). Uit deze fase komen Shadows United, 2DO, de Maia's en Couleur Locale.",
+   "gevoelig": true},
+  {"id": "ontbinding", "van": 2025, "tot": 2026, "titel": "Ontbinding en archief",
+   "tekst": "Op 26 november 2025 besluit het bestuur tot ontbinding van Stichting Formaat; de huur van de werkplaats wordt opgezegd per 30 september 2026 en de lopende projecten worden afgerond of overgedragen. Het archief — 26 jaar projecten, publicaties, beeld en methodiek — wordt geordend en via deze site en het Arsenaal van de joker publiek toegankelijk gemaakt.",
+   "gevoelig": true}
+ ],
+ "besturing": [
+  {"periode": "1999–2007", "vorm": "Stichtingsbestuur met artistiek en zakelijk leider"},
+  {"periode": "2007–2014", "vorm": "Sociocratische kringenstructuur (afdelingskringen, bedrijfskring, topkring) naast bestuur en MT"},
+  {"periode": "2015–2020", "vorm": "Kleine projectorganisatie: bestuur, artistiek leider, wisselende projectteams"},
+  {"periode": "2020–2025", "vorm": "Collectief van creatieve producenten en zzp'ers, met (tijdelijk) bestuur en vernieuwde besluitvormingsstructuur"}
+ ],
+ "huisvesting": [
+  {"periode": "1999–2007", "plek": "Wisselende kantoor- en repetitieruimtes in Rotterdam"},
+  {"periode": "2007–2026", "plek": "Werkplaats voor Participatief Drama, Westzeedijk 513 (huur opgezegd per 30-09-2026)"},
+  {"periode": "2007–2010", "plek": "Kantoor en opslag Oostkousdijk 9c"},
+  {"periode": "2010–2014", "plek": "Kantoor Havenstraat 231 (vijf werkplekken)"}
+ ],
+ "financien": {
+  "toelichting": "Bedragen in euro's per boekjaar (seizoen tot 2019, daarna kalenderjaar; 2018-2019 is een verlengd boekjaar van 1,5 jaar). Bron: 'Verloop cijfers en opbouw eigen vermogen van Stichting Formaat 1999-2025', opgesteld bij de afwikkeling. Totale omzet over 26 jaar: 7,4 miljoen euro.",
+  "reeks": [
+   {"p": "1999", "omzet": 9328, "resultaat": -1055, "vermogen": -1151, "note": ""},
+   {"p": "1999-2000", "omzet": 39081, "resultaat": -3566, "vermogen": -5120, "note": ""},
+   {"p": "2000-2001", "omzet": 117171, "resultaat": 954, "vermogen": 832, "note": ""},
+   {"p": "2001-2002", "omzet": 230806, "resultaat": 15394, "vermogen": 22370, "note": ""},
+   {"p": "2002-2003", "omzet": 322629, "resultaat": 14863, "vermogen": 37700, "note": ""},
+   {"p": "2003-2004", "omzet": 326745, "resultaat": 13451, "vermogen": 43769, "note": ""},
+   {"p": "2004-2005", "omzet": 355426, "resultaat": 9985, "vermogen": 53754, "note": ""},
+   {"p": "2005-2006", "omzet": 357597, "resultaat": 35628, "vermogen": 89382, "note": "RIBW Alliantie Trofee voor De Mens in de Hoofdrol"},
+   {"p": "2006-2007", "omzet": 465842, "resultaat": 35132, "vermogen": 124514, "note": ""},
+   {"p": "2007-2008", "omzet": 440692, "resultaat": 14633, "vermogen": 139147, "note": "Shell Cares Award voor Home & Away"},
+   {"p": "2008-2009", "omzet": 435074, "resultaat": 26537, "vermogen": 165684, "note": "Samen Sociaalprijs provincie Zuid-Holland voor DUNK"},
+   {"p": "2009-2010", "omzet": 470567, "resultaat": 55045, "vermogen": 220729, "note": "Teruggave en einde vennootschapsbelastingplicht"},
+   {"p": "2010-2011", "omzet": 541577, "resultaat": 14699, "vermogen": 235428, "note": "Hoogste omzet"},
+   {"p": "2011-2012", "omzet": 400613, "resultaat": -5040, "vermogen": 230388, "note": "Gevolgen financiële crisis merkbaar"},
+   {"p": "2012-2013", "omzet": 367376, "resultaat": -41361, "vermogen": 189027, "note": "Transitie AWBZ→Wmo: afbouw theaterateliers GGZ"},
+   {"p": "2013-2014", "omzet": 314401, "resultaat": -31435, "vermogen": 157592, "note": "Reorganisatie: ontslag aangevraagd voor alle medewerkers"},
+   {"p": "2014-2015", "omzet": 285175, "resultaat": 6285, "vermogen": 163877, "note": "Over de Brug beeldbepalend project: doorstart"},
+   {"p": "2015-2016", "omzet": 251047, "resultaat": -5376, "vermogen": 158501, "note": ""},
+   {"p": "2016-2017", "omzet": 240267, "resultaat": 2797, "vermogen": 161298, "note": "Motie 'Stichting Formaat': eenmalig 100.000 euro"},
+   {"p": "2017-2018", "omzet": 233987, "resultaat": -35945, "vermogen": 125353, "note": "Tijdelijke dienstverbanden niet verlengd"},
+   {"p": "2018-2019", "omzet": 355537, "resultaat": 8812, "vermogen": 134165, "note": "Verlengd boekjaar van 1,5 jaar"},
+   {"p": "2020", "omzet": 162832, "resultaat": -37143, "vermogen": 97022, "note": "Eerste jaar collectief; corona"},
+   {"p": "2021", "omzet": 151545, "resultaat": 33375, "vermogen": 130397, "note": "TVL-coronasteun"},
+   {"p": "2022", "omzet": 264402, "resultaat": -1676, "vermogen": 128721, "note": "Inhaalslag activiteiten na corona"},
+   {"p": "2023", "omzet": 276479, "resultaat": 23366, "vermogen": 152087, "note": ""},
+   {"p": "2024", "omzet": 270878, "resultaat": 1945, "vermogen": 154032, "note": ""},
+   {"p": "2025", "omzet": 241178, "resultaat": -15793, "vermogen": 138239, "note": "Ontbindingsbesluit; kosten afwikkeling"}
+  ]
+ },
+ "bronnen": [
+  "Verloop cijfers en opbouw eigen vermogen van Stichting Formaat 1999-2025 (jaarrekeningen, opgesteld bij de afwikkeling)",
+  "Jaarverslagen 2001-2002 t/m 2012-2013, jaarverslag 2017, Formaat in beeld 2023 en 2024",
+  "Formaat jaarverslag 2002-2003 (voorgeschiedenis en programma's)",
+  "Brief besluit ontbinding Stichting Formaat, 26 november 2025"
+ ]
+}

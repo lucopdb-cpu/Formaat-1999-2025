@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="nl" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>De organisatie · Formaat 1999–2025</title>
+<meta name="description" content="De bestuurlijke lijn van Stichting Formaat: rechtsvorm, besturing, huisvesting en financiën, 1999-2026.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>:root{--paper:#F6F3EC;--paper-2:#EDE8DD;--ink:#1C1915;--ink-2:#4A443B;--ink-3:#7A7267;--line:#D9D2C4;--ochre:#B8803C;--ochre-soft:#EBD9BD;--card:#FFFDF8;--shadow:0 1px 0 rgba(28,25,21,.06),0 8px 24px -16px rgba(28,25,21,.25)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#16140F;--paper-2:#1F1C15;--ink:#EFE9DD;--ink-2:#C9C1B2;--ink-3:#8F877A;--line:#37322A;--ochre:#D39A50;--ochre-soft:#3A2E1B;--card:#1D1A14;--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8)}}
+:root[data-theme="dark"]{--paper:#16140F;--paper-2:#1F1C15;--ink:#EFE9DD;--ink-2:#C9C1B2;--ink-3:#8F877A;--line:#37322A;--ochre:#D39A50;--ochre-soft:#3A2E1B;--card:#1D1A14;--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8)}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Source Serif 4",Georgia,"Times New Roman",serif;font-size:17px;line-height:1.55}
+a{color:inherit}
+.wrap{max-width:1180px;margin:0 auto;padding:0 28px}
+h1,h2,h3,.disp{font-family:"Barlow Condensed","Arial Narrow",Arial,sans-serif;font-weight:600;letter-spacing:.005em;line-height:1;text-wrap:balance;margin:0}
+.mono{font-family:"IBM Plex Mono","Courier New",monospace;font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
+.small{font-size:14px;color:var(--ink-2)}
+.proto{display:inline-block;margin:8px 0 14px;padding:4px 9px;border:1px dashed var(--ochre);border-radius:3px;color:var(--ochre)}
+/* top bar */
+.top{border-bottom:1px solid var(--line);background:var(--paper);position:sticky;top:0;z-index:5}
+.topbar{display:flex;justify-content:space-between;align-items:center;gap:20px;padding:12px 28px;flex-wrap:wrap}
+.brand{font-family:"Barlow Condensed",sans-serif;font-weight:700;font-size:26px;text-transform:uppercase;text-decoration:none;letter-spacing:.02em}
+.brand span{color:var(--ochre)}
+nav{display:flex;gap:18px;flex-wrap:wrap}
+nav a{font-family:"Barlow Condensed",sans-serif;font-size:17px;text-transform:uppercase;letter-spacing:.04em;text-decoration:none;color:var(--ink-2);border-bottom:2px solid transparent}
+nav a:hover{color:var(--ochre);border-bottom-color:var(--ochre)}
+nav a.ext{color:var(--ochre)}
+/* hero */
+.hero{padding:40px 0 10px;border-bottom:1px solid var(--line)}
+.hero h1{font-size:clamp(60px,9vw,120px);text-transform:uppercase;font-weight:700}
+.hero h1 span{color:var(--ochre)}
+.hero .lede{max-width:60ch;font-size:19px;color:var(--ink-2);margin:16px 0 10px}
+.hero-meta{margin-bottom:26px}
+.hero-meta a{color:var(--ochre)}
+section{padding:40px 0 8px}
+.sec-head{display:flex;justify-content:space-between;align-items:baseline;gap:20px;border-bottom:2px solid var(--ink);padding-bottom:8px;margin-bottom:22px}
+.sec-head h2{font-size:38px;text-transform:uppercase}
+.sec-head a{text-decoration:none}
+.lede{max-width:64ch;color:var(--ink-2);margin:0 0 22px}
+/* timeline */
+.tl{overflow-x:auto;padding-bottom:8px}
+.tl-inner{min-width:960px;display:grid;grid-template-columns:160px 1fr}
+.tl-years{grid-column:2;display:grid;grid-template-columns:repeat(var(--ny),1fr);border-bottom:1px solid var(--line);margin-bottom:6px}
+.tl-years span{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--ink-3);padding-bottom:6px;font-variant-numeric:tabular-nums}
+.tl-years span:nth-child(even){visibility:hidden}
+.tl-years span:last-child{visibility:visible}
+.track-label{display:flex;flex-direction:column;justify-content:center;padding:10px 12px 10px 0;border-top:1px solid var(--line)}
+.track-label b{font-family:"Barlow Condensed",sans-serif;font-weight:600;font-size:19px;text-transform:uppercase;letter-spacing:.02em}
+.track-label small{color:var(--ink-3);font-size:13px;font-style:italic}
+.track{position:relative;border-top:1px solid var(--line);padding:10px 0;display:grid;grid-template-columns:repeat(var(--ny),1fr);grid-auto-rows:22px;row-gap:5px;grid-auto-flow:dense;background:repeating-linear-gradient(90deg,transparent 0 calc(100%/var(--ny) - 1px),var(--line) calc(100%/var(--ny) - 1px) calc(100%/var(--ny)))}
+.bar{height:22px;border-radius:2px;display:flex;align-items:center;padding:0 8px;color:#fff;background:var(--c);font-family:"Barlow Condensed",sans-serif;font-size:14px;font-weight:600;letter-spacing:.02em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-decoration:none;min-width:0}
+.bar.stub{opacity:.55}
+.bar:hover{filter:brightness(1.15);opacity:1}
+.bar[data-n]::after{content:attr(data-n);margin-left:auto;padding-left:8px;font-family:"IBM Plex Mono",monospace;font-size:11px;font-weight:400;opacity:.85}
+.tl-note{grid-column:1/-1;padding:12px 0 0;color:var(--ink-3);font-size:14px;font-style:italic}
+/* minis */
+.minis{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px}
+.mini{display:block;text-decoration:none;background:var(--card);border:1px solid var(--line);border-top:6px solid var(--c);padding:16px 18px;box-shadow:var(--shadow)}
+.mini b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:28px;font-weight:600;text-transform:uppercase;margin:6px 0 4px;line-height:1}
+.mini em{color:var(--ink-2);font-size:15px}
+.mini:hover{border-color:var(--c)}
+/* route */
+.route{list-style:none;padding:0;margin:0;display:grid;gap:12px}
+.route li{display:grid;grid-template-columns:1fr auto;gap:16px;align-items:center;background:var(--card);border:1px solid var(--line);border-left:8px solid var(--c);padding:14px 18px}
+.route li>a:first-child{text-decoration:none}
+.route b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:26px;text-transform:uppercase;font-weight:600;margin:4px 0}
+.route em{color:var(--ink-2);font-size:15px}
+.route .ars{font-family:"Barlow Condensed",sans-serif;text-transform:uppercase;letter-spacing:.03em;text-decoration:none;color:var(--ochre);white-space:nowrap}
+/* lists */
+.glist{list-style:none;padding:0;margin:0 0 26px;columns:2;column-gap:32px}
+.glist li{break-inside:avoid;padding:5px 0 5px 12px;border-left:4px solid var(--c);margin-bottom:6px}
+.glist a{text-decoration:none}
+.glist a:hover{color:var(--ochre)}
+details{border:1px solid var(--line);background:var(--card);margin:0 0 8px;padding:8px 14px}
+summary{cursor:pointer;font-size:16px}
+summary a{color:var(--ochre)}
+.items{padding-left:0;list-style:none;margin:10px 0 4px}
+.items li{padding:6px 0;border-top:1px solid var(--line)}
+.items .status{color:var(--ink-3)}
+section h2{font-size:30px;text-transform:uppercase;margin:26px 0 10px;border-left:8px solid var(--c,var(--ochre));padding-left:10px}
+.docs,.pers{padding-left:18px;font-size:15px}
+.docs li,.pers li{margin:0 0 5px}
+/* kaart */
+.kaart{padding:34px 0 20px}
+.kaart-head{border-bottom:2px solid var(--ink);padding-bottom:14px;margin-bottom:22px}
+.kaart-head .mono a{text-decoration:none;color:var(--c)}
+.kaart-head h1{font-size:clamp(40px,6vw,72px);text-transform:uppercase;margin:8px 0 6px}
+.kaart-head .sub{font-style:italic;color:var(--ink-2);margin:0;font-size:19px}
+.kaart-grid{display:grid;grid-template-columns:minmax(0,1fr) 280px;gap:36px}
+.kaart-body{max-width:70ch}
+.kaart-body h2{font-size:26px;text-transform:uppercase;margin:28px 0 8px;border-left:8px solid var(--c);padding-left:10px}
+.kaart-body p{margin:0 0 12px}
+.kaart-body blockquote{margin:0 0 10px;padding:6px 12px;border-left:3px solid var(--ochre);background:var(--ochre-soft);font-size:14.5px;color:var(--ink-2)}
+.kaart-body ul{padding-left:20px}
+.kaart-body li{margin:0 0 6px}
+.facts{display:flex;gap:22px;flex-wrap:wrap;padding:12px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-bottom:6px}
+.fact b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:34px;font-weight:600;line-height:1;font-variant-numeric:tabular-nums}
+.fact span{font-size:12.5px;color:var(--ink-3)}
+.kaart-side dl{margin:0;font-size:15px}
+.kaart-side dt{font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);margin-top:12px}
+.kaart-side dd{margin:2px 0 0;color:var(--ink-2)}
+.videos{display:grid;gap:16px}
+.yt{position:relative;padding-top:56.25%;background:var(--paper-2)}
+.yt iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+figure{margin:0}
+figcaption{font-size:13px;color:var(--ink-3);margin-top:4px}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
+.gallery img{width:100%;height:auto;display:block;border:1px solid var(--line)}
+.prose{max-width:70ch}
+.prose h2{font-size:26px;text-transform:uppercase;margin:24px 0 8px}
+footer{margin-top:48px;border-top:1px solid var(--line);padding:22px 0 40px;color:var(--ink-3);font-size:14px}
+footer p{margin:0 0 6px;max-width:90ch}
+:focus-visible{outline:2px solid var(--ochre);outline-offset:2px}
+@media (max-width:760px){.kaart-grid{grid-template-columns:1fr}.glist{columns:1}.route li{grid-template-columns:1fr}}
+
+/* organisatie */
+.fasen{border-top:1px solid var(--line);padding:8px 0;display:grid;grid-template-columns:repeat(var(--ny),1fr);grid-auto-rows:26px;row-gap:4px;grid-auto-flow:dense}
+.fase{height:26px;display:flex;align-items:center;padding:0 8px;background:var(--paper-2);border:1px solid var(--line);border-left:4px solid var(--ochre);color:var(--ink-2);font-family:"Barlow Condensed",sans-serif;font-size:13.5px;font-weight:600;letter-spacing:.02em;text-transform:uppercase;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-decoration:none;min-width:0}
+.fase:hover{color:var(--ochre);border-color:var(--ochre)}
+.track-label small a{color:var(--ochre);text-decoration:none}
+.orgfase{padding:6px 0 2px}
+.orgfase h2 .mono{margin-right:10px;font-size:13px;color:var(--ochre)}
+.orgfase p{max-width:70ch;margin:6px 0 14px}
+.orggrid{display:grid;grid-template-columns:1fr 1fr;gap:32px;margin:8px 0 4px}
+.orgdl{margin:0;font-size:15.5px}
+.orgdl dt{font-family:"IBM Plex Mono",monospace;font-size:12px;letter-spacing:.05em;color:var(--ink-3);margin-top:10px}
+.orgdl dd{margin:2px 0 0;color:var(--ink-2)}
+.dfig{margin:14px 0 26px;background:var(--card);border:1px solid var(--line);padding:14px 16px 10px}
+.dfig figcaption{margin-bottom:8px;font-size:15px}
+.dfig svg{width:100%;height:auto;display:block}
+.dbar{fill:var(--dl)}
+.dbar:hover{fill-opacity:.8}
+.dgrid{stroke:var(--line);stroke-width:1}
+.dzero{stroke:var(--ink-3);stroke-width:1}
+.dlab{font:600 12px "IBM Plex Mono",monospace;fill:var(--ink-2)}
+.dtick{font:11px "IBM Plex Mono",monospace;fill:var(--ink-3)}
+.dtable{margin-top:6px;border:0;background:none;padding:0}
+.dtable summary{font-family:"Barlow Condensed",sans-serif;text-transform:uppercase;letter-spacing:.03em;font-size:15px;color:var(--ochre)}
+.dtable table{border-collapse:collapse;font-size:13.5px;margin-top:8px;font-variant-numeric:tabular-nums}
+.dtable th,.dtable td{border:1px solid var(--line);padding:4px 8px;text-align:right}
+.dtable th:first-child,.dtable td:first-child,.dtable th:last-child,.dtable td:last-child{text-align:left}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .dbar{fill:var(--dd)}}
+:root[data-theme="dark"] .dbar{fill:var(--dd)}
+@media (max-width:760px){.orggrid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap topbar">
+    <a class="brand" href="index.html">Formaat <span>1999–2025</span></a>
+    <nav><a href="index.html">Tijdlijn</a><a href="route.html">Virgilio's route</a><a href="thema.html">Thema's</a><a href="organisatie.html">De organisatie</a><a href="alles.html">Alle activiteiten</a><a href="bronnen.html">Bronnen</a><a href="over.html">Over</a><a class="ext" href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal van de joker ↗</a></nav>
+  </div>
+</header>
+<section><div class="wrap">
+<div class="sec-head"><h2>De organisatie</h2><span class="mono">1999–2026 · zeven fasen</span></div>
+<p class="lede">Onder de projecten lag een organisatie die zichzelf keer op keer opnieuw uitvond. Deze pagina volgt die bestuurlijke lijn: rechtsvorm, besturing, mensen, huisvesting en geld — en laat zien hoe elke fase bepaalde welke projecten mogelijk waren.</p>
+<div class="tl"><div class="tl-inner" style="--ny:27"><div></div><div class="tl-years"><span>1999</span><span>2000</span><span>2001</span><span>2002</span><span>2003</span><span>2004</span><span>2005</span><span>2006</span><span>2007</span><span>2008</span><span>2009</span><span>2010</span><span>2011</span><span>2012</span><span>2013</span><span>2014</span><span>2015</span><span>2016</span><span>2017</span><span>2018</span><span>2019</span><span>2020</span><span>2021</span><span>2022</span><span>2023</span><span>2024</span><span>2025</span></div><div class="track-label"><b>De organisatie</b><small><a href="organisatie.html">de bestuurlijke lijn →</a></small></div><div class="fasen"><a class="fase" style="grid-column:1/4" href="organisatie.html#oprichting" title="1999–2002 · Oprichting en eerste tournees">Oprichting en eerste tournees</a><a class="fase" style="grid-column:4/9" href="organisatie.html#werkpad" title="2002–2007 · Van theatergroep naar werkplaats">Van theatergroep naar werkplaats</a><a class="fase" style="grid-column:9/14" href="organisatie.html#bloei" title="2007–2012 · De Werkplaats: bloeijaren">De Werkplaats: bloeijaren</a><a class="fase" style="grid-column:14/17" href="organisatie.html#crisis" title="2012–2015 · Crisis en reorganisatie">Crisis en reorganisatie</a><a class="fase" style="grid-column:17/22" href="organisatie.html#projectorganisatie" title="2015–2020 · Projectgestuurde organisatie">Projectgestuurde organisatie</a><a class="fase" style="grid-column:22/27" href="organisatie.html#collectief" title="2020–2025 · Het collectief">Het collectief</a><a class="fase" style="grid-column:27/28" href="organisatie.html#ontbinding" title="2025–2026 · Ontbinding en archief">Ontbinding en archief</a></div></div></div>
+<section class="orgfase" id="oprichting"><h2><span class="mono">1999–2002</span> Oprichting en eerste tournees</h2><p>Op 22 februari 1999 wordt Stichting Maat opgericht, in november van dat jaar omgedoopt tot Stichting Formaat. Een klein kernteam bouwt rond producties als Veni, Vidi, Vici, Tolero en Voor het blok een organisatie van jokers, spelers en vrijwilligers; in het seizoen 2001-2002 werken zo&#x27;n twintig mensen mee en bereikt Formaat 8.500 scholieren. Het werk is geordend in drie programma&#x27;s: Jeugd &amp; open samenleving, Participatie &amp; Dialoog en Methodiek in ontwikkeling. De omzet groeit in drie jaar van 9.000 naar 230.000 euro.</p></section><section class="orgfase" id="werkpad"><h2><span class="mono">2002–2007</span> Van theatergroep naar werkplaats</h2><p>In 2002-2003 treedt een nieuw bestuur aan, verhuist de organisatie en verschijnt het beleidsplan 2002-2004. Het plan voor een landelijk Nederlands Instituut Forumtheater (NIFOR) haalt het niet; in plaats daarvan kiest Formaat in 2004 de naam Werkplaats voor Participatief Drama, met bewustwording, empowerment, participatie en dialoog als leidraad en multiplicatie als nieuwe opdracht: de methodiek zo breed mogelijk in de samenleving uitzetten. Prijzen als de Hein Roethofprijs (2003) en de RIBW Alliantie Trofee (2006) bevestigen de koers.</p></section><section class="orgfase" id="bloei"><h2><span class="mono">2007–2012</span> De Werkplaats: bloeijaren</h2><p>In 2007 opent de fysieke Werkplaats aan de Westzeedijk, met Augusto Boal als eregast bij de driedaagse opening in januari 2008. Er komt een bedrijfsplan (2008), kantoorruimte aan de Oostkousdijk en vanaf april 2010 aan de Havenstraat, en de besluitvorming wordt sociocratisch georganiseerd in kringen. Het team groeit naar zijn grootste omvang; de omzet piekt in 2010-2011 op 541.000 euro. In deze jaren draaien tournee, theaterateliers, wijkwerk, internationale uitwisseling en de Jokeropleiding tegelijk.</p></section><section class="orgfase" id="crisis"><h2><span class="mono">2012–2015</span> Crisis en reorganisatie</h2><p>Vanaf 2012 worden de gevolgen van de financiële crisis merkbaar: fondsen en partners maken andere keuzes, en de transitie van AWBZ naar Wmo beëindigt de samenwerking met Pameijer en de theaterateliers in de GGZ. Twee jaar met zware verliezen (2012-2014, samen ruim 70.000 euro) dwingen tot een reorganisatie: medio 2014 wordt voor alle medewerkers ontslag aangevraagd en wordt de Havenstraat opgezegd. De honorering van Grassroots Peacebuilding / Over de Brug als beeldbepalend project door het Fonds voor Cultuurparticipatie zorgt eind 2014 voor een doorstart.</p></section><section class="orgfase" id="projectorganisatie"><h2><span class="mono">2015–2020</span> Projectgestuurde organisatie</h2><p>Formaat gaat verder als kleine, projectgestuurde organisatie rond de Werkplaats. De aanvraag voor het Rotterdamse Cultuurplan 2017-2020 wordt afgewezen; de gemeenteraad neemt daarop in november 2016 de motie &#x27;Stichting Formaat&#x27; aan, goed voor eenmalig 100.000 euro subsidie voor 2017. Halverwege 2017 worden nieuwe medewerkers aangetrokken voor naamsbekendheid, financiën en de transformatie naar een passender organisatievorm, en verschuift het zwaartepunt naar de participatiepodia in de wijken. Structurele financiering blijft uit; tijdelijke contracten worden niet verlengd.</p></section><section class="orgfase" id="collectief"><h2><span class="mono">2020–2025</span> Het collectief</h2><p>In 2020 eindigen de laatste dienstverbanden; corona legt het werk maandenlang stil en een TVL-steunregeling houdt de stichting overeind. Een groep betrokkenen wil de Werkplaats behouden en vormt een collectief van creatieve producenten en zzp&#x27;ers dat het werken met communities, de financiering en het beheer van de werkplaats draagt; een tijdelijk bestuur geeft het collectief de ruimte om de organisatie opnieuw vorm te geven, met een nieuwe besluitvormingsstructuur (2021-2023). Uit deze fase komen Shadows United, 2DO, de Maia&#x27;s en Couleur Locale.</p></section><section class="orgfase" id="ontbinding"><h2><span class="mono">2025–2026</span> Ontbinding en archief</h2><p>Op 26 november 2025 besluit het bestuur tot ontbinding van Stichting Formaat; de huur van de werkplaats wordt opgezegd per 30 september 2026 en de lopende projecten worden afgerond of overgedragen. Het archief — 26 jaar projecten, publicaties, beeld en methodiek — wordt geordend en via deze site en het Arsenaal van de joker publiek toegankelijk gemaakt.</p></section>
+<div class="orggrid">
+<div><h2>Besturing</h2><dl class="orgdl"><dt>1999–2007</dt><dd>Stichtingsbestuur met artistiek en zakelijk leider</dd><dt>2007–2014</dt><dd>Sociocratische kringenstructuur (afdelingskringen, bedrijfskring, topkring) naast bestuur en MT</dd><dt>2015–2020</dt><dd>Kleine projectorganisatie: bestuur, artistiek leider, wisselende projectteams</dd><dt>2020–2025</dt><dd>Collectief van creatieve producenten en zzp&#x27;ers, met (tijdelijk) bestuur en vernieuwde besluitvormingsstructuur</dd></dl></div>
+<div><h2>Huisvesting</h2><dl class="orgdl"><dt>1999–2007</dt><dd>Wisselende kantoor- en repetitieruimtes in Rotterdam</dd><dt>2007–2026</dt><dd>Werkplaats voor Participatief Drama, Westzeedijk 513 (huur opgezegd per 30-09-2026)</dd><dt>2007–2010</dt><dd>Kantoor en opslag Oostkousdijk 9c</dd><dt>2010–2014</dt><dd>Kantoor Havenstraat 231 (vijf werkplekken)</dd></dl></div>
+</div>
+<h2>Geld</h2>
+<p class="lede">Bedragen in euro&#x27;s per boekjaar (seizoen tot 2019, daarna kalenderjaar; 2018-2019 is een verlengd boekjaar van 1,5 jaar). Bron: &#x27;Verloop cijfers en opbouw eigen vermogen van Stichting Formaat 1999-2025&#x27;, opgesteld bij de afwikkeling. Totale omzet over 26 jaar: 7,4 miljoen euro.</p>
+<figure class="dfig" style="--dl:#B8803C;--dd:#C08438">
+<figcaption><b>Omzet, fondsen en subsidies</b> <span class="mono">× 1.000 euro</span></figcaption>
+<svg viewBox="0 0 960 260" role="img" aria-label="Omzet, fondsen en subsidies per boekjaar, 1999 tot 2025"><line class="dgrid" x1="46" x2="952" y1="187.2" y2="187.2"/><text class="dtick" x="40" y="190.2" text-anchor="end">100</text><line class="dgrid" x1="46" x2="952" y1="148.4" y2="148.4"/><text class="dtick" x="40" y="151.4" text-anchor="end">200</text><line class="dgrid" x1="46" x2="952" y1="109.7" y2="109.7"/><text class="dtick" x="40" y="112.7" text-anchor="end">300</text><line class="dgrid" x1="46" x2="952" y1="70.9" y2="70.9"/><text class="dtick" x="40" y="73.9" text-anchor="end">400</text><line class="dgrid" x1="46" x2="952" y1="32.1" y2="32.1"/><text class="dtick" x="40" y="35.1" text-anchor="end">500</text><line class="dzero" x1="46" x2="952" y1="226.0" y2="226.0"/><rect class="dbar" x="47.0" y="222.4" width="31.6" height="3.6" rx="2"><title>1999: 9.328 euro</title></rect><text class="dlab" x="62.8" y="217.4" text-anchor="middle">9</text><rect class="dbar" x="80.6" y="210.8" width="31.6" height="15.2" rx="2"><title>1999-2000: 39.081 euro</title></rect><rect class="dbar" x="114.1" y="180.6" width="31.6" height="45.4" rx="2"><title>2000-2001: 117.171 euro</title></rect><rect class="dbar" x="147.7" y="136.5" width="31.6" height="89.5" rx="2"><title>2001-2002: 230.806 euro</title></rect><rect class="dbar" x="181.2" y="100.9" width="31.6" height="125.1" rx="2"><title>2002-2003: 322.629 euro</title></rect><rect class="dbar" x="214.8" y="99.3" width="31.6" height="126.7" rx="2"><title>2003-2004: 326.745 euro</title></rect><rect class="dbar" x="248.3" y="88.2" width="31.6" height="137.8" rx="2"><title>2004-2005: 355.426 euro</title></rect><rect class="dbar" x="281.9" y="87.3" width="31.6" height="138.7" rx="2"><title>2005-2006: 357.597 euro — RIBW Alliantie Trofee voor De Mens in de Hoofdrol</title></rect><rect class="dbar" x="315.4" y="45.4" width="31.6" height="180.6" rx="2"><title>2006-2007: 465.842 euro</title></rect><rect class="dbar" x="349.0" y="55.1" width="31.6" height="170.9" rx="2"><title>2007-2008: 440.692 euro — Shell Cares Award voor Home &amp; Away</title></rect><rect class="dbar" x="382.6" y="57.3" width="31.6" height="168.7" rx="2"><title>2008-2009: 435.074 euro — Samen Sociaalprijs provincie Zuid-Holland voor DUNK</title></rect><rect class="dbar" x="416.1" y="43.5" width="31.6" height="182.5" rx="2"><title>2009-2010: 470.567 euro — Teruggave en einde vennootschapsbelastingplicht</title></rect><rect class="dbar" x="449.7" y="16.0" width="31.6" height="210.0" rx="2"><title>2010-2011: 541.577 euro — Hoogste omzet</title></rect><text class="dlab" x="465.4" y="11.0" text-anchor="middle">542</text><rect class="dbar" x="483.2" y="70.7" width="31.6" height="155.3" rx="2"><title>2011-2012: 400.613 euro — Gevolgen financiële crisis merkbaar</title></rect><rect class="dbar" x="516.8" y="83.5" width="31.6" height="142.5" rx="2"><title>2012-2013: 367.376 euro — Transitie AWBZ→Wmo: afbouw theaterateliers GGZ</title></rect><rect class="dbar" x="550.3" y="104.1" width="31.6" height="121.9" rx="2"><title>2013-2014: 314.401 euro — Reorganisatie: ontslag aangevraagd voor alle medewerkers</title></rect><rect class="dbar" x="583.9" y="115.4" width="31.6" height="110.6" rx="2"><title>2014-2015: 285.175 euro — Over de Brug beeldbepalend project: doorstart</title></rect><rect class="dbar" x="617.4" y="128.7" width="31.6" height="97.3" rx="2"><title>2015-2016: 251.047 euro</title></rect><rect class="dbar" x="651.0" y="132.8" width="31.6" height="93.2" rx="2"><title>2016-2017: 240.267 euro — Motie &#x27;Stichting Formaat&#x27;: eenmalig 100.000 euro</title></rect><rect class="dbar" x="684.6" y="135.3" width="31.6" height="90.7" rx="2"><title>2017-2018: 233.987 euro — Tijdelijke dienstverbanden niet verlengd</title></rect><rect class="dbar" x="718.1" y="88.1" width="31.6" height="137.9" rx="2"><title>2018-2019: 355.537 euro — Verlengd boekjaar van 1,5 jaar</title></rect><rect class="dbar" x="751.7" y="162.9" width="31.6" height="63.1" rx="2"><title>2020: 162.832 euro — Eerste jaar collectief; corona</title></rect><rect class="dbar" x="785.2" y="167.2" width="31.6" height="58.8" rx="2"><title>2021: 151.545 euro — TVL-coronasteun</title></rect><rect class="dbar" x="818.8" y="123.5" width="31.6" height="102.5" rx="2"><title>2022: 264.402 euro — Inhaalslag activiteiten na corona</title></rect><rect class="dbar" x="852.3" y="118.8" width="31.6" height="107.2" rx="2"><title>2023: 276.479 euro</title></rect><rect class="dbar" x="885.9" y="121.0" width="31.6" height="105.0" rx="2"><title>2024: 270.878 euro</title></rect><rect class="dbar" x="919.4" y="132.5" width="31.6" height="93.5" rx="2"><title>2025: 241.178 euro — Ontbindingsbesluit; kosten afwikkeling</title></rect><text class="dlab" x="935.2" y="127.5" text-anchor="middle">241</text><text class="dtick" x="62.8" y="252" text-anchor="middle">1999</text><text class="dtick" x="197.0" y="252" text-anchor="middle">2002</text><text class="dtick" x="331.2" y="252" text-anchor="middle">2006</text><text class="dtick" x="465.4" y="252" text-anchor="middle">2010</text><text class="dtick" x="599.7" y="252" text-anchor="middle">2014</text><text class="dtick" x="733.9" y="252" text-anchor="middle">2018</text><text class="dtick" x="868.1" y="252" text-anchor="middle">2023</text><text class="dtick" x="935.2" y="252" text-anchor="middle">2025</text></svg>
+<details class="dtable"><summary>Cijfers als tabel</summary><div style="overflow-x:auto"><table><tr><th>Boekjaar</th><th>Omzet</th><th>Resultaat</th><th>Eigen vermogen</th><th>Gebeurtenis</th></tr><tr><td>1999</td><td>9.328</td><td>-1.055</td><td>-1.151</td><td></td></tr><tr><td>1999-2000</td><td>39.081</td><td>-3.566</td><td>-5.120</td><td></td></tr><tr><td>2000-2001</td><td>117.171</td><td>954</td><td>832</td><td></td></tr><tr><td>2001-2002</td><td>230.806</td><td>15.394</td><td>22.370</td><td></td></tr><tr><td>2002-2003</td><td>322.629</td><td>14.863</td><td>37.700</td><td></td></tr><tr><td>2003-2004</td><td>326.745</td><td>13.451</td><td>43.769</td><td></td></tr><tr><td>2004-2005</td><td>355.426</td><td>9.985</td><td>53.754</td><td></td></tr><tr><td>2005-2006</td><td>357.597</td><td>35.628</td><td>89.382</td><td>RIBW Alliantie Trofee voor De Mens in de Hoofdrol</td></tr><tr><td>2006-2007</td><td>465.842</td><td>35.132</td><td>124.514</td><td></td></tr><tr><td>2007-2008</td><td>440.692</td><td>14.633</td><td>139.147</td><td>Shell Cares Award voor Home &amp; Away</td></tr><tr><td>2008-2009</td><td>435.074</td><td>26.537</td><td>165.684</td><td>Samen Sociaalprijs provincie Zuid-Holland voor DUNK</td></tr><tr><td>2009-2010</td><td>470.567</td><td>55.045</td><td>220.729</td><td>Teruggave en einde vennootschapsbelastingplicht</td></tr><tr><td>2010-2011</td><td>541.577</td><td>14.699</td><td>235.428</td><td>Hoogste omzet</td></tr><tr><td>2011-2012</td><td>400.613</td><td>-5.040</td><td>230.388</td><td>Gevolgen financiële crisis merkbaar</td></tr><tr><td>2012-2013</td><td>367.376</td><td>-41.361</td><td>189.027</td><td>Transitie AWBZ→Wmo: afbouw theaterateliers GGZ</td></tr><tr><td>2013-2014</td><td>314.401</td><td>-31.435</td><td>157.592</td><td>Reorganisatie: ontslag aangevraagd voor alle medewerkers</td></tr><tr><td>2014-2015</td><td>285.175</td><td>6.285</td><td>163.877</td><td>Over de Brug beeldbepalend project: doorstart</td></tr><tr><td>2015-2016</td><td>251.047</td><td>-5.376</td><td>158.501</td><td></td></tr><tr><td>2016-2017</td><td>240.267</td><td>2.797</td><td>161.298</td><td>Motie &#x27;Stichting Formaat&#x27;: eenmalig 100.000 euro</td></tr><tr><td>2017-2018</td><td>233.987</td><td>-35.945</td><td>125.353</td><td>Tijdelijke dienstverbanden niet verlengd</td></tr><tr><td>2018-2019</td><td>355.537</td><td>8.812</td><td>134.165</td><td>Verlengd boekjaar van 1.5 jaar</td></tr><tr><td>2020</td><td>162.832</td><td>-37.143</td><td>97.022</td><td>Eerste jaar collectief; corona</td></tr><tr><td>2021</td><td>151.545</td><td>33.375</td><td>130.397</td><td>TVL-coronasteun</td></tr><tr><td>2022</td><td>264.402</td><td>-1.676</td><td>128.721</td><td>Inhaalslag activiteiten na corona</td></tr><tr><td>2023</td><td>276.479</td><td>23.366</td><td>152.087</td><td></td></tr><tr><td>2024</td><td>270.878</td><td>1.945</td><td>154.032</td><td></td></tr><tr><td>2025</td><td>241.178</td><td>-15.793</td><td>138.239</td><td>Ontbindingsbesluit; kosten afwikkeling</td></tr></table></div></details></figure>
+<figure class="dfig" style="--dl:#1F6F9B;--dd:#3F9BD8">
+<figcaption><b>Eigen vermogen</b> <span class="mono">× 1.000 euro</span></figcaption>
+<svg viewBox="0 0 960 260" role="img" aria-label="Eigen vermogen per boekjaar, 1999 tot 2025"><line class="dgrid" x1="46" x2="952" y1="177.9" y2="177.9"/><text class="dtick" x="40" y="180.9" text-anchor="end">50</text><line class="dgrid" x1="46" x2="952" y1="134.2" y2="134.2"/><text class="dtick" x="40" y="137.2" text-anchor="end">100</text><line class="dgrid" x1="46" x2="952" y1="90.6" y2="90.6"/><text class="dtick" x="40" y="93.6" text-anchor="end">150</text><line class="dgrid" x1="46" x2="952" y1="46.9" y2="46.9"/><text class="dtick" x="40" y="49.9" text-anchor="end">200</text><line class="dzero" x1="46" x2="952" y1="221.5" y2="221.5"/><rect class="dbar" x="47.0" y="221.5" width="31.6" height="1.0" rx="2"><title>1999: -1.151 euro</title></rect><text class="dlab" x="62.8" y="234.5" text-anchor="middle">-1</text><rect class="dbar" x="80.6" y="221.5" width="31.6" height="4.5" rx="2"><title>1999-2000: -5.120 euro</title></rect><rect class="dbar" x="114.1" y="220.8" width="31.6" height="1.0" rx="2"><title>2000-2001: 832 euro</title></rect><rect class="dbar" x="147.7" y="202.0" width="31.6" height="19.5" rx="2"><title>2001-2002: 22.370 euro</title></rect><rect class="dbar" x="181.2" y="188.6" width="31.6" height="32.9" rx="2"><title>2002-2003: 37.700 euro</title></rect><rect class="dbar" x="214.8" y="183.3" width="31.6" height="38.2" rx="2"><title>2003-2004: 43.769 euro</title></rect><rect class="dbar" x="248.3" y="174.6" width="31.6" height="46.9" rx="2"><title>2004-2005: 53.754 euro</title></rect><rect class="dbar" x="281.9" y="143.5" width="31.6" height="78.0" rx="2"><title>2005-2006: 89.382 euro — RIBW Alliantie Trofee voor De Mens in de Hoofdrol</title></rect><rect class="dbar" x="315.4" y="112.8" width="31.6" height="108.7" rx="2"><title>2006-2007: 124.514 euro</title></rect><rect class="dbar" x="349.0" y="100.1" width="31.6" height="121.5" rx="2"><title>2007-2008: 139.147 euro — Shell Cares Award voor Home &amp; Away</title></rect><rect class="dbar" x="382.6" y="76.9" width="31.6" height="144.6" rx="2"><title>2008-2009: 165.684 euro — Samen Sociaalprijs provincie Zuid-Holland voor DUNK</title></rect><rect class="dbar" x="416.1" y="28.8" width="31.6" height="192.7" rx="2"><title>2009-2010: 220.729 euro — Teruggave en einde vennootschapsbelastingplicht</title></rect><rect class="dbar" x="449.7" y="16.0" width="31.6" height="205.5" rx="2"><title>2010-2011: 235.428 euro — Hoogste omzet</title></rect><text class="dlab" x="465.4" y="11.0" text-anchor="middle">235</text><rect class="dbar" x="483.2" y="20.4" width="31.6" height="201.1" rx="2"><title>2011-2012: 230.388 euro — Gevolgen financiële crisis merkbaar</title></rect><rect class="dbar" x="516.8" y="56.5" width="31.6" height="165.0" rx="2"><title>2012-2013: 189.027 euro — Transitie AWBZ→Wmo: afbouw theaterateliers GGZ</title></rect><rect class="dbar" x="550.3" y="84.0" width="31.6" height="137.6" rx="2"><title>2013-2014: 157.592 euro — Reorganisatie: ontslag aangevraagd voor alle medewerkers</title></rect><rect class="dbar" x="583.9" y="78.5" width="31.6" height="143.1" rx="2"><title>2014-2015: 163.877 euro — Over de Brug beeldbepalend project: doorstart</title></rect><rect class="dbar" x="617.4" y="83.2" width="31.6" height="138.4" rx="2"><title>2015-2016: 158.501 euro</title></rect><rect class="dbar" x="651.0" y="80.7" width="31.6" height="140.8" rx="2"><title>2016-2017: 161.298 euro — Motie &#x27;Stichting Formaat&#x27;: eenmalig 100.000 euro</title></rect><rect class="dbar" x="684.6" y="112.1" width="31.6" height="109.4" rx="2"><title>2017-2018: 125.353 euro — Tijdelijke dienstverbanden niet verlengd</title></rect><rect class="dbar" x="718.1" y="104.4" width="31.6" height="117.1" rx="2"><title>2018-2019: 134.165 euro — Verlengd boekjaar van 1,5 jaar</title></rect><rect class="dbar" x="751.7" y="136.8" width="31.6" height="84.7" rx="2"><title>2020: 97.022 euro — Eerste jaar collectief; corona</title></rect><rect class="dbar" x="785.2" y="107.7" width="31.6" height="113.8" rx="2"><title>2021: 130.397 euro — TVL-coronasteun</title></rect><rect class="dbar" x="818.8" y="109.2" width="31.6" height="112.4" rx="2"><title>2022: 128.721 euro — Inhaalslag activiteiten na corona</title></rect><rect class="dbar" x="852.3" y="88.8" width="31.6" height="132.8" rx="2"><title>2023: 152.087 euro</title></rect><rect class="dbar" x="885.9" y="87.1" width="31.6" height="134.5" rx="2"><title>2024: 154.032 euro</title></rect><rect class="dbar" x="919.4" y="100.8" width="31.6" height="120.7" rx="2"><title>2025: 138.239 euro — Ontbindingsbesluit; kosten afwikkeling</title></rect><text class="dlab" x="935.2" y="95.8" text-anchor="middle">138</text><text class="dtick" x="62.8" y="252" text-anchor="middle">1999</text><text class="dtick" x="197.0" y="252" text-anchor="middle">2002</text><text class="dtick" x="331.2" y="252" text-anchor="middle">2006</text><text class="dtick" x="465.4" y="252" text-anchor="middle">2010</text><text class="dtick" x="599.7" y="252" text-anchor="middle">2014</text><text class="dtick" x="733.9" y="252" text-anchor="middle">2018</text><text class="dtick" x="868.1" y="252" text-anchor="middle">2023</text><text class="dtick" x="935.2" y="252" text-anchor="middle">2025</text></svg>
+</figure>
+<h2>Bronnen</h2><ul class="docs"><li>Verloop cijfers en opbouw eigen vermogen van Stichting Formaat 1999-2025 (jaarrekeningen, opgesteld bij de afwikkeling)</li><li>Jaarverslagen 2001-2002 t/m 2012-2013, jaarverslag 2017, Formaat in beeld 2023 en 2024</li><li>Formaat jaarverslag 2002-2003 (voorgeschiedenis en programma&#x27;s)</li><li>Brief besluit ontbinding Stichting Formaat, 26 november 2025</li></ul>
+</div></section>
+<footer><div class="wrap">
+<p>Formaat 1999–2025 is het werk van Stichting Formaat, Werkplaats voor Participatief Drama (Rotterdam, 1999–2025), en van de jokers, spelers en partners die de projecten droegen. Samengesteld door Luc Opdebeeck.</p>
+<p>Licentie: nog vast te stellen (voorstel: teksten en eigen beeld CC BY-SA 4.0, code MIT). Bronmateriaal: jaarverslagen en projectdocumenten in het Formaat-archief; foto&#x27;s alleen met toestemming; video via YouTube-kanaal Formaat231.</p>
+<p class="mono">Gegenereerd uit <code>data/</code> en <code>kaarten/</code> · <a href="https://github.com/lucopdb-cpu/Formaat-1999-2025">broncode en correcties</a></p>
+</div></footer>
+</body>
+</html>

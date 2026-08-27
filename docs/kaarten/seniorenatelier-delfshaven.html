@@ -115,13 +115,43 @@ footer{margin-top:48px;border-top:1px solid var(--line);padding:22px 0 40px;colo
 footer p{margin:0 0 6px;max-width:90ch}
 :focus-visible{outline:2px solid var(--ochre);outline-offset:2px}
 @media (max-width:760px){.kaart-grid{grid-template-columns:1fr}.glist{columns:1}.route li{grid-template-columns:1fr}}
+
+/* organisatie */
+.fasen{border-top:1px solid var(--line);padding:8px 0;display:grid;grid-template-columns:repeat(var(--ny),1fr);grid-auto-rows:26px;row-gap:4px;grid-auto-flow:dense}
+.fase{height:26px;display:flex;align-items:center;padding:0 8px;background:var(--paper-2);border:1px solid var(--line);border-left:4px solid var(--ochre);color:var(--ink-2);font-family:"Barlow Condensed",sans-serif;font-size:13.5px;font-weight:600;letter-spacing:.02em;text-transform:uppercase;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-decoration:none;min-width:0}
+.fase:hover{color:var(--ochre);border-color:var(--ochre)}
+.track-label small a{color:var(--ochre);text-decoration:none}
+.orgfase{padding:6px 0 2px}
+.orgfase h2 .mono{margin-right:10px;font-size:13px;color:var(--ochre)}
+.orgfase p{max-width:70ch;margin:6px 0 14px}
+.orggrid{display:grid;grid-template-columns:1fr 1fr;gap:32px;margin:8px 0 4px}
+.orgdl{margin:0;font-size:15.5px}
+.orgdl dt{font-family:"IBM Plex Mono",monospace;font-size:12px;letter-spacing:.05em;color:var(--ink-3);margin-top:10px}
+.orgdl dd{margin:2px 0 0;color:var(--ink-2)}
+.dfig{margin:14px 0 26px;background:var(--card);border:1px solid var(--line);padding:14px 16px 10px}
+.dfig figcaption{margin-bottom:8px;font-size:15px}
+.dfig svg{width:100%;height:auto;display:block}
+.dbar{fill:var(--dl)}
+.dbar:hover{fill-opacity:.8}
+.dgrid{stroke:var(--line);stroke-width:1}
+.dzero{stroke:var(--ink-3);stroke-width:1}
+.dlab{font:600 12px "IBM Plex Mono",monospace;fill:var(--ink-2)}
+.dtick{font:11px "IBM Plex Mono",monospace;fill:var(--ink-3)}
+.dtable{margin-top:6px;border:0;background:none;padding:0}
+.dtable summary{font-family:"Barlow Condensed",sans-serif;text-transform:uppercase;letter-spacing:.03em;font-size:15px;color:var(--ochre)}
+.dtable table{border-collapse:collapse;font-size:13.5px;margin-top:8px;font-variant-numeric:tabular-nums}
+.dtable th,.dtable td{border:1px solid var(--line);padding:4px 8px;text-align:right}
+.dtable th:first-child,.dtable td:first-child,.dtable th:last-child,.dtable td:last-child{text-align:left}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .dbar{fill:var(--dd)}}
+:root[data-theme="dark"] .dbar{fill:var(--dd)}
+@media (max-width:760px){.orggrid{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
 <header class="top">
   <div class="wrap topbar">
     <a class="brand" href="../index.html">Formaat <span>1999–2025</span></a>
-    <nav><a href="../index.html">Tijdlijn</a><a href="../route.html">Virgilio's route</a><a href="../thema.html">Thema's</a><a href="../alles.html">Alle activiteiten</a><a href="../bronnen.html">Bronnen</a><a href="../over.html">Over</a><a class="ext" href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal van de joker ↗</a></nav>
+    <nav><a href="../index.html">Tijdlijn</a><a href="../route.html">Virgilio's route</a><a href="../thema.html">Thema's</a><a href="../organisatie.html">De organisatie</a><a href="../alles.html">Alle activiteiten</a><a href="../bronnen.html">Bronnen</a><a href="../over.html">Over</a><a class="ext" href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal van de joker ↗</a></nav>
   </div>
 </header>
 <article class="kaart" style="--c:#3E6B5A">
