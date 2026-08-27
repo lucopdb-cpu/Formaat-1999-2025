@@ -11,9 +11,9 @@ cijfers:
   - label: subsidie gemeente Rotterdam 2021
     waarde: € 62.000
   - label: jongeren bereikt met 'Sorry!' (2024)
-    waarde: 700+
+    waarde: "700+"
   - label: uitverkochte zalen 'Sorry!' (2024)
-    waarde: 12+
+    waarde: "12+"
   - label: jongeren in projectjaar 2022
     waarde: "28"
 status: concept

@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="nl" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jong &amp; Oud in de wijk · Formaat 1999–2025</title>
+<meta name="description" content="Wijkgerichte forumtheaterprojecten die jongeren en oudere bewoners weer aan het praten kregen">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>:root{--paper:#F6F3EC;--paper-2:#EDE8DD;--ink:#1C1915;--ink-2:#4A443B;--ink-3:#7A7267;--line:#D9D2C4;--ochre:#B8803C;--ochre-soft:#EBD9BD;--card:#FFFDF8;--shadow:0 1px 0 rgba(28,25,21,.06),0 8px 24px -16px rgba(28,25,21,.25)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#16140F;--paper-2:#1F1C15;--ink:#EFE9DD;--ink-2:#C9C1B2;--ink-3:#8F877A;--line:#37322A;--ochre:#D39A50;--ochre-soft:#3A2E1B;--card:#1D1A14;--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8)}}
+:root[data-theme="dark"]{--paper:#16140F;--paper-2:#1F1C15;--ink:#EFE9DD;--ink-2:#C9C1B2;--ink-3:#8F877A;--line:#37322A;--ochre:#D39A50;--ochre-soft:#3A2E1B;--card:#1D1A14;--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8)}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Source Serif 4",Georgia,"Times New Roman",serif;font-size:17px;line-height:1.55}
+a{color:inherit}
+.wrap{max-width:1180px;margin:0 auto;padding:0 28px}
+h1,h2,h3,.disp{font-family:"Barlow Condensed","Arial Narrow",Arial,sans-serif;font-weight:600;letter-spacing:.005em;line-height:1;text-wrap:balance;margin:0}
+.mono{font-family:"IBM Plex Mono","Courier New",monospace;font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
+.small{font-size:14px;color:var(--ink-2)}
+.proto{display:inline-block;margin:8px 0 14px;padding:4px 9px;border:1px dashed var(--ochre);border-radius:3px;color:var(--ochre)}
+/* top bar */
+.top{border-bottom:1px solid var(--line);background:var(--paper);position:sticky;top:0;z-index:5}
+.topbar{display:flex;justify-content:space-between;align-items:center;gap:20px;padding:12px 28px;flex-wrap:wrap}
+.brand{font-family:"Barlow Condensed",sans-serif;font-weight:700;font-size:26px;text-transform:uppercase;text-decoration:none;letter-spacing:.02em}
+.brand span{color:var(--ochre)}
+nav{display:flex;gap:18px;flex-wrap:wrap}
+nav a{font-family:"Barlow Condensed",sans-serif;font-size:17px;text-transform:uppercase;letter-spacing:.04em;text-decoration:none;color:var(--ink-2);border-bottom:2px solid transparent}
+nav a:hover{color:var(--ochre);border-bottom-color:var(--ochre)}
+nav a.ext{color:var(--ochre)}
+/* hero */
+.hero{padding:40px 0 10px;border-bottom:1px solid var(--line)}
+.hero h1{font-size:clamp(60px,9vw,120px);text-transform:uppercase;font-weight:700}
+.hero h1 span{color:var(--ochre)}
+.hero .lede{max-width:60ch;font-size:19px;color:var(--ink-2);margin:16px 0 10px}
+.hero-meta{margin-bottom:26px}
+.hero-meta a{color:var(--ochre)}
+section{padding:40px 0 8px}
+.sec-head{display:flex;justify-content:space-between;align-items:baseline;gap:20px;border-bottom:2px solid var(--ink);padding-bottom:8px;margin-bottom:22px}
+.sec-head h2{font-size:38px;text-transform:uppercase}
+.sec-head a{text-decoration:none}
+.lede{max-width:64ch;color:var(--ink-2);margin:0 0 22px}
+/* timeline */
+.tl{overflow-x:auto;padding-bottom:8px}
+.tl-inner{min-width:960px;display:grid;grid-template-columns:160px 1fr}
+.tl-years{grid-column:2;display:grid;grid-template-columns:repeat(var(--ny),1fr);border-bottom:1px solid var(--line);margin-bottom:6px}
+.tl-years span{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--ink-3);padding-bottom:6px;font-variant-numeric:tabular-nums}
+.tl-years span:nth-child(even){visibility:hidden}
+.tl-years span:last-child{visibility:visible}
+.track-label{display:flex;flex-direction:column;justify-content:center;padding:10px 12px 10px 0;border-top:1px solid var(--line)}
+.track-label b{font-family:"Barlow Condensed",sans-serif;font-weight:600;font-size:19px;text-transform:uppercase;letter-spacing:.02em}
+.track-label small{color:var(--ink-3);font-size:13px;font-style:italic}
+.track{position:relative;border-top:1px solid var(--line);padding:10px 0;display:grid;grid-template-columns:repeat(var(--ny),1fr);grid-auto-rows:22px;row-gap:5px;grid-auto-flow:dense;background:repeating-linear-gradient(90deg,transparent 0 calc(100%/var(--ny) - 1px),var(--line) calc(100%/var(--ny) - 1px) calc(100%/var(--ny)))}
+.bar{height:22px;border-radius:2px;display:flex;align-items:center;padding:0 8px;color:#fff;background:var(--c);font-family:"Barlow Condensed",sans-serif;font-size:14px;font-weight:600;letter-spacing:.02em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-decoration:none;min-width:0}
+.bar.stub{opacity:.55}
+.bar:hover{filter:brightness(1.15);opacity:1}
+.bar[data-n]::after{content:attr(data-n);margin-left:auto;padding-left:8px;font-family:"IBM Plex Mono",monospace;font-size:11px;font-weight:400;opacity:.85}
+.tl-note{grid-column:1/-1;padding:12px 0 0;color:var(--ink-3);font-size:14px;font-style:italic}
+/* minis */
+.minis{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px}
+.mini{display:block;text-decoration:none;background:var(--card);border:1px solid var(--line);border-top:6px solid var(--c);padding:16px 18px;box-shadow:var(--shadow)}
+.mini b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:28px;font-weight:600;text-transform:uppercase;margin:6px 0 4px;line-height:1}
+.mini em{color:var(--ink-2);font-size:15px}
+.mini:hover{border-color:var(--c)}
+/* route */
+.route{list-style:none;padding:0;margin:0;display:grid;gap:12px}
+.route li{display:grid;grid-template-columns:1fr auto;gap:16px;align-items:center;background:var(--card);border:1px solid var(--line);border-left:8px solid var(--c);padding:14px 18px}
+.route li>a:first-child{text-decoration:none}
+.route b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:26px;text-transform:uppercase;font-weight:600;margin:4px 0}
+.route em{color:var(--ink-2);font-size:15px}
+.route .ars{font-family:"Barlow Condensed",sans-serif;text-transform:uppercase;letter-spacing:.03em;text-decoration:none;color:var(--ochre);white-space:nowrap}
+/* lists */
+.glist{list-style:none;padding:0;margin:0 0 26px;columns:2;column-gap:32px}
+.glist li{break-inside:avoid;padding:5px 0 5px 12px;border-left:4px solid var(--c);margin-bottom:6px}
+.glist a{text-decoration:none}
+.glist a:hover{color:var(--ochre)}
+details{border:1px solid var(--line);background:var(--card);margin:0 0 8px;padding:8px 14px}
+summary{cursor:pointer;font-size:16px}
+summary a{color:var(--ochre)}
+.items{padding-left:0;list-style:none;margin:10px 0 4px}
+.items li{padding:6px 0;border-top:1px solid var(--line)}
+.items .status{color:var(--ink-3)}
+section h2{font-size:30px;text-transform:uppercase;margin:26px 0 10px;border-left:8px solid var(--c,var(--ochre));padding-left:10px}
+.docs,.pers{padding-left:18px;font-size:15px}
+.docs li,.pers li{margin:0 0 5px}
+/* kaart */
+.kaart{padding:34px 0 20px}
+.kaart-head{border-bottom:2px solid var(--ink);padding-bottom:14px;margin-bottom:22px}
+.kaart-head .mono a{text-decoration:none;color:var(--c)}
+.kaart-head h1{font-size:clamp(40px,6vw,72px);text-transform:uppercase;margin:8px 0 6px}
+.kaart-head .sub{font-style:italic;color:var(--ink-2);margin:0;font-size:19px}
+.kaart-grid{display:grid;grid-template-columns:minmax(0,1fr) 280px;gap:36px}
+.kaart-body{max-width:70ch}
+.kaart-body h2{font-size:26px;text-transform:uppercase;margin:28px 0 8px;border-left:8px solid var(--c);padding-left:10px}
+.kaart-body p{margin:0 0 12px}
+.kaart-body blockquote{margin:0 0 10px;padding:6px 12px;border-left:3px solid var(--ochre);background:var(--ochre-soft);font-size:14.5px;color:var(--ink-2)}
+.kaart-body ul{padding-left:20px}
+.kaart-body li{margin:0 0 6px}
+.facts{display:flex;gap:22px;flex-wrap:wrap;padding:12px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-bottom:6px}
+.fact b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:34px;font-weight:600;line-height:1;font-variant-numeric:tabular-nums}
+.fact span{font-size:12.5px;color:var(--ink-3)}
+.kaart-side dl{margin:0;font-size:15px}
+.kaart-side dt{font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);margin-top:12px}
+.kaart-side dd{margin:2px 0 0;color:var(--ink-2)}
+.videos{display:grid;gap:16px}
+.yt{position:relative;padding-top:56.25%;background:var(--paper-2)}
+.yt iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+figure{margin:0}
+figcaption{font-size:13px;color:var(--ink-3);margin-top:4px}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
+.gallery img{width:100%;height:auto;display:block;border:1px solid var(--line)}
+.prose{max-width:70ch}
+.prose h2{font-size:26px;text-transform:uppercase;margin:24px 0 8px}
+footer{margin-top:48px;border-top:1px solid var(--line);padding:22px 0 40px;color:var(--ink-3);font-size:14px}
+footer p{margin:0 0 6px;max-width:90ch}
+:focus-visible{outline:2px solid var(--ochre);outline-offset:2px}
+@media (max-width:760px){.kaart-grid{grid-template-columns:1fr}.glist{columns:1}.route li{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap topbar">
+    <a class="brand" href="../index.html">Formaat <span>1999–2025</span></a>
+    <nav><a href="../index.html">Tijdlijn</a><a href="../route.html">Virgilio's route</a><a href="../thema.html">Thema's</a><a href="../alles.html">Alle activiteiten</a><a href="../bronnen.html">Bronnen</a><a href="../over.html">Over</a><a class="ext" href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal van de joker ↗</a></nav>
+  </div>
+</header>
+<article class="kaart" style="--c:#3E6B5A">
+<div class="wrap">
+<div class="kaart-head">
+  <div class="mono"><a href="../index.html#wijk">Wijk &amp; legislatief theater</a> · 2004–2007</div>
+  <h1>Jong &amp; Oud in de wijk</h1>
+  <p class="sub">Wijkgerichte forumtheaterprojecten die jongeren en oudere bewoners weer aan het praten kregen</p>
+  <span class="mono proto">concept · nog te controleren</span>
+</div>
+<div class="kaart-grid">
+<div class="kaart-body"><div class="facts"><div class="fact"><b>8</b><span>wijkprojecten</span></div><div class="fact"><b>70</b><span>deelnemers Osdorp 2004</span></div><div class="fact"><b>120</b><span>bezoekers derde voorstelling Vlaardingen-Holy</span></div><div class="fact"><b>1 + 1</b><span>onderzoeksrapport en dvd</span></div></div><h2>De vraag</h2>
+<p>In de jaren na 2003 liepen in veel wijken de spanningen op tussen groepen jongeren, vaak van Marokkaanse of Antilliaanse afkomst, en oudere bewoners. Er kwamen samenscholingsverboden, avondklokvoorstellen en hotspot-aanpakken. Wat er niet kwam, was gesprek: ouderen waren bang voor groepjes op het plein, jongeren voelden zich als bewoner weggezet. Stadsdelen, welzijnsorganisaties en veiligheidsprogramma's klopten bij Formaat aan met dezelfde vraag: kan theater de dialoog herstellen waar die is opgezegd?</p>
+<h2>Aanpak</h2>
+<p>Formaat werkte volgens een in Assen beproefde werkwijze in vier stappen. Eerst aparte beeldentheaterworkshops met jongeren en met ouderen, waarin beide groepen hun beeld van de wijk laten zien. Die informatie wordt verwerkt in een script; professionele spelers, soms aangevuld met jongeren uit de wijk, repeteren het in twee dagen. Dan volgt een oplossingsgerichte forumvoorstelling in de buurt, waarbij het publiek de scènes kan stoppen en veranderen onder leiding van een joker. De voorstelling vergroot de situatie uit en koppelt haar aan het actuele beleid. Het slot is geen oplossing maar een gesprek dat weer op gang komt.</p>
+<h2>Wat er gebeurde</h2>
+<p>In november 2004 begon het in Amsterdam-Osdorp, in het Zuidwestkwadrant, na conflicten tussen Marokkaanse jongeren en oudere bewoners. Het forumstuk schetste escalatie en wantrouwen; de jongeren in de zaal protesteerden en deden een gebaar naar de ouderen: veiligheid is ook onze zaak. Zeventig mensen deden mee en de spanningen namen daarna af. Diezelfde maand, kort na de moord op Theo van Gogh, speelde Formaat in de Rotterdamse Lusthofbuurt rond het samenscholingsverbod in de Lusthofstraat; na afloop organiseerden jongeren activiteiten met en voor ouderen. In Delft-Voorhof volgde in mei 2005 een plenaire workshop met vijftig deelnemers, waarin een aarzelende toenadering zichtbaar werd.</p>
+<p>Het seizoen 2005-2006 bracht drie projecten in gepolariseerde buurten. In Delft, Het Heilige Land, hadden jongeren en omwonenden van een plein de dialoog opgezegd; de jongeren wilden aanvankelijk niet meedoen aan oefeningen, waarna gekozen werd voor luisteren naar hun verhaal. Het forumstuk 'Avondklok – Ophokken!' bracht heftige emoties boven, maar na afloop spraken jongeren en ouderen drie kwartier over oplossingen. In Rotterdam vroeg het Programmabureau Veilig om twee experimenten: 'Geen ID – Ticket to the Tropics' in Schiemond over overlast in een portiek, en 'Hotspot – Circus Bolliani' in Bloemhof, rond het plein bij buurthuis Irene dat tegelijk hotspot en officiële hangplek was. Bureau Organamic onderzocht in opdracht van de Directie Veiligheid wat de projecten losmaakten; conclusie: participatief drama activeert bewoners, schept kansen voor dialoog en levert de gemeente werk op. Rapport en dvd werden in het najaar van 2006 besproken als mogelijke best practice.</p>
+<p>In 2006-2007 volgden twee grotere projecten. In de Valutabuurt in Osdorp, een nieuwbouwwijk, bleek het moeizame contact tussen wijkagent en jeugd het grootste probleem; in het forumstuk werd de wijkagent onzichtbaar gemaakt, zodat bewoners hun eigen vermogen om conflicten op te lossen lieten zien. In Vlaardingen-Holy, onder de titel 'Holy Shit', werden drie voorstellingen gespeeld voor 45, 60 en 120 bezoekers; er werden veel jongeren bereikt die het jongerenwerk nog niet kende en het aantal overlastklachten nam af ten opzichte van 2004. De ervaringen uit deze reeks vloeiden later in het Jongerenatelier en de stadsdialogen.</p>
+<h2>Mensen en partners</h2>
+<p>Opdrachtgevers waren stadsdeel Osdorp (in 2006 vanuit het beleid 'Wij Amsterdammers'), jongerenwerk Knooppunt Kralingen, Breed Welzijn Delft, het Programmabureau Veilig Rotterdam en de gemeente Vlaardingen met Bureau Welzijnsprojecten. Luc Opdebeeck leidde de workshops, de regie en het jokerwerk; een collega verzorgde werving, publiciteit en het natraject, en het script voor Vlaardingen kwam van een schrijver uit het team. Jongeren en volwassenen uit de wijken ontwikkelden de stukken, professionele acteurs speelden ze, in Vlaardingen samen met jongeren.</p>
+<h2>Jokerlessen</h2>
+<blockquote>
+<p>Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.</p>
+</blockquote>
+<ul>
+<li><strong>Luister eerst, oefen later</strong> — In Het Heilige Land weigerden jongeren de oefeningen; het verhaal aanhoren werd de workshop. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html">Joker-praktijk › groepsvorming</a></li>
+<li><strong>Maak de autoriteit onzichtbaar</strong> — Zonder wijkagent op het toneel moesten bewoners in Osdorp zelf het conflict oplossen, en dat konden ze. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Forumtheater</a></li>
+<li><strong>Niet te snel naar oplossingen</strong> — Het slot van een wijkvoorstelling is het eerste gesprek, niet het akkoord; laat een bewonerswerkgroep het vervolg dragen. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Legislatief theater</a></li>
+</ul>
+<h2>Bronnen</h2>
+<ul>
+<li>Formaat jaarverslag 2004-2005, hoofdstuk 2 'Jong &amp; Oud in de (multiculturele) wijk', p. 20-21</li>
+<li>Formaat jaarverslag 2005-2006, hoofdstuk 2 'Jong &amp; Oud in de (multiculturele) wijk', p. 18-19 en hoofdstuk 3 'WerkPAD', p. 32-33</li>
+<li>Formaat jaarverslag 2006-2007, 2.3 'Jong en Oud in de wijk – Amsterdam-Osdorp' en 'Vlaardingen-Holy', p. 22-24</li>
+<li>'Pilot Participatief Drama in een Rotterdamse wijk' (onderzoeksverslag, juli 2006) en dvd 'Hot Spot – Participatief Drama in een Rotterdamse wijk' (Gemeente Rotterdam, Directie Veiligheid, 2006)</li>
+<li>Pers: wijkkrant Vlaardingen-Holy, 'Wijkproject Holy' (oktober 2006)</li>
+</ul><h2>In de pers</h2><ul class="pers"><li><span class="mono">2006-10</span> wijkkrant Vlaardingen-Holy — Wijkproject Holy (Jong &amp; Oud in de wijk)</li></ul><h2>Activiteiten per seizoen</h2><ol class="items"><li id="2004-jong-oud-in-de-wijk-amsterdam-osdorp-zuidwestkwadrant"><span class="mono">2004-2005</span> <b>Jong &amp; Oud in de wijk – Amsterdam Osdorp (Zuidwestkwadrant)</b><br><span class="small">Wijkproject in november/december 2004 gericht op de dialoog tussen jong en oud in Osdorp. Het op basis van de workshops gemaakte Forumstuk schetste een beeld van escalatie en wantrouwen; de Marokkaanse jongeren in de zaal protesteerden en deden een gebaar naar de ouderen: veiligheid is ook onze zaak. De spanningen in de wijk namen daarna af.</span></li><li id="2004-jong-oud-in-de-wijk-rotterdam-lusthofbuurt-kralingen-west"><span class="mono">2004-2005</span> <b>Jong &amp; Oud in de wijk – Rotterdam Lusthofbuurt (Kralingen-West)</b><br><span class="small">Wijkgericht project in november 2004, kort na de moord op Theo van Gogh, rond het samenscholingsverbod in de Lusthofstraat. Marokkaanse jongeren ervoeren het verbod als een ingreep in hun rechten als wijkbewoner; de voorstelling draaide om de vraag of criminaliteitsbestrijding tegen elke prijs mag. Na afloop verminderden de spanningen en organiseerden jongeren activiteiten met en voor ouderen.</span></li><li id="2005-jong-oud-in-de-wijk-delft-voorhof"><span class="mono">2004-2005</span> <b>Jong &amp; Oud in de wijk – Delft Voorhof</b><br><span class="small">Plenaire workshop in mei 2005 als uitvloeisel van een onderzoek waarin ouderen hun angst voor groepjes jongeren uitspraken, maar ook de wens de jongeren beter te leren kennen. De workshop liet een aarzelende toenadering zien met een duidelijk dialoogaanbod aan het slot. De jongeren in dit project waren aanzienlijk jonger dan in Rotterdam en Amsterdam.</span></li><li id="2006-jong-oud-in-de-wijk-delft-heilige-land-vrijenban-avondklok-ophokken"><span class="mono">2005-2006</span> <b>Jong &amp; Oud in de wijk – Delft Heilige Land (Vrijenban): &#x27;Avondklok – Ophokken!&#x27;</b><br><span class="small">Wijkproject in februari/maart 2006 in een buurt waar de spanningen tussen jongeren en omwonenden van een plein hoog waren opgelopen en beide partijen de dialoog hadden opgezegd. Op basis van de verhalen van bewoners werd het Forumstuk &#x27;Avondklok – Ophokken!&#x27; gemaakt. Tijdens de voorstelling kwamen heftige emoties naar boven, maar aan het slot ontstonden voorzichtig de eerste gesprekken.</span></li><li id="2006-jong-oud-in-de-wijk-rotterdam-bloemhof-hotspot-circus-bolliani"><span class="mono">2005-2006</span> <b>Jong &amp; Oud in de wijk – Rotterdam Bloemhof: &#x27;Hotspot – Circus Bolliani&#x27;</b><br><span class="small">Wijkproject in april/mei 2006 rond het plein bij buurthuis Irene, dat al jaren bekendstond als hotspot en tegelijkertijd officiële hangplek was. De voorstelling &#x27;Hotspot – Circus Bolliani&#x27; legde de vinger op de zere plek; ook hier was de opkomst van jongeren verrassend hoog. Van het project werd een DVD gemaakt bij het onderzoeksrapport voor de gemeente Rotterdam.</span></li><li id="2006-jong-oud-in-de-wijk-rotterdam-schiemond-geen-id-ticket-to-the-tropics"><span class="mono">2005-2006</span> <b>Jong &amp; Oud in de wijk – Rotterdam Schiemond: &#x27;Geen ID – Ticket to the Tropics&#x27;</b><br><span class="small">Wijkproject in maart/april 2006, onderdeel van een experiment van Programmabureau Veilig Rotterdam. Centraal stond de overlast van jongeren in een portiek, met op de achtergrond de bonnenquota van de politie. Hoewel de opkomst van volwassenen bij de voorstelling &#x27;Geen ID – Ticket to the Tropics&#x27; laag was, deden de jongeren een duidelijke handreiking. Het project werd onderzocht in het rapport &#x27;Pilot Participatief Drama in Schiemond&#x27;.</span></li><li id="2006-onderzoek-pilot-participatief-drama-in-schiemond-en-dvd-bloemhof"><span class="mono">2005-2006</span> <b>Onderzoek &#x27;Pilot Participatief Drama in Schiemond&#x27; en DVD Bloemhof</b><br><span class="small">In opdracht van de Directie Veiligheid van de gemeente Rotterdam onderzocht bureau Organamic de processen die de wijkgerichte projecten van Formaat bij bewoners, opbouwwerk en jongerenwerk losmaken. Conclusie: participatief drama activeert bewoners, schept kansen voor dialoog en samenwerking en levert de (deel)gemeente werk op. Het rapport en de bijbehorende DVD over het wijkproject in Bloemhof werden in het najaar van 2006 in Rotterdam besproken als potentiële best practice.</span></li><li id="2006-jong-oud-in-de-wijk-amsterdam-osdorp-valutabuurt"><span class="mono">2006-2007</span> <b>Jong &amp; Oud in de wijk – Amsterdam-Osdorp (Valutabuurt)</b><br><span class="small">Spin-off van het project in de Zuidwesthoek van Osdorp in 2004, uitgevoerd in de Valutabuurt, een nieuwbouwwijk met een diverse bevolking. Het grootste probleem bleek het moeizame contact tussen wijkagent en jeugd, in het Forumstuk verbeeld door de wijkagent onzichtbaar te maken, zodat bewoners hun eigen vermogen om conflicten op te lossen toonden. De voorstelling viel samen met de opening van het wijkgebouw; als concrete vervolgstap werd een gezamenlijk zomerfeest voorgesteld.</span></li><li id="2006-jong-oud-in-de-wijk-vlaardingen-holy"><span class="mono">2006-2007</span> <b>Jong &amp; Oud in de wijk – Vlaardingen-Holy</b><br><span class="small">Wijkproject met een tweeledige opdracht: concrete ideeën verzamelen tegen jongerenoverlast en jong en oud met elkaar in contact brengen. Na voorbereidingsworkshops met bewoners werd een Forumstuk (script Ronald Matthijssen) gemaakt waarin conflictueuze ontmoetingen tussen jong en oud worden uitgespeeld; omdat Holy een grote wijk is werden drie voorstellingen gespeeld. De opkomst was opvallend hoog en er werden veel jongeren bereikt die nog niet bij het jongerenwerk in beeld waren; het aantal overlastklachten nam af ten opzichte van 2004.</span></li></ol></div>
+<aside class="kaart-side"><dl><dt>Plaatsen</dt><dd>Amsterdam-Osdorp, Rotterdam Kralingen-West, Delft Voorhof, Delft Het Heilige Land, Rotterdam Bloemhof, Rotterdam Schiemond, Vlaardingen Holy</dd><dt>Partners</dt><dd>Stadsdeel Osdorp, Knooppunt Kralingen, Breed Welzijn Delft, Programmabureau Veilig Rotterdam / Directie Veiligheid gemeente Rotterdam, bureau Organamic, gemeente Vlaardingen, Bureau Welzijnsprojecten Vlaardingen</dd><dt>Thema</dt><dd>wijk, jongeren, ouderen, veiligheid</dd></dl>
+<p class="small">Deze kaart hoort bij het spoor <b>Wijk &amp; legislatief theater</b>. Het <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal van de joker</a> beschrijft de oefeningen en houdingen waarnaar de jokerlessen verwijzen.</p>
+</dl></aside>
+</div></div></article>
+<footer><div class="wrap">
+<p>Formaat 1999–2025 is het werk van Stichting Formaat, Werkplaats voor Participatief Drama (Rotterdam, 1999–2025), en van de jokers, spelers en partners die de projecten droegen. Samengesteld door Luc Opdebeeck.</p>
+<p>Licentie: nog vast te stellen (voorstel: teksten en eigen beeld CC BY-SA 4.0, code MIT). Bronmateriaal: jaarverslagen en projectdocumenten in het Formaat-archief; foto&#x27;s alleen met toestemming; video via YouTube-kanaal Formaat231.</p>
+<p class="mono">Gegenereerd uit <code>data/</code> en <code>kaarten/</code> · <a href="https://github.com/lucopdb-cpu/Formaat-1999-2025">broncode en correcties</a></p>
+</div></footer>
+</body>
+</html>

@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="nl" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Module Participatief Drama Hogeschool Rotterdam · Formaat 1999–2025</title>
+<meta name="description" content="Participatief drama als vast onderdeel van het curriculum voor sociaal-cultureel werkers, en later voor hun docenten">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>:root{--paper:#F6F3EC;--paper-2:#EDE8DD;--ink:#1C1915;--ink-2:#4A443B;--ink-3:#7A7267;--line:#D9D2C4;--ochre:#B8803C;--ochre-soft:#EBD9BD;--card:#FFFDF8;--shadow:0 1px 0 rgba(28,25,21,.06),0 8px 24px -16px rgba(28,25,21,.25)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#16140F;--paper-2:#1F1C15;--ink:#EFE9DD;--ink-2:#C9C1B2;--ink-3:#8F877A;--line:#37322A;--ochre:#D39A50;--ochre-soft:#3A2E1B;--card:#1D1A14;--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8)}}
+:root[data-theme="dark"]{--paper:#16140F;--paper-2:#1F1C15;--ink:#EFE9DD;--ink-2:#C9C1B2;--ink-3:#8F877A;--line:#37322A;--ochre:#D39A50;--ochre-soft:#3A2E1B;--card:#1D1A14;--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8)}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Source Serif 4",Georgia,"Times New Roman",serif;font-size:17px;line-height:1.55}
+a{color:inherit}
+.wrap{max-width:1180px;margin:0 auto;padding:0 28px}
+h1,h2,h3,.disp{font-family:"Barlow Condensed","Arial Narrow",Arial,sans-serif;font-weight:600;letter-spacing:.005em;line-height:1;text-wrap:balance;margin:0}
+.mono{font-family:"IBM Plex Mono","Courier New",monospace;font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
+.small{font-size:14px;color:var(--ink-2)}
+.proto{display:inline-block;margin:8px 0 14px;padding:4px 9px;border:1px dashed var(--ochre);border-radius:3px;color:var(--ochre)}
+/* top bar */
+.top{border-bottom:1px solid var(--line);background:var(--paper);position:sticky;top:0;z-index:5}
+.topbar{display:flex;justify-content:space-between;align-items:center;gap:20px;padding:12px 28px;flex-wrap:wrap}
+.brand{font-family:"Barlow Condensed",sans-serif;font-weight:700;font-size:26px;text-transform:uppercase;text-decoration:none;letter-spacing:.02em}
+.brand span{color:var(--ochre)}
+nav{display:flex;gap:18px;flex-wrap:wrap}
+nav a{font-family:"Barlow Condensed",sans-serif;font-size:17px;text-transform:uppercase;letter-spacing:.04em;text-decoration:none;color:var(--ink-2);border-bottom:2px solid transparent}
+nav a:hover{color:var(--ochre);border-bottom-color:var(--ochre)}
+nav a.ext{color:var(--ochre)}
+/* hero */
+.hero{padding:40px 0 10px;border-bottom:1px solid var(--line)}
+.hero h1{font-size:clamp(60px,9vw,120px);text-transform:uppercase;font-weight:700}
+.hero h1 span{color:var(--ochre)}
+.hero .lede{max-width:60ch;font-size:19px;color:var(--ink-2);margin:16px 0 10px}
+.hero-meta{margin-bottom:26px}
+.hero-meta a{color:var(--ochre)}
+section{padding:40px 0 8px}
+.sec-head{display:flex;justify-content:space-between;align-items:baseline;gap:20px;border-bottom:2px solid var(--ink);padding-bottom:8px;margin-bottom:22px}
+.sec-head h2{font-size:38px;text-transform:uppercase}
+.sec-head a{text-decoration:none}
+.lede{max-width:64ch;color:var(--ink-2);margin:0 0 22px}
+/* timeline */
+.tl{overflow-x:auto;padding-bottom:8px}
+.tl-inner{min-width:960px;display:grid;grid-template-columns:160px 1fr}
+.tl-years{grid-column:2;display:grid;grid-template-columns:repeat(var(--ny),1fr);border-bottom:1px solid var(--line);margin-bottom:6px}
+.tl-years span{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--ink-3);padding-bottom:6px;font-variant-numeric:tabular-nums}
+.tl-years span:nth-child(even){visibility:hidden}
+.tl-years span:last-child{visibility:visible}
+.track-label{display:flex;flex-direction:column;justify-content:center;padding:10px 12px 10px 0;border-top:1px solid var(--line)}
+.track-label b{font-family:"Barlow Condensed",sans-serif;font-weight:600;font-size:19px;text-transform:uppercase;letter-spacing:.02em}
+.track-label small{color:var(--ink-3);font-size:13px;font-style:italic}
+.track{position:relative;border-top:1px solid var(--line);padding:10px 0;display:grid;grid-template-columns:repeat(var(--ny),1fr);grid-auto-rows:22px;row-gap:5px;grid-auto-flow:dense;background:repeating-linear-gradient(90deg,transparent 0 calc(100%/var(--ny) - 1px),var(--line) calc(100%/var(--ny) - 1px) calc(100%/var(--ny)))}
+.bar{height:22px;border-radius:2px;display:flex;align-items:center;padding:0 8px;color:#fff;background:var(--c);font-family:"Barlow Condensed",sans-serif;font-size:14px;font-weight:600;letter-spacing:.02em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-decoration:none;min-width:0}
+.bar.stub{opacity:.55}
+.bar:hover{filter:brightness(1.15);opacity:1}
+.bar[data-n]::after{content:attr(data-n);margin-left:auto;padding-left:8px;font-family:"IBM Plex Mono",monospace;font-size:11px;font-weight:400;opacity:.85}
+.tl-note{grid-column:1/-1;padding:12px 0 0;color:var(--ink-3);font-size:14px;font-style:italic}
+/* minis */
+.minis{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px}
+.mini{display:block;text-decoration:none;background:var(--card);border:1px solid var(--line);border-top:6px solid var(--c);padding:16px 18px;box-shadow:var(--shadow)}
+.mini b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:28px;font-weight:600;text-transform:uppercase;margin:6px 0 4px;line-height:1}
+.mini em{color:var(--ink-2);font-size:15px}
+.mini:hover{border-color:var(--c)}
+/* route */
+.route{list-style:none;padding:0;margin:0;display:grid;gap:12px}
+.route li{display:grid;grid-template-columns:1fr auto;gap:16px;align-items:center;background:var(--card);border:1px solid var(--line);border-left:8px solid var(--c);padding:14px 18px}
+.route li>a:first-child{text-decoration:none}
+.route b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:26px;text-transform:uppercase;font-weight:600;margin:4px 0}
+.route em{color:var(--ink-2);font-size:15px}
+.route .ars{font-family:"Barlow Condensed",sans-serif;text-transform:uppercase;letter-spacing:.03em;text-decoration:none;color:var(--ochre);white-space:nowrap}
+/* lists */
+.glist{list-style:none;padding:0;margin:0 0 26px;columns:2;column-gap:32px}
+.glist li{break-inside:avoid;padding:5px 0 5px 12px;border-left:4px solid var(--c);margin-bottom:6px}
+.glist a{text-decoration:none}
+.glist a:hover{color:var(--ochre)}
+details{border:1px solid var(--line);background:var(--card);margin:0 0 8px;padding:8px 14px}
+summary{cursor:pointer;font-size:16px}
+summary a{color:var(--ochre)}
+.items{padding-left:0;list-style:none;margin:10px 0 4px}
+.items li{padding:6px 0;border-top:1px solid var(--line)}
+.items .status{color:var(--ink-3)}
+section h2{font-size:30px;text-transform:uppercase;margin:26px 0 10px;border-left:8px solid var(--c,var(--ochre));padding-left:10px}
+.docs,.pers{padding-left:18px;font-size:15px}
+.docs li,.pers li{margin:0 0 5px}
+/* kaart */
+.kaart{padding:34px 0 20px}
+.kaart-head{border-bottom:2px solid var(--ink);padding-bottom:14px;margin-bottom:22px}
+.kaart-head .mono a{text-decoration:none;color:var(--c)}
+.kaart-head h1{font-size:clamp(40px,6vw,72px);text-transform:uppercase;margin:8px 0 6px}
+.kaart-head .sub{font-style:italic;color:var(--ink-2);margin:0;font-size:19px}
+.kaart-grid{display:grid;grid-template-columns:minmax(0,1fr) 280px;gap:36px}
+.kaart-body{max-width:70ch}
+.kaart-body h2{font-size:26px;text-transform:uppercase;margin:28px 0 8px;border-left:8px solid var(--c);padding-left:10px}
+.kaart-body p{margin:0 0 12px}
+.kaart-body blockquote{margin:0 0 10px;padding:6px 12px;border-left:3px solid var(--ochre);background:var(--ochre-soft);font-size:14.5px;color:var(--ink-2)}
+.kaart-body ul{padding-left:20px}
+.kaart-body li{margin:0 0 6px}
+.facts{display:flex;gap:22px;flex-wrap:wrap;padding:12px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-bottom:6px}
+.fact b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:34px;font-weight:600;line-height:1;font-variant-numeric:tabular-nums}
+.fact span{font-size:12.5px;color:var(--ink-3)}
+.kaart-side dl{margin:0;font-size:15px}
+.kaart-side dt{font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);margin-top:12px}
+.kaart-side dd{margin:2px 0 0;color:var(--ink-2)}
+.videos{display:grid;gap:16px}
+.yt{position:relative;padding-top:56.25%;background:var(--paper-2)}
+.yt iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+figure{margin:0}
+figcaption{font-size:13px;color:var(--ink-3);margin-top:4px}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
+.gallery img{width:100%;height:auto;display:block;border:1px solid var(--line)}
+.prose{max-width:70ch}
+.prose h2{font-size:26px;text-transform:uppercase;margin:24px 0 8px}
+footer{margin-top:48px;border-top:1px solid var(--line);padding:22px 0 40px;color:var(--ink-3);font-size:14px}
+footer p{margin:0 0 6px;max-width:90ch}
+:focus-visible{outline:2px solid var(--ochre);outline-offset:2px}
+@media (max-width:760px){.kaart-grid{grid-template-columns:1fr}.glist{columns:1}.route li{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap topbar">
+    <a class="brand" href="../index.html">Formaat <span>1999–2025</span></a>
+    <nav><a href="../index.html">Tijdlijn</a><a href="../route.html">Virgilio's route</a><a href="../thema.html">Thema's</a><a href="../alles.html">Alle activiteiten</a><a href="../bronnen.html">Bronnen</a><a href="../over.html">Over</a><a class="ext" href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal van de joker ↗</a></nav>
+  </div>
+</header>
+<article class="kaart" style="--c:#6B5A8A">
+<div class="wrap">
+<div class="kaart-head">
+  <div class="mono"><a href="../index.html#multiplicatie">Multiplicatie</a> · 2010–2020</div>
+  <h1>Module Participatief Drama Hogeschool Rotterdam</h1>
+  <p class="sub">Participatief drama als vast onderdeel van het curriculum voor sociaal-cultureel werkers, en later voor hun docenten</p>
+  <span class="mono proto">concept · nog te controleren</span>
+</div>
+<div class="kaart-grid">
+<div class="kaart-body"><div class="facts"><div class="fact"><b>ca. 50</b><span>studenten per jaar</span></div><div class="fact"><b>57</b><span>studenten 2011-2012</span></div><div class="fact"><b>10</b><span>lessen per module</span></div><div class="fact"><b>2</b><span>studiepunten</span></div></div><h2>De vraag</h2>
+<p>Hoe zorg je dat participatief drama niet alleen bij Formaat blijft, maar terechtkomt bij de mensen die straks in buurthuizen, jongerencentra en zorginstellingen werken? De jokeropleiding van Formaat bereikte professionals die al kozen voor de methode. De Hogeschool Rotterdam bood iets anders: een hele lichting toekomstige sociaal-cultureel werkers, nog vóór ze het werkveld in gingen. In 2010 werd Participatief Drama voor het eerst opgenomen in het curriculum van de opleiding Culturele en Maatschappelijke Vorming (CMV), als module van twee studiepunten voor alle tweedejaars studenten.</p>
+<h2>Aanpak</h2>
+<p>De module bestond uit tien lessen van tweeënhalf uur, gegeven door Luc Opdebeeck in de rol van docent en joker. Studenten leerden de basis van de methodiek: beeldentheater, forumtheater, het werken met een brongroep en de rol van de joker. De lessen waren geen theorie over drama maar drama zelf: studenten brachten eigen thema's in, van studiedruk tot werkveldervaringen, en maakten daar scènes van. Zo fungeerde de module ook als platform om zaken bespreekbaar te maken waar studenten zelf mee kampten. Vanaf 2013 draaiden er twee modules naast elkaar op maandagen, met een gezamenlijke opening met een optreden van het DUNK-team en een gezamenlijke slotpresentatie.</p>
+<h2>Wat er gebeurde</h2>
+<p>Het eerste jaar, 2010-2011, was meteen een succes: de feedback van de studenten werd in het jaarverslag 'overweldigend positief' genoemd. In 2011-2012 volgden 57 tweedejaars de module. Ze ontdekten de link tussen studie en werkveld, wat democratisch leiderschap betekent en het verschil tussen werken 'voor een doelgroep' en werken 'met een brongroep'. Twee studenten kwamen daarna als stagiair bij Formaat werken; een jaar later liepen vijf CMV-studenten stage in de Werkplaats.</p>
+<p>De module werd een jaarlijks terugkerend programma voor circa vijftig studenten per jaar. In het najaar van 2013 startten twee parallelle modules op 9 september, met een gezamenlijke presentatie op 11 november; in 2014 en 2015 werd dat herhaald. De hogeschool sprak de wens uit om de module sterker te verbinden met het theoretisch kader van de opleiding en participatief drama mogelijk breder binnen het instituut in te zetten. Daarmee werd de module, naast de eigen jokeropleiding, de belangrijkste kweekvijver van stagiairs en aspirant-jokers van Formaat.</p>
+<p>De samenwerking kreeg in 2019 een vervolg op een ander niveau. Voor docenten van de opleiding Social Work, waarin CMV inmiddels was opgegaan, organiseerde Formaat een opleidingstraject participatief drama in de eigen Werkplaats. Na selectiegesprekken en een opening met het Stadsatelier op 11 juli 2019 vond de opleiding vanaf 10 september 2019 wekelijks op dinsdagochtend plaats. De multiplicatie was daarmee rond: van studenten naar hun docenten.</p>
+<h2>Mensen en partners</h2>
+<p>Partner was de Hogeschool Rotterdam, eerst de opleiding Culturele en Maatschappelijke Vorming en later de opleiding Social Work. Luc Opdebeeck gaf de module; de artistiek leider en jokers van Formaat verzorgden de docententraining. Het DUNK-team van ervaringsdeskundige spelers trad op bij de openingen. Studenten die de module hadden gevolgd, kwamen als stagiair terug bij Formaat en werkten mee in de theaterateliers en wijkprojecten.</p>
+<h2>Jokerlessen</h2>
+<blockquote>
+<p>Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.</p>
+</blockquote>
+<ul>
+<li><strong>Met een brongroep, niet voor een doelgroep</strong> — Het belangrijkste dat studenten meenamen was geen techniek maar een houding; maak dat onderscheid in les één expliciet. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html">Joker-praktijk</a></li>
+<li><strong>Studenten zijn zelf een brongroep</strong> — De module werkte omdat studenten hun eigen zorgen inbrachten in plaats van te oefenen op fictieve cliënten. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Forumtheater</a></li>
+<li><strong>Open met de ervaringsdeskundigen</strong> — Een optreden van DUNK bij de start liet zien wat de methode oplevert voordat er één oefening was gedaan. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal</a></li>
+</ul>
+<h2>Bronnen</h2>
+<ul>
+<li>Formaat jaarverslag 2010-2011, hoofdstuk 3.3, p. 29-30</li>
+<li>Formaat jaarverslag 2011-2012, hoofdstuk 1.3, p. 14 en 5.3.1</li>
+<li>Formaat jaarverslag 2012-2013, hoofdstuk 1.5, p. 10 en 5.3.1</li>
+<li>Formaat jaarverslag 2014-2016, 3.2</li>
+<li>Studiehandleiding 'Vorming en begeleiding', module Participatief Drama CMV (Stichting Formaat / Hogeschool Rotterdam, 2010)</li>
+</ul><h2>Activiteiten per seizoen</h2><ol class="items"><li id="2010-module-participatief-drama-cmv-opleiding-hogeschool-rotterdam"><span class="mono">2010-2011</span> <b>Module Participatief Drama CMV-opleiding Hogeschool Rotterdam</b><br><span class="small">Voor het eerst opgenomen in het curriculum: een module Participatief Drama van 2 studiepunten en 10 lessen, gegeven door Luc Opdebeeck, waarin de basis van de methodiek voor het werkveld van CMV&#x27;ers wordt overgedragen. De feedback van de studenten was overweldigend positief.</span></li><li id="2011-module-participatief-drama-cmv-opleiding-hogeschool-rotterdam"><span class="mono">2011-2012</span> <b>Module Participatief Drama CMV-opleiding Hogeschool Rotterdam</b><br><span class="small">Module Participatief Drama van 2 studiepunten en 10 lessen voor 57 tweedejaars studenten Culturele Maatschappelijke Vorming. Studenten ontdekten de link tussen studie en werkveld, democratisch leiderschap en het werken &#x27;met een brongroep&#x27; in plaats van &#x27;voor een doelgroep&#x27;. Twee studenten kwamen daarna als stagiair bij Formaat werken.</span></li><li id="2012-module-participatief-drama-cmv-opleiding-hogeschool-rotterdam"><span class="mono">2012-2013</span> <b>Module Participatief Drama CMV-opleiding Hogeschool Rotterdam</b><br><span class="small">Sinds 2010-2011 is Participatief Drama opgenomen in het curriculum van de opleiding Culturele Maatschappelijke Vorming. De module van 2 studiepunten en 10 lessen droeg de basis van de methodiek over aan ruim 50 tweedejaars studenten en fungeerde tevens als platform om thema&#x27;s bespreekbaar te maken waar studenten zelf mee kampen. Vijf CMV-studenten liepen dit seizoen stage bij Formaat.</span></li><li id="2013-module-participatief-drama-cmv-hogeschool-rotterdam"><span class="mono">2013-2014</span> <b>Module Participatief Drama CMV Hogeschool Rotterdam</b><br><span class="small">Jaarlijks terugkerend programma voor alle tweedejaars CMV-studenten van de Hogeschool Rotterdam. Participatief Drama is een vast onderdeel van het CMV-curriculum: in tien lessen leren studenten de basiskennis en toepassing van participatief drama-technieken.</span></li><li id="2014-module-participatief-drama-cmv-hogeschool-rotterdam"><span class="mono">2014-2015</span> <b>Module Participatief Drama CMV Hogeschool Rotterdam</b><br><span class="small">Jaarlijks terugkerende module van tien lessen voor alle tweedejaars CMV-studenten van de Hogeschool Rotterdam, waarin zij basiskennis en toepassing van participatief drama-technieken leren.</span></li><li id="2015-module-participatief-drama-cmv-hogeschool-rotterdam"><span class="mono">2015-2016</span> <b>Module Participatief Drama CMV Hogeschool Rotterdam</b><br><span class="small">Jaarlijks terugkerende module van tien lessen voor alle tweedejaars CMV-studenten van de Hogeschool Rotterdam in basiskennis en toepassing van participatief drama.</span></li><li id="2019-opleiding-docenten-social-work-hogeschool-rotterdam"><span class="mono">2019-2020</span> <b>Opleiding docenten Social Work Hogeschool Rotterdam</b> <em class="status">(waarschijnlijk uitgevoerd (uit werkplan))</em><br><span class="small">Opleidingstraject participatief drama voor docenten van de opleiding Social Work van de Hogeschool Rotterdam. Na selectiegesprekken en een opening met het Stadsatelier op 11 juli 2019 vond de opleiding vanaf 10 september 2019 wekelijks op dinsdagochtend plaats in de werkplaats.</span></li></ol></div>
+<aside class="kaart-side"><dl><dt>Plaatsen</dt><dd>Rotterdam</dd><dt>Partners</dt><dd>Hogeschool Rotterdam, opleiding Culturele en Maatschappelijke Vorming (CMV), opleiding Social Work</dd><dt>Thema</dt><dd>onderwijs, jokeropleiding, multiplicatie</dd></dl>
+<p class="small">Deze kaart hoort bij het spoor <b>Multiplicatie</b>. Het <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal van de joker</a> beschrijft de oefeningen en houdingen waarnaar de jokerlessen verwijzen.</p>
+</dl></aside>
+</div></div></article>
+<footer><div class="wrap">
+<p>Formaat 1999–2025 is het werk van Stichting Formaat, Werkplaats voor Participatief Drama (Rotterdam, 1999–2025), en van de jokers, spelers en partners die de projecten droegen. Samengesteld door Luc Opdebeeck.</p>
+<p>Licentie: nog vast te stellen (voorstel: teksten en eigen beeld CC BY-SA 4.0, code MIT). Bronmateriaal: jaarverslagen en projectdocumenten in het Formaat-archief; foto&#x27;s alleen met toestemming; video via YouTube-kanaal Formaat231.</p>
+<p class="mono">Gegenereerd uit <code>data/</code> en <code>kaarten/</code> · <a href="https://github.com/lucopdb-cpu/Formaat-1999-2025">broncode en correcties</a></p>
+</div></footer>
+</body>
+</html>

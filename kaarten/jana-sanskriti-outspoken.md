@@ -11,7 +11,7 @@ cijfers:
   - label: Indiase jokers op bezoek in Nederland (juni 2008)
     waarde: "8"
   - label: toeschouwers 'Shona Meye' op het Kapelplein
-    waarde: 100+
+    waarde: "100+"
   - label: steden met workshops en voorstellingen (2008)
     waarde: "3"
   - label: werkbezoek India bij inhuldiging JSIRRI (2015)

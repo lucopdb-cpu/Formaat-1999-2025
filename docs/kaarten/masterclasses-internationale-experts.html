@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="nl" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Masterclasses internationale experts · Formaat 1999–2025</title>
+<meta name="description" content="Ruim twintig jaar buitenlandse meesters in de Werkplaats, van Augusto Boal tot Geo Britto">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>:root{--paper:#F6F3EC;--paper-2:#EDE8DD;--ink:#1C1915;--ink-2:#4A443B;--ink-3:#7A7267;--line:#D9D2C4;--ochre:#B8803C;--ochre-soft:#EBD9BD;--card:#FFFDF8;--shadow:0 1px 0 rgba(28,25,21,.06),0 8px 24px -16px rgba(28,25,21,.25)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#16140F;--paper-2:#1F1C15;--ink:#EFE9DD;--ink-2:#C9C1B2;--ink-3:#8F877A;--line:#37322A;--ochre:#D39A50;--ochre-soft:#3A2E1B;--card:#1D1A14;--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8)}}
+:root[data-theme="dark"]{--paper:#16140F;--paper-2:#1F1C15;--ink:#EFE9DD;--ink-2:#C9C1B2;--ink-3:#8F877A;--line:#37322A;--ochre:#D39A50;--ochre-soft:#3A2E1B;--card:#1D1A14;--shadow:0 1px 0 rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8)}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Source Serif 4",Georgia,"Times New Roman",serif;font-size:17px;line-height:1.55}
+a{color:inherit}
+.wrap{max-width:1180px;margin:0 auto;padding:0 28px}
+h1,h2,h3,.disp{font-family:"Barlow Condensed","Arial Narrow",Arial,sans-serif;font-weight:600;letter-spacing:.005em;line-height:1;text-wrap:balance;margin:0}
+.mono{font-family:"IBM Plex Mono","Courier New",monospace;font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
+.small{font-size:14px;color:var(--ink-2)}
+.proto{display:inline-block;margin:8px 0 14px;padding:4px 9px;border:1px dashed var(--ochre);border-radius:3px;color:var(--ochre)}
+/* top bar */
+.top{border-bottom:1px solid var(--line);background:var(--paper);position:sticky;top:0;z-index:5}
+.topbar{display:flex;justify-content:space-between;align-items:center;gap:20px;padding:12px 28px;flex-wrap:wrap}
+.brand{font-family:"Barlow Condensed",sans-serif;font-weight:700;font-size:26px;text-transform:uppercase;text-decoration:none;letter-spacing:.02em}
+.brand span{color:var(--ochre)}
+nav{display:flex;gap:18px;flex-wrap:wrap}
+nav a{font-family:"Barlow Condensed",sans-serif;font-size:17px;text-transform:uppercase;letter-spacing:.04em;text-decoration:none;color:var(--ink-2);border-bottom:2px solid transparent}
+nav a:hover{color:var(--ochre);border-bottom-color:var(--ochre)}
+nav a.ext{color:var(--ochre)}
+/* hero */
+.hero{padding:40px 0 10px;border-bottom:1px solid var(--line)}
+.hero h1{font-size:clamp(60px,9vw,120px);text-transform:uppercase;font-weight:700}
+.hero h1 span{color:var(--ochre)}
+.hero .lede{max-width:60ch;font-size:19px;color:var(--ink-2);margin:16px 0 10px}
+.hero-meta{margin-bottom:26px}
+.hero-meta a{color:var(--ochre)}
+section{padding:40px 0 8px}
+.sec-head{display:flex;justify-content:space-between;align-items:baseline;gap:20px;border-bottom:2px solid var(--ink);padding-bottom:8px;margin-bottom:22px}
+.sec-head h2{font-size:38px;text-transform:uppercase}
+.sec-head a{text-decoration:none}
+.lede{max-width:64ch;color:var(--ink-2);margin:0 0 22px}
+/* timeline */
+.tl{overflow-x:auto;padding-bottom:8px}
+.tl-inner{min-width:960px;display:grid;grid-template-columns:160px 1fr}
+.tl-years{grid-column:2;display:grid;grid-template-columns:repeat(var(--ny),1fr);border-bottom:1px solid var(--line);margin-bottom:6px}
+.tl-years span{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--ink-3);padding-bottom:6px;font-variant-numeric:tabular-nums}
+.tl-years span:nth-child(even){visibility:hidden}
+.tl-years span:last-child{visibility:visible}
+.track-label{display:flex;flex-direction:column;justify-content:center;padding:10px 12px 10px 0;border-top:1px solid var(--line)}
+.track-label b{font-family:"Barlow Condensed",sans-serif;font-weight:600;font-size:19px;text-transform:uppercase;letter-spacing:.02em}
+.track-label small{color:var(--ink-3);font-size:13px;font-style:italic}
+.track{position:relative;border-top:1px solid var(--line);padding:10px 0;display:grid;grid-template-columns:repeat(var(--ny),1fr);grid-auto-rows:22px;row-gap:5px;grid-auto-flow:dense;background:repeating-linear-gradient(90deg,transparent 0 calc(100%/var(--ny) - 1px),var(--line) calc(100%/var(--ny) - 1px) calc(100%/var(--ny)))}
+.bar{height:22px;border-radius:2px;display:flex;align-items:center;padding:0 8px;color:#fff;background:var(--c);font-family:"Barlow Condensed",sans-serif;font-size:14px;font-weight:600;letter-spacing:.02em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-decoration:none;min-width:0}
+.bar.stub{opacity:.55}
+.bar:hover{filter:brightness(1.15);opacity:1}
+.bar[data-n]::after{content:attr(data-n);margin-left:auto;padding-left:8px;font-family:"IBM Plex Mono",monospace;font-size:11px;font-weight:400;opacity:.85}
+.tl-note{grid-column:1/-1;padding:12px 0 0;color:var(--ink-3);font-size:14px;font-style:italic}
+/* minis */
+.minis{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px}
+.mini{display:block;text-decoration:none;background:var(--card);border:1px solid var(--line);border-top:6px solid var(--c);padding:16px 18px;box-shadow:var(--shadow)}
+.mini b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:28px;font-weight:600;text-transform:uppercase;margin:6px 0 4px;line-height:1}
+.mini em{color:var(--ink-2);font-size:15px}
+.mini:hover{border-color:var(--c)}
+/* route */
+.route{list-style:none;padding:0;margin:0;display:grid;gap:12px}
+.route li{display:grid;grid-template-columns:1fr auto;gap:16px;align-items:center;background:var(--card);border:1px solid var(--line);border-left:8px solid var(--c);padding:14px 18px}
+.route li>a:first-child{text-decoration:none}
+.route b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:26px;text-transform:uppercase;font-weight:600;margin:4px 0}
+.route em{color:var(--ink-2);font-size:15px}
+.route .ars{font-family:"Barlow Condensed",sans-serif;text-transform:uppercase;letter-spacing:.03em;text-decoration:none;color:var(--ochre);white-space:nowrap}
+/* lists */
+.glist{list-style:none;padding:0;margin:0 0 26px;columns:2;column-gap:32px}
+.glist li{break-inside:avoid;padding:5px 0 5px 12px;border-left:4px solid var(--c);margin-bottom:6px}
+.glist a{text-decoration:none}
+.glist a:hover{color:var(--ochre)}
+details{border:1px solid var(--line);background:var(--card);margin:0 0 8px;padding:8px 14px}
+summary{cursor:pointer;font-size:16px}
+summary a{color:var(--ochre)}
+.items{padding-left:0;list-style:none;margin:10px 0 4px}
+.items li{padding:6px 0;border-top:1px solid var(--line)}
+.items .status{color:var(--ink-3)}
+section h2{font-size:30px;text-transform:uppercase;margin:26px 0 10px;border-left:8px solid var(--c,var(--ochre));padding-left:10px}
+.docs,.pers{padding-left:18px;font-size:15px}
+.docs li,.pers li{margin:0 0 5px}
+/* kaart */
+.kaart{padding:34px 0 20px}
+.kaart-head{border-bottom:2px solid var(--ink);padding-bottom:14px;margin-bottom:22px}
+.kaart-head .mono a{text-decoration:none;color:var(--c)}
+.kaart-head h1{font-size:clamp(40px,6vw,72px);text-transform:uppercase;margin:8px 0 6px}
+.kaart-head .sub{font-style:italic;color:var(--ink-2);margin:0;font-size:19px}
+.kaart-grid{display:grid;grid-template-columns:minmax(0,1fr) 280px;gap:36px}
+.kaart-body{max-width:70ch}
+.kaart-body h2{font-size:26px;text-transform:uppercase;margin:28px 0 8px;border-left:8px solid var(--c);padding-left:10px}
+.kaart-body p{margin:0 0 12px}
+.kaart-body blockquote{margin:0 0 10px;padding:6px 12px;border-left:3px solid var(--ochre);background:var(--ochre-soft);font-size:14.5px;color:var(--ink-2)}
+.kaart-body ul{padding-left:20px}
+.kaart-body li{margin:0 0 6px}
+.facts{display:flex;gap:22px;flex-wrap:wrap;padding:12px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-bottom:6px}
+.fact b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:34px;font-weight:600;line-height:1;font-variant-numeric:tabular-nums}
+.fact span{font-size:12.5px;color:var(--ink-3)}
+.kaart-side dl{margin:0;font-size:15px}
+.kaart-side dt{font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);margin-top:12px}
+.kaart-side dd{margin:2px 0 0;color:var(--ink-2)}
+.videos{display:grid;gap:16px}
+.yt{position:relative;padding-top:56.25%;background:var(--paper-2)}
+.yt iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+figure{margin:0}
+figcaption{font-size:13px;color:var(--ink-3);margin-top:4px}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
+.gallery img{width:100%;height:auto;display:block;border:1px solid var(--line)}
+.prose{max-width:70ch}
+.prose h2{font-size:26px;text-transform:uppercase;margin:24px 0 8px}
+footer{margin-top:48px;border-top:1px solid var(--line);padding:22px 0 40px;color:var(--ink-3);font-size:14px}
+footer p{margin:0 0 6px;max-width:90ch}
+:focus-visible{outline:2px solid var(--ochre);outline-offset:2px}
+@media (max-width:760px){.kaart-grid{grid-template-columns:1fr}.glist{columns:1}.route li{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap topbar">
+    <a class="brand" href="../index.html">Formaat <span>1999–2025</span></a>
+    <nav><a href="../index.html">Tijdlijn</a><a href="../route.html">Virgilio's route</a><a href="../thema.html">Thema's</a><a href="../alles.html">Alle activiteiten</a><a href="../bronnen.html">Bronnen</a><a href="../over.html">Over</a><a class="ext" href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal van de joker ↗</a></nav>
+  </div>
+</header>
+<article class="kaart" style="--c:#6B5A8A">
+<div class="wrap">
+<div class="kaart-head">
+  <div class="mono"><a href="../index.html#multiplicatie">Multiplicatie</a> · 2002–2024</div>
+  <h1>Masterclasses internationale experts</h1>
+  <p class="sub">Ruim twintig jaar buitenlandse meesters in de Werkplaats, van Augusto Boal tot Geo Britto</p>
+  <span class="mono proto">concept · nog te controleren</span>
+</div>
+<div class="kaart-grid">
+<div class="kaart-body"><div class="facts"><div class="fact"><b>ruim 20</b><span>masterclasses</span></div><div class="fact"><b>39</b><span>deelnemers masterclass Katy Rubin (2012)</span></div><div class="fact"><b>8</b><span>landen bij masterclass Julián Boal (2009)</span></div><div class="fact"><b>5</b><span>dagen masterclass David Diamond (2014)</span></div></div><h2>De vraag</h2>
+<p>Het Theater van de Onderdrukten is een wereldwijde praktijk die in elk land anders is uitgegroeid. Hoe houd je als Rotterdamse werkplaats de eigen jokers scherp en de methodiek levend? Het antwoord van Formaat: haal de meesters naar Rotterdam. Twee tot drie keer per jaar een buitenlandse expert een weekend lang in de Werkplaats, open voor jokers en collega's uit binnen- en buitenland.</p>
+<p>Het begon in juni 2002, toen Augusto Boal, grondlegger van het Theater van de Onderdrukten, met zijn zoon Julián twee dagen met de spelersgroep van Formaat werkte. De Boals brachten nieuwe repetitiemethoden mee; omgekeerd waren enkele Nederlandse voorstellingstechnieken voor Boal nieuw. In datzelfde jaar stelde Luc Opdebeeck met een collega aan Boal voor om de internationale organisatie (ITO) opnieuw op te richten. Boal keerde in januari 2008 terug om de Werkplaats voor Participatief Drama officieel te openen.</p>
+<h2>Aanpak</h2>
+<p>Een masterclass was doorgaans een Engelstalig weekend van vier dagdelen met een docent die één specialisme meebracht: een techniek, een doelgroep of een politieke vraag. De eerste editie betaalde Formaat voor circa tachtig procent uit eigen middelen. De masterclasses waren geen losse evenementen: wat er geleerd werd, ging direct de lopende projecten in. Zo werden de personages van Home &amp; Away in 2007 geanalyseerd met de Rainbow of Desire, en belandden Playback-vormen uit de masterclass van Marc Weinblatt in 2012 in de voorstelling van Studio Sterk.</p>
+<h2>Wat er gebeurde</h2>
+<p>Vanaf 2007 werd de reeks structureel. Sanjoy Ganguly van Jana Sanskriti (India) opende in juni 2007 met nieuwe oefeningen voor de analyse van onderdrukking en het bouwen van personages, voor twintig deelnemers uit vier landen. Héctor Aristizábal bracht de Rainbow of Desire (2007, 2009) en keerde in 2014 terug met werk rond ritueel en trauma. Bárbara Santos, oud-directeur van het CTO in Rio, gaf in januari 2009 The Art of Jokering.</p>
+<p>De jaren daarna lezen als een wereldkaart van het Theater van de Onderdrukten. Julián Boal gaf in september 2009 Politicizing Theatre of the Oppressed voor 27 deelnemers uit acht landen. Tim Wheeler (Mind the Gap, Bradford) werkte in maart 2010 over theater met mensen met een verstandelijke beperking; acht van de 32 deelnemers hadden zelf zo'n beperking. In 2010-2011 kwamen Adrian Jackson (Cardboard Citizens) over verinnerlijkte onderdrukking en Alvim Cossa (GTO Maputo) over taboethema's. Brent Blair (USC Los Angeles) bracht in 2011 The Museum of the Unspeakable over collectief trauma, Marc Weinblatt in 2012 Playback Theater.</p>
+<p>In 2012-2013 trokken de masterclasses hun grootste groepen: 39 deelnemers bij Katy Rubin (Theatre of the Oppressed NYC) over solidariteit als motor van verandering, deels opengesteld voor projectdeelnemers, en 34 bij Chen Alon (Combatants for Peace) over het Polarized Theatre of the Oppressed voor groepen die tegenover elkaar staan. Die laatste werd de kiem van de Rotterdamse stadsdialogen. In februari 2014 gaf David Diamond (Theatre for Living, Canada) een vijfdaagse masterclass over dialoog op communityniveau en het wij-zij-denken, tegen een bewust laag tarief. In 2015-2016 volgde Evan Hastings met Shadow Liberation, schaduwspel voor traumaverwerking, voor zestien deelnemers uit vier landen.</p>
+<p>Daarna werd het stiller, tot in 2024 Geo Britto van de Braziliaanse Escola de Teatro Popular een weekend in de Werkplaats werkte met jongerengroep 2DO en deelnemers uit binnen- en buitenland rond het ontmaskeren van fascisme, 'hier en daar, toen en nu'.</p>
+<h2>Mensen en partners</h2>
+<p>Gastdocenten kwamen van de organisaties in de partnerlijst hierboven, van CTO Rio de Janeiro tot de Escola de Teatro Popular. Organisatie en begeleiding lagen bij de artistiek leider en het team van Formaat; enkele edities werden gedaan met Pameijer en de conferentie Who Cares?. Deelnemers waren jokers, theatermakers, trainers en sociaal professionals.</p>
+<h2>Jokerlessen</h2>
+<blockquote>
+<p>Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.</p>
+</blockquote>
+<ul>
+<li><strong>Leer van wie het anders doet</strong> — Elke docent bracht één specialisme; de kracht zat in de reeks, niet in de losse masterclass. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal</a></li>
+<li><strong>Laat het geleerde meteen landen</strong> — Rainbow-technieken op Home &amp; Away en Playback in Studio Sterk: pas een techniek binnen een maand toe of vergeet haar. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Regenboog van verlangens</a></li>
+<li><strong>Zet de deur open voor deelnemers</strong> — Bij Katy Rubin zaten projectdeelnemers naast professionals; dat maakte het gesprek over solidariteit concreet. → <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html">Joker-praktijk › groepsvorming</a></li>
+</ul>
+<h2>Bronnen</h2>
+<ul>
+<li>Formaat jaarverslag 2001-2002, p. 33, 35 en 43; OPDRUK nr. 11</li>
+<li>Formaat jaarverslag 2006-2007, 4.2 'Internationale Masterclasses', p. 34</li>
+<li>Formaat jaarverslag 2007-2008, hoofdstuk 3.2, p. 29 en 5.4</li>
+<li>Formaat jaarverslag 2008-2009, hoofdstuk 3.2, p. 32-33</li>
+<li>Formaat jaarverslag 2009-2010, hoofdstuk 3.2, p. 29</li>
+<li>Formaat jaarverslag 2010-2011, hoofdstuk 3.2, p. 29</li>
+<li>Formaat jaarverslag 2011-2012, hoofdstuk 1.2, p. 14</li>
+<li>Formaat jaarverslag 2012-2013, hoofdstuk 1.2, p. 9</li>
+<li>Formaat jaarverslag 2014-2016, 3.7 'Masterclasses'</li>
+<li>Formaat in beeld 2024 (jaarverslag), 'Fascisme ontmaskeren'</li>
+<li>Flyers en folders masterclasses Sanjoy Ganguly (2007), Bárbara Santos en Héctor Aristizábal (2008), Marc Weinblatt en Brent Blair (2011), Chen Alon (2013), David Diamond (2014), Geo Britto (2024)</li>
+<li>Pers: krachtvancultuur.nl, 'Sanjoy Ganguly (Jana Sanskriti) bij Formaat' (november 2007); persbericht Formaat over Augusto Boal (oktober 2008)</li>
+<li>Video: 'Vlog #7 Masterclass Shadow Theatre' (YouTube, 2:12)</li>
+</ul><h2>Video</h2><div class="videos"><figure><div class="yt"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/eF0Dc-aEUjc" title="Vlog #7 Masterclass Shadow Theatre" allowfullscreen></iframe></div><figcaption>Vlog #7 Masterclass Shadow Theatre · 2:12</figcaption></figure></div><h2>In de pers</h2><ul class="pers"><li><span class="mono">2007-11</span> krachtvancultuur.nl — Sanjoy Ganguly (Jana Sanskriti) bij Formaat</li><li><span class="mono">2008-10-31</span> Stichting Formaat — Tekst over Augusto Boal</li></ul><h2>Activiteiten per seizoen</h2><ol class="items"><li id="2002-masterclass-augusto-boal-in-rotterdam"><span class="mono">2001-2002</span> <b>Masterclass Augusto Boal in Rotterdam</b><br><span class="small">Op uitnodiging van Formaat gaf Augusto Boal, grondlegger van het Theater van de Onderdrukten, in 2002 een masterclass in Rotterdam. In datzelfde jaar stelden Luc Opdebeeck en Ronald Matthijssen aan Boal en zijn zoon Julián voor om de internationale organisatie (ITO) opnieuw op te richten. Boal keerde in januari 2008 terug om de Werkplaats voor Participatief Drama officieel te openen.</span></li><li id="2007-internationale-masterclass-sanjoy-ganguly-jana-sanskriti"><span class="mono">2006-2007</span> <b>Internationale Masterclass Sanjoy Ganguly (Jana Sanskriti)</b><br><span class="small">Op 30 juni en 1 juli 2007 gaf Sanjoy Ganguly, de Indiase expert op het gebied van het Theater van de Onderdrukten en leider van Jana Sanskriti, een tweedaagse Masterclass in de Werkplaats van Formaat. Hij introduceerde nieuwe oefeningen voor de analyse van onderdrukkingssituaties en het creëren van personages in het Forumtheater. Het was de eerste van een reeks internationale masterclasses die Formaat regelmatig wil organiseren.</span></li><li id="2007-masterclass-hector-aristizabal-rainbow-of-desire"><span class="mono">2007-2008</span> <b>Masterclass Hector Aristízabal (Rainbow of Desire)</b><br><span class="small">Tweedaagse masterclass in september 2007 door Rainbow of Desire-expert Hector Aristízabal, waarbij ook de personages van Home &amp; Away via de Rainbowtechniek werden geanalyseerd. Tijdens de internationale conferentie Who Cares? over kunst en zorg verzorgden Luc Opdebeeck en Aristízabal de afsluitende workshop.</span></li><li id="2009-masterclasses-internationale-experts-barbara-santos-en-hector-aristiza"><span class="mono">2008-2009</span> <b>Masterclasses internationale experts: Bárbara Santos en Hector Aristizabal</b><br><span class="small">Formaat nodigt jaarlijks twee tot drie internationale collega&#x27;s uit. In januari 2009 gaf Bárbara Santos, voormalig directeur van het Centre for Theatre of the Oppressed in Rio de Janeiro, de masterclass The Art of Jokering. In maart 2009 verzorgde Hector Aristizabal een tweedaagse masterclass rond de technieken van de Rainbow of Desire.</span></li><li id="2009-masterclasses-internationale-experts-julian-boal-en-tim-wheeler"><span class="mono">2009-2010</span> <b>Masterclasses internationale experts: Julián Boal en Tim Wheeler</b><br><span class="small">In september 2009 gaf Julián Boal de masterclass Politicizing Theatre of the Oppressed, met veel aandacht voor repetitietechnieken en tegenspel in Forumtheater. In maart 2010 verzorgde Tim Wheeler, artistiek leider van het gezelschap Mind the Gap, de masterclass Building Bridges to the Future We Desire over werken met mensen met een verstandelijke beperking.</span></li><li id="2010-masterclasses-internationale-experts-adrian-jackson-en-alvim-cossa"><span class="mono">2010-2011</span> <b>Masterclasses internationale experts: Adrian Jackson en Alvim Cossa</b><br><span class="small">Twee masterclasses van internationale collega&#x27;s: Adrian Jackson (artistiek leider Cardboard Citizens, Engeland) over het werken met Rainbow of Desire-technieken en verinnerlijkte onderdrukking, en Alvim Cossa (GTO Maputo, Mozambique) over Theater van de Onderdrukten en taboethema&#x27;s.</span></li><li id="2011-masterclasses-internationale-experts-brent-blair-en-marc-weinblatt"><span class="mono">2011-2012</span> <b>Masterclasses internationale experts: Brent Blair en Marc Weinblatt</b><br><span class="small">Op 29 en 30 oktober 2011 gaf Brent Blair, oprichter van Applied Theatre Arts aan de USC, een masterclass over collectieve traumaverwerking met onder meer de techniek The Museum of the Unspeakable. Op 12 en 13 mei 2012 verzorgde Marc Weinblatt een masterclass over het combineren van Playback Theater en Theater van de Onderdrukten; enkele Playbackvormen werden direct toegepast in de voorstelling &#x27;Studio Sterk speelt Studio Sterk&#x27;.</span></li><li id="2012-masterclasses-internationale-experts-katy-rubin-en-chen-alon"><span class="mono">2012-2013</span> <b>Masterclasses internationale experts: Katy Rubin en Chen Alon</b><br><span class="small">Op 6 en 7 oktober 2012 gaf Katy Rubin, oprichter van Theatre of the Oppressed NYC dat met daklozen werkt, een masterclass over solidariteit als uitgangspunt voor sociale verandering; de masterclass stond deels open voor projectdeelnemers. Op 20 en 21 april 2013 verzorgde Chen Alon, artistiek directeur van de Tel Aviv-Tulkarm-groep van Combatants for Peace, een masterclass over het &#x27;Polarized Theatre of the Oppressed&#x27;-model voor het werken met tegenover elkaar staande groepen.</span></li><li id="2014-masterclass-david-diamond-theatre-for-living"><span class="mono">2013-2014</span> <b>Masterclass David Diamond (Theatre for Living)</b><br><span class="small">Vijfdaagse intensieve Engelstalige masterclass door David Diamond, wereldwijd expert op het gebied van Theater van de Onderdrukten en systeemtheorie. Centraal stond hoe participatieve theatertechnieken worden ingezet voor dialoog op community-niveau en hoe we uit het wij-zij-denken komen.</span></li><li id="2014-workshops-hector-aristizabal"><span class="mono">2013-2014</span> <b>Workshops Hector Aristizabal</b><br><span class="small">Workshopreeks met de Colombiaans-Amerikaanse theatermaker en psycholoog Hector Aristizabal in maart 2014. De workshops verbonden Theater van de Onderdrukten met ritueel en traumaverwerking.</span></li><li id="2015-madalena-laboratory-theatre-of-the-oppressed-met-vrouwen-birgit-fritz"><span class="mono">2014-2015</span> <b>Madalena Laboratory – Theatre of the Oppressed met vrouwen (Birgit Fritz)</b> <em class="status">(gepland)</em><br><span class="small">Tweedaagse masterclass Madalena Laboratory, een stroming binnen het Theater van de Onderdrukten die begin deze eeuw door vrouwen van CTO Rio werd ontwikkeld en waarin vrouwen onderdrukkende systemen en hun eigen rol daarin onderzoeken. In het werkplan 2014-2015 gepland voor eind mei 2015 met Birgit Fritz als docent.</span></li><li id="2015-masterclass-evan-hastings-shadow-liberation"><span class="mono">2015-2016</span> <b>Masterclass Evan Hastings - Shadow Liberation</b><br><span class="small">Engelstalige masterclass door Evan Hastings over &#x27;Shadow Liberation&#x27;: het inzetten van schaduwspel voor traumaverwerking, in een combinatie van Theater van de Onderdrukten, dramatherapeutische oefeningen en schimmenspeltechnieken.</span></li><li id="2024-masterclass-fascisme-ontmaskeren-met-geo-britto-escola-de-teatro-popul"><span class="mono">2024</span> <b>Masterclass Fascisme ontmaskeren met Geo Britto (Escola de Teatro Popular)</b><br><span class="small">Weekendmasterclass met Geo Britto van de Braziliaanse beweging Escola de Teatro Popular, waarin samen met jongerengroep 2DO en deelnemers uit binnen- en buitenland de analyse van fascisme &#x27;hier en daar, toen en nu&#x27; werd verkend via theorie, spel en theater.</span></li></ol></div>
+<aside class="kaart-side"><dl><dt>Plaatsen</dt><dd>Rotterdam</dd><dt>Partners</dt><dd>CTO Rio de Janeiro, Jana Sanskriti, ImaginAction, Cardboard Citizens, GTO Maputo, Mind the Gap, USC Applied Theatre Arts, Mandala Center for Change, Theatre of the Oppressed NYC, Combatants for Peace, Headlines Theatre / Theatre for Living, Escola de Teatro Popular, Pameijer, conferentie Who Cares?</dd><dt>Thema</dt><dd>jokeropleiding, internationaal, methodiek</dd></dl>
+<p class="small">Deze kaart hoort bij het spoor <b>Multiplicatie</b>. Het <a href="https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/">Arsenaal van de joker</a> beschrijft de oefeningen en houdingen waarnaar de jokerlessen verwijzen.</p>
+</dl></aside>
+</div></div></article>
+<footer><div class="wrap">
+<p>Formaat 1999–2025 is het werk van Stichting Formaat, Werkplaats voor Participatief Drama (Rotterdam, 1999–2025), en van de jokers, spelers en partners die de projecten droegen. Samengesteld door Luc Opdebeeck.</p>
+<p>Licentie: nog vast te stellen (voorstel: teksten en eigen beeld CC BY-SA 4.0, code MIT). Bronmateriaal: jaarverslagen en projectdocumenten in het Formaat-archief; foto&#x27;s alleen met toestemming; video via YouTube-kanaal Formaat231.</p>
+<p class="mono">Gegenereerd uit <code>data/</code> en <code>kaarten/</code> · <a href="https://github.com/lucopdb-cpu/Formaat-1999-2025">broncode en correcties</a></p>
+</div></footer>
+</body>
+</html>

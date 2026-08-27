@@ -11,7 +11,7 @@ cijfers:
   - label: publieksdeelnemers 2017
     waarde: ca. 900
   - label: keren gespeeld 'De buurtbarbecue' (2017-2018)
-    waarde: 20+
+    waarde: "20+"
   - label: workshops in coronajaar 2020 (deels online)
     waarde: "36"
   - label: wekelijkse workshops 2022

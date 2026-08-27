@@ -9,7 +9,7 @@ partners: [Stichting Kinderpostzegels Nederland, Defence for Children Internatio
 thema: [jongeren, onderwijs, rechtspositie, speciaal onderwijs]
 cijfers:
   - label: auditanten
-    waarde: 50+
+    waarde: "50+"
   - label: spelers
     waarde: "6"
   - label: voorstellingen
