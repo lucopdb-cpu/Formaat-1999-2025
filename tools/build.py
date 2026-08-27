@@ -63,7 +63,7 @@ def page(title, body, depth=0, desc=''):
 </head>
 <body>
 <header class="top">
-  <div class="wrap bar">
+  <div class="wrap topbar">
     <a class="brand" href="{rel}index.html">Formaat <span>1999–2025</span></a>
     <nav>{nav}<a class="ext" href="{ARSENAAL}">Arsenaal van de joker ↗</a></nav>
   </div>
