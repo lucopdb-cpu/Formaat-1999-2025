@@ -35,13 +35,6 @@ In 2006-2007 volgden twee grotere projecten. In de Valutabuurt in Osdorp, een ni
 ## Mensen en partners
 Opdrachtgevers waren stadsdeel Osdorp (in 2006 vanuit het beleid 'Wij Amsterdammers'), jongerenwerk Knooppunt Kralingen, Breed Welzijn Delft, het Programmabureau Veilig Rotterdam en de gemeente Vlaardingen met Bureau Welzijnsprojecten. Luc Opdebeeck leidde de workshops, de regie en het jokerwerk; een collega verzorgde werving, publiciteit en het natraject, en het script voor Vlaardingen kwam van een schrijver uit het team. Jongeren en volwassenen uit de wijken ontwikkelden de stukken, professionele acteurs speelden ze, in Vlaardingen samen met jongeren.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Luister eerst, oefen later** — In Het Heilige Land weigerden jongeren de oefeningen; het verhaal aanhoren werd de workshop. → [Joker-praktijk › groepsvorming](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Maak de autoriteit onzichtbaar** — Zonder wijkagent op het toneel moesten bewoners in Osdorp zelf het conflict oplossen, en dat konden ze. → [Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Niet te snel naar oplossingen** — Het slot van een wijkvoorstelling is het eerste gesprek, niet het akkoord; laat een bewonerswerkgroep het vervolg dragen. → [Legislatief theater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Formaat jaarverslag 2004-2005, hoofdstuk 2 'Jong & Oud in de (multiculturele) wijk', p. 20-21
 - Formaat jaarverslag 2005-2006, hoofdstuk 2 'Jong & Oud in de (multiculturele) wijk', p. 18-19 en hoofdstuk 3 'WerkPAD', p. 32-33

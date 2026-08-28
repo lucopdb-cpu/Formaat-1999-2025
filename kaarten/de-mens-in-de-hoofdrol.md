@@ -17,6 +17,9 @@ cijfers:
   - label: herdruk (exemplaren)
     waarde: "1.000"
 status: concept
+arsenaal:
+  tekst: "Het methodische fundament onder de theaterateliers."
+  url: "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/"
 ---
 
 ## De vraag
@@ -38,13 +41,6 @@ Het boek kreeg een lang leven. De Hogeschool Rotterdam nam het op in het vaste c
 
 ## Mensen en partners
 De Nederlandse Stichting voor Psychotechniek financierde het project en de eerste druk, met steun van het Prins Bernhard Cultuurfonds. Rivierduinen en Parnassia/De Zaak waren de zorgpartners in Leiden, het Leger des Heils en Stichting Roads gastheren van de werkbezoeken, de RIBW Zaanstreek/Waterland en West-Friesland gastheer van de boekpresentatie. Cardboard Citizens uit Londen leverde inspiratie en een gastregisseuse. De auteurs waren de artistiek leider en de medewerker onderzoek van Formaat.
-
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Schrijf op wat je doet** — Een handleiding overleeft het project, de subsidie en de joker; zeventien jaar later staat het boek nog op literatuurlijsten. → [Arsenaal](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Overdag oefenen, 's avonds forum** — Het werkbezoek in één dag verbindt de veilige workshop met de echte dialoog met beleidsmakers. → [Joker-praktijk › werkbezoek](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Train de hulpverlener, niet alleen de cliënt** — Cursisten uit het veld dragen de methodiek verder dan een atelier ooit kan reizen. → [Multiplicatie](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
 
 ## Bronnen
 - Jaarverslag 2003-2004, Theateratelier Vooruitblik p. 23, Evaluatie WerkPAD p. 30

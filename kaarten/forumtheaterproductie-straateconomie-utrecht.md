@@ -27,12 +27,5 @@ De opzet en begroting werden door de opdrachtgever akkoord bevonden en het budge
 ## Mensen en partners
 Opdrachtgever was de gemeente Utrecht via het Districtelijk Team Ondermijning Utrecht-stad. De beoogde deelnemers waren leerlingen van tien scholen voor praktijkonderwijs en LVB-onderwijs in Utrecht. De opzet kwam van het team van Formaat.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Speel de verleiding, niet de misdaad** — Voor LVB- en praktijkleerlingen zit het leermoment in het eerste aanbod, niet in het delict. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Veiligheid als opdrachtgever** — Een ondermijningsteam denkt in preventie; de joker moet de scènes bij de leerling houden en niet bij het beleid. → [Joker-praktijk › de joker als agoog](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Uitstel is vaak afstel** — Een gereserveerd budget zonder speeldatum vraagt om een tussentijdse afspraak over wanneer het plan vervalt. → [Joker-praktijk › opdrachtgeverschap](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Geen openbare bron; beschrijving gebaseerd op projectdocumentatie in het Formaat-archief.

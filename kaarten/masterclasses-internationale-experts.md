@@ -17,6 +17,9 @@ cijfers:
   - label: dagen masterclass David Diamond (2014)
     waarde: "5"
 status: concept
+arsenaal:
+  tekst: "De internationale leermeesters van wie het Arsenaal de sporen draagt."
+  url: "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/"
 ---
 
 ## De vraag
@@ -38,13 +41,6 @@ Daarna werd het stiller, tot in 2024 Geo Britto van de Braziliaanse Escola de Te
 
 ## Mensen en partners
 Gastdocenten kwamen van de organisaties in de partnerlijst hierboven, van CTO Rio de Janeiro tot de Escola de Teatro Popular. Organisatie en begeleiding lagen bij de artistiek leider en het team van Formaat; enkele edities werden gedaan met Pameijer en de conferentie Who Cares?. Deelnemers waren jokers, theatermakers, trainers en sociaal professionals.
-
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Leer van wie het anders doet** — Elke docent bracht één specialisme; de kracht zat in de reeks, niet in de losse masterclass. → [Arsenaal](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Laat het geleerde meteen landen** — Rainbow-technieken op Home & Away en Playback in Studio Sterk: pas een techniek binnen een maand toe of vergeet haar. → [Regenboog van verlangens](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Zet de deur open voor deelnemers** — Bij Katy Rubin zaten projectdeelnemers naast professionals; dat maakte het gesprek over solidariteit concreet. → [Joker-praktijk › groepsvorming](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
 
 ## Bronnen
 - Formaat jaarverslag 2001-2002, p. 33, 35 en 43; OPDRUK nr. 11

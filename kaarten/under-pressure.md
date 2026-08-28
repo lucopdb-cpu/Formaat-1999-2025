@@ -39,13 +39,6 @@ De teller stond op 190 voorstellingen en bijna 10.000 jongeren: de meest gespeel
 ## Mensen en partners
 Stichting Kinderpostzegels Nederland en Fonds 1818 droegen de tournee; daarnaast kwamen bijdragen van Stichting Boschuysen, Het Geheim van Goeree-Overflakkee, GGD Rotterdam-Rijnmond en een reeks gemeenten, onder meer Arnhem via het project Jeugd en Alcohol. Gastregisseur Hector Aristizábal bracht een internationale blik in het repetitieproces. Het Formaat-team bestond uit drie forumacteurs, twee jokers, de scriptschrijver en Luc Opdebeeck als productieleider en co-regisseur.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Laat de groep het thema kiezen** — Drie verhaallijnen in één stuk maken van het forum een menu; de klas bepaalt zelf waar de pijn zit en de joker volgt. → [Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Actualiseer na elk seizoen** — Vijf repetitiedagen na twee jaar spelen hielden de personages geloofwaardig voor een nieuw cohort leerlingen. → [Joker-praktijk › voorbereiding](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Bereken de omzet vooraf** — ALL IN strandde niet op inhoud maar op de 100.000 euro die een landelijke tournee kost; een joker die dit weet, plant de fondsenwerving een jaar eerder.
-
 ## Bronnen
 - Formaat jaarverslag 2008-2009, hoofdstuk 1.1 p. 13-14
 - Formaat jaarverslag 2009-2010, hoofdstuk 1.1.1 p. 12-13

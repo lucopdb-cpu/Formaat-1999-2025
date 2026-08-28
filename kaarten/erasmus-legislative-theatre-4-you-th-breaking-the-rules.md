@@ -33,13 +33,6 @@ De toolkit kreeg meteen praktijk. De jongeren van 2DO maakten in 2023 met de met
 ## Mensen en partners
 Erasmus+ (Europese Unie) financierde; Sering vzw in Antwerpen was de Europese partner, met wie Formaat al sinds de uitwisseling van de vrouwengroepen van Studio Maia (2018) samenwerkte. De jongeren van 2DO en de jongerengroep van Sering waren de mede-onderzoekers en eerste gebruikers. Luc Opdebeeck leidde het project inhoudelijk; trainers van Formaat verzorgden masterclass en workshops. De toolkit verscheen onder de naam van het Erasmus+-partnerschap LT4Y.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Stemmen maakt het forum af** — Laat het publiek na de interventies met kaarten stemmen over richtlijnen; pas dan wordt een scène een voorstel dat een instelling kan beantwoorden. → [Arsenaal](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Onderzoek met de groep, schrijf voor de sector** — Een toolkit die uit twee jongerenateliers komt, is concreter dan een handboek uit de studeerkamer; test elk hoofdstuk eerst met de jongeren. → [Joker-praktijk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Korte video's dragen verder dan een pdf** — Elf filmpjes van twee tot vijf minuten bereiken jongerenwerkers die nooit vijftig pagina's lezen.
-
 ## Bronnen
 - Formaat in beeld 2023 – Jaarverslag, sectie 'Legislatief theater'
 - Formaat in beeld 2024 – jaarverslag, sectie 'Breaking the rules'

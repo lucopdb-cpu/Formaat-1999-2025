@@ -39,13 +39,6 @@ Het festival viel kort na een reorganisatie bij Formaat en bevestigde de positie
 ## Mensen en partners
 De partners in het programma waren Jana Sanskriti (India), CTO Maputo (Mozambique) en Combatants for Peace (Israël/Palestina), met Oxfam Novib via E-Motive en het Fonds voor Cultuurparticipatie als financiers en ICAF/Rotterdams Wijktheater als Rotterdamse partners. Gasten waren onder meer Chen Alon van Combatants for Peace, Héctor Aristizábal, Hjalmar Joffre-Eichhorn, Jean-François Martel, Jessica Litwak en de moeders van Molenbeek. De Formaat-voorstelling werd gespeeld door bezoekers van het theateratelier in de Pauluskerk, begeleid door de jokers van Formaat; de organisatie lag bij het kenniscentrum van Formaat.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Laat elke beweging haar eigen voorstelling brengen** — Vier avonden, vier contexten: het verschil tussen Maputo, India, Palestina en de Pauluskerk leert meer over de methode dan één gezamenlijke productie. → [Joker-praktijk › internationaal netwerk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Programmeer de actualiteit** — De moeders van Molenbeek in de Q&A: een festival over onderdrukking moet het gesprek van vandaag durven voeren. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **De eigen groep hoort op het hoofdpodium** — Bezoekers van de Pauluskerk speelden naast Jana Sanskriti; wie het atelier serieus neemt, geeft het dezelfde zaal als de internationale gasten. → [Arsenaal › Theateratelier](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Formaat jaarverslag 2014-2016, §3.6 'International Theatre of the Oppressed Festival'
 - Local to Global – rapportage TO Festival Rotterdam (Stichting Formaat, 2016)

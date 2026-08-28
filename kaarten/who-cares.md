@@ -37,13 +37,6 @@ De evaluatie van maart 2003, "Drievoudige emancipatie – geen eenvoudige keuzes
 ## Mensen en partners
 Opdrachtgever was Forum, Instituut voor Multiculturele Ontwikkeling; het Ministerie van OC&W financierde de tweede tournee. Scholen in dertien gemeenten waren gastheer. De voorstelling werd gespeeld door acteurs van Formaat en geleid door een joker; leerlingen en inspringers blijven ongenoemd.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Onderzoek als grondstof voor scènes** — De vier sleutelscènes kwamen rechtstreeks uit het Forum-onderzoek; wie het materiaal van de doelgroep zelf gebruikt, hoeft geen herkenning te forceren. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Laat waarden botsen, niet culturen** — De joker zette argumenten over keuzevrijheid en loyaliteit naast elkaar, waardoor jongeren van verschillende achtergronden met elkaar in plaats van over elkaar spraken. → [Joker-praktijk › Gespreksleiding](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Pas het stuk aan na de eerste tournee** — Twee van de vier scènes werden herschreven op basis van de evaluatie; een forumstuk is pas af na het eerste publiek. → [Joker-praktijk › Try-out en bijstelling](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Jaarverslag 2001-2002, p.14-19, p.43
 - Jaarverslag 2002-2003, Who Cares?! p.10-11, Literatuurlijst p.48

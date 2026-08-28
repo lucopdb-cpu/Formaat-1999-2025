@@ -35,13 +35,6 @@ Het projectverslag 'Marsdijk, een beeld van een wijk – Het bevorderen van een 
 ## Mensen en partners
 Opdrachtgever en financier was de gemeente Assen, op initiatief van de gemeenteraad; het Opbouwwerk Marsdijk was de partner in de wijk. Het stuk werd gespeeld door acteurs van Formaat, de workshops en de forumavonden werden geleid door het team van Formaat. De 44 workshopdeelnemers waren bewoners en werkers uit de wijk.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Twee weken kan genoeg zijn** — Vier workshops, vijf schrijfdagen en twee avonden: een geconcentreerd project houdt de wijk bij de les en de kosten laag. → [Arsenaal › Legislatief theater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Laat de acteurs spelen wat de bewoners hebben laten zien** — Als bewoners niet zelf op het toneel willen, kunnen hun beelden toch de inhoud leveren; de workshops zijn het script. → [Arsenaal › Beeldentheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Raadsleden in de zaal, niet op het podium** — Als raadsleden als bewoners meedoen, verschuift het gesprek van klacht naar agenda. → [Joker-praktijk › dialoog met beleid](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Formaat jaarverslag 2003-2004, Marsdijk (p. 20-21) en literatuurlijst (p. 48)
 - Stichting Formaat, Marsdijk, een beeld van een wijk – Het bevorderen van een dialoog tussen overheid en burgers (projectverslag, 2004)

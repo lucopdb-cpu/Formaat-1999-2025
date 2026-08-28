@@ -41,13 +41,6 @@ De lijn van deze ateliers liep door in de jongerenateliers en de vervolgproducti
 ## Mensen en partners
 Opdrachtgevers waren Orthopedagogisch Centrum Aquarius en internaat Nieuw Veldzicht in Almere, Praktijkschool Accent Delfshaven met werkgelegenheidscentrum Werk in West, Cluster 4-school De Pels in Utrecht en het Da Vinci College in Leiden, afdeling Anderstaligen, samen met de gemeente Leiden. De financiering kwam van Stichting Kinderpostzegels Nederland en Fonds 1818. De ateliers werden geleid door jokers van Formaat.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Van toeschouwer naar maker** — "Eigenlijk hadden wij die voorstelling moeten maken" is de beste aanleiding voor een atelier; neem de uitnodiging letterlijk. → [Joker-praktijk › van forum naar atelier](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Spreek de leerdoelen vooraf af** — In Delfshaven wilde de opdrachtgever gedragsverandering en werkte het atelier aan zelfvertrouwen; een kennismaking vooraf voorkomt dat twee doelen langs elkaar heen lopen. → [Joker-praktijk › opdrachtgever en contract](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Laat anderen inspringen** — Leerlingen van andere scholen die in de Leidse scènes inspringen, maken van de ISK-klas even de deskundige. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Formaat jaarverslag 2007-2008, hoofdstuk 1.2 (p. 13-15)
 - Formaat jaarverslag 2008-2009, hoofdstuk 1.2 (p. 14-16)

@@ -13,6 +13,10 @@ cijfers:
   - label: <bv jongeren bereikt>
     waarde: <bv 10.000>
 status: concept
+# optioneel, alleen waar zinvol — toont een zichtbare verwijzing bovenaan de kaart:
+# arsenaal:
+#   tekst: "<één zin: welk methodisch element hier leeft>"
+#   url: "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/"
 ---
 
 ## De vraag
@@ -26,13 +30,6 @@ status: concept
 
 ## Mensen en partners
 <alinea: opdrachtgevers, partners, financiers; jokers/medewerkers alleen in functie; deelnemers nooit met naam>
-
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **<les 1 in vijf woorden>** — <één zin> → [<Arsenaal-sectie>](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **<les 2>** — … → [Joker-praktijk › …](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **<les 3>** — …
 
 ## Bronnen
 <opsomming van de gebruikte jaarverslagen/documenten met seizoen, zoals in het veld bron van de items>

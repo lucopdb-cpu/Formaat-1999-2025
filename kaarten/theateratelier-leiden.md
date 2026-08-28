@@ -37,13 +37,6 @@ Parnassia nam het project per 1 april 2004 over. Vanaf september 2004 kreeg het 
 ## Mensen en partners
 Het atelier was een samenwerking van Formaat met Stichting Parnassia (verslavingszorg) en activiteitencentrum De Zaak, gefinancierd door de gemeente Leiden en Fonds 1818. Voor Maskers uit de Marge werkte Formaat samen met Rivierduinen en met Adrian Jackson van Cardboard Citizens in Londen. Luc Opdebeeck leidde het atelier en regisseerde de productie; de spelers waren deelnemers van De Zaak.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Van productie naar wekelijkse groep** — Kijkdoos eindigde met applaus, het atelier maakte er een doorlopend proces van; de wekelijkse bijeenkomst is de eigenlijke interventie. → [Arsenaal › Theateratelier](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Leer de deelnemers jokeren** — Wie zelf de forumscène leidt, is niet langer alleen onderwerp maar ook gespreksleider van het eigen verhaal. → [Joker-praktijk › de deelnemer als joker](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Het masker beschermt en onthult** — Werken met maskers gaf spelers met een dakloos verleden afstand tot hun verhaal en tegelijk een sterker beeld op het podium. → [Arsenaal › Beeldentheater en masker](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Formaat jaarverslag 2002-2003, 'Kijkdoos/Theateratelier', p. 22-23
 - Formaat jaarverslag 2003-2004, 'Theateratelier', p. 22-23 en literatuurlijst p. 48

@@ -17,6 +17,9 @@ cijfers:
   - label: masterclass Londen (dagen)
     waarde: "2"
 status: concept
+arsenaal:
+  tekst: "De 175 oefeningen uit dit boek leven voort in het Arsenaal."
+  url: "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/"
 ---
 
 ## De vraag
@@ -31,13 +34,6 @@ In het seizoen 2012-2013 kondigde Formaat het boek aan als 'Een scène schoppen,
 In 2015 kreeg het boek een internationaal vervolg: de tweedaagse masterclass 'Making a Scene' in Londen, verzorgd door Formaat als onderdeel van de internationale kennisoverdracht van het kenniscentrum.
 ## Mensen en partners
 Het boek is geschreven door Luc Opdebeeck en Karen Bevers en uitgegeven door Stichting Formaat, met steun van het VSBfonds. De fotoselectie kwam uit het archief van Formaat. De masterclass in Londen werd gegeven door Formaat voor internationale practitioners.
-
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Schrijf het arsenaal op** — Een oefening die alleen in het hoofd van de joker bestaat, verdwijnt met de joker; 175 beschreven oefeningen maken de methodiek overdraagbaar. → [Arsenaal](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Theorie en vloer in één band** — Elke oefening staat naast de reden waarom je hem inzet; techniek zonder theorie wordt trucje. → [Joker-praktijk › opleiden](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Test het boek in een masterclass** — 'Making a Scene' in Londen liet zien of de oefeningen ook buiten Formaat en buiten het Nederlands werken. → [Joker-praktijk › internationaal netwerk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
 
 ## Bronnen
 - Formaat jaarverslag 2012-2013, hoofdstuk 1.6.2 (p. 11)

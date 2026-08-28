@@ -41,13 +41,6 @@ Parallel liep het effectonderzoek onder bijna 3.800 leerlingen van circa 60 scho
 ## Mensen en partners
 Opdrachtgevers en campagnepartners waren HALT Rijnmond en een reeks anti-discriminatiebureaus (later verenigd als Art. 1-bureaus). De financiering kwam van VSBfonds, Elise Mathilde Fonds, Gravin van Bylandtstichting, Stichting Kinderpostzegels Nederland, Skanfonds, FondsDBL, Fonds1818, Shell Cares en gemeenten. Adrian Jackson van Cardboard Citizens schreef het script; de vertaling, de regie-assistentie en het jokerwerk lagen bij het team van Formaat, met per seizoen een wisselende cast van vijf spelers. Het onderzoek werd uitgevoerd door de artistiek leider en de medewerker onderzoek van Formaat.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Koppel de uitkomst terug naar school** — Een forum dat eindigt bij het applaus verdampt binnen drie weken; adviezen die naar directie en gemeente gaan, maken van leerlingen beleidsadviseurs. → [Legislatief theater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Meet wat je beweert** — Bijna 3.800 ingevulde formulieren gaven Formaat argumenten die geen anekdote kan leveren; bouw evaluatie vanaf dag één in de productie. → [Joker-praktijk › evaluatie](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Een legende opent de deur** — De spiegeling met Aardigman en Wreedman gaf jongeren een omweg om over hun eigen klas te praten zonder direct iemand aan te wijzen. → [Beeldentheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Formaat jaarverslag 2006-2007, 1.3 'Home & Away', p. 14-16
 - Formaat jaarverslag 2007-2008, hoofdstuk 1.1 (p. 12-13) en 5.4

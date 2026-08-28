@@ -25,12 +25,5 @@ Het archief bevat de offerte uit 2019, het plan van aanpak, een voortgangsnotiti
 ## Mensen en partners
 Opdrachtgever was de gemeente Dordrecht, met het Sociaal Wijkteam Dordrecht als partner in de wijk. Luc Opdebeeck schreef het plan van aanpak en begeleidde het traject vanuit Formaat. De bewoners van Kromhout en Kasperspad vormden de kerngroep en de beoogde leden van het platform.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Van scène naar agenda** — Gespeelde verhalen zijn pas het begin; het doel is een lijst met punten waar bewoners zelf achter staan. → [Arsenaal › Legislatief theater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Oefen het onderhandelen** — Een workshop over onderhandelen met de gemeente maakt bewoners tot gesprekspartner in plaats van klager. → [Joker-praktijk › terugkoppeling](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Een aanpak reist mee** — Wat in Crooswijk werkte, kon in Dordrecht worden aangeboden omdat de stappen expliciet waren beschreven. → [Joker-praktijk › multiplicatie](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Geen openbare bron; beschrijving gebaseerd op projectdocumentatie in het Formaat-archief.

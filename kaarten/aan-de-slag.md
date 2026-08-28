@@ -31,12 +31,5 @@ In 2019 kreeg de training een tweede leven in een andere context. Samen met West
 ## Mensen en partners
 Opdrachtgever van de eerste jaren was Pameijer; de deelnemers waren cliënten van deze organisatie. De pilot van 2019 kwam tot stand met West Practice en werd uitgevoerd bij DIA Rozenburg. Trainers en jokers kwamen uit het team van Formaat.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Speel de blokkade, niet het sollicitatiegesprek** — De obstakels zitten vóór de vacature; beeldentheater maakt zichtbaar wat een cv niet toont. → [Arsenaal › Beeldentheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Voeg groepen samen als het kan** — Wie al vrijwilligerswerk doet en wie nog thuis zit, hebben elkaar iets te bieden. → [Joker-praktijk › groepsvorming](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Een product op de plank verandert per doelgroep** — Twaalf bijeenkomsten voor volwassenen werden vijf voor jongeren; de vorm volgt de groep. → [Joker-praktijk › maatwerk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Formaat jaarverslag 2014-2016, §2.1.4 Aan de slag en §3.3 Ontwikkeling Bouwsteen PD

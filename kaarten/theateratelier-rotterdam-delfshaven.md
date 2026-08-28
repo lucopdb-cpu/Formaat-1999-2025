@@ -17,6 +17,9 @@ cijfers:
   - label: gemiddelde opkomst
     waarde: "70%"
 status: concept
+arsenaal:
+  tekst: "Krantentheater en de opbouw van een wekelijks atelier."
+  url: "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/"
 ---
 
 ## De vraag
@@ -34,13 +37,6 @@ Het laatste seizoen, 2012-2013, werkte de therapiegroep rond transparantie van m
 
 ## Mensen en partners
 Pameijer was samenwerkingspartner vanaf de start; begeleiders van Pameijer werkten mee in het atelier en volgden de jokeropleiding van Formaat. De financiering kwam vanaf 2009 van de GGD Rotterdam-Rijnmond (Activering en Dagbesteding). Het Beschermd Wonen-project Delfshaven en de Doelgroepambassadeurs waren betrokken bij de eerste jaren. De begeleiding lag bij jokers van Formaat, met aspirant-jokers en stagiairs als assistenten.
-
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **De krant is een script** — Eén bericht over verzet tegen beschermd wonen werd een voorstelling die vijf keer speelde; krantentheater maakt van cliënten opiniemakers. → [Krantentheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Twee groepen, één deur** — De instroomgroep vangt op, de middaggroep verdiept; zonder aparte instroom stokt de groei of verwatert de kern. → [Joker-praktijk › groepsvorming](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Het atelier is een opleidingsplek** — Begeleiders van de partner en aspirant-jokers leerden hier het vak; plan die dubbele functie vanaf het begin. → [Joker-praktijk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
 
 ## Bronnen
 - Formaat jaarverslag 2007-2008, hoofdstuk 2.1, p. 20-22

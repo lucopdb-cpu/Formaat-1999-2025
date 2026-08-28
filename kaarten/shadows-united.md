@@ -17,6 +17,9 @@ cijfers:
   - label: kaarten in set 'Shadows of the City'
     waarde: "52"
 status: concept
+arsenaal:
+  tekst: "Beelden- en schaduwtheater: de vorm kiezen bij de veiligheid van de speler."
+  url: "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/"
 ---
 
 ## De vraag
@@ -36,13 +39,6 @@ In 2024 speelde de groep drie avonden in de openlucht op het festival Alle Tijd 
 
 ## Mensen en partners
 De Pauluskerk was penvoerder en partner van het eerste uur; het Kansfonds financierde vanaf 2023 jaarlijks. Hogescholen (Inholland, Rotterdam, Avans), Amsterdam City Rights, HREYN/Council of Europe, Theater Rotterdam, BAK, Garage Rotterdam en FNV International boden podia en publiek. Begeleiding kwam van Luc Opdebeeck, mede-oprichter van het collectief. Lector Stijn Sieckelinck werkte mee aan een workshop met de Dreamers; kunstenaar Domenique Himmelsbach maakte portretten van leden.
-
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Kies de vorm bij de veiligheid** — Als de speler niet herkenbaar mag zijn, is schaduw geen noodgreep maar de enige eerlijke esthetiek. → [Arsenaal](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Verkoop het beeld, niet het verhaal** — Kunstverkoop geeft leden inkomen en waardigheid zonder dat zij hun leed telkens opnieuw hoeven op te voeren. → [Joker-praktijk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Zet de stoel aan tafel** — Een maandelijks ontbijt met raadsleden bereikt meer dan een eenmalige voorstelling; herhaling maakt van publiek bondgenoten.
 
 ## Bronnen
 - Formaat in beeld 2023 – Jaarverslag, secties 'De Formaat Community', 'Betrokken samenleving', 'A seat at the table'

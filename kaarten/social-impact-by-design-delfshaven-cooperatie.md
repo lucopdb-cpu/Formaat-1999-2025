@@ -27,12 +27,5 @@ Dit is een lijn die in het archief vooral als plan voorkomt. De indiening van he
 ## Mensen en partners
 Partners in de verkenning waren de Delfshaven Coöperatie en stichting Go BoTu, initiatiefnemers van Social Impact by Design. Vanuit Formaat waren de directie en een projectmedewerker betrokken. Bewoners van Bospolder-Tussendijken waren de beoogde deelnemers.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Maak het abstracte lichamelijk** — Energietransitie wordt pas een verhaal als bewoners hun eigen huis, rekening en buren in beeld zetten. → [Arsenaal › Beeldentheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Een team is nog geen opdracht** — Meedoen aan een ontwerpprocedure kost tijd zonder garantie; leg vooraf vast wat de werkplaats minimaal nodig heeft om door te gaan. → [Joker-praktijk › opdrachtgeverschap](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Ideeën overleven de organisatie** — Dat een medewerker het plan zelfstandig voortzette, hoort bij multiplicatie: de methode is niet aan het instituut gebonden. → [Joker-praktijk › multiplicatie](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Geen openbare bron; beschrijving gebaseerd op projectdocumentatie in het Formaat-archief.

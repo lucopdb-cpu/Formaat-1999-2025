@@ -27,13 +27,6 @@ Belangrijker dan de afzonderlijke activiteiten is wat de samenwerking voor Forma
 ## Mensen en partners
 Partner was Cardboard Citizens in Londen, met Adrian Jackson als artistiek leider. Van de kant van Formaat waren de jokers en medewerkers de deelnemers aan de trainingen en uitwisselingen, met Luc Opdebeeck als trainer in Londen. De doelgroep aan beide kanten waren dak- en thuislozen die in de ateliers en producties meespeelden.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Zoek je evenknie in het buitenland** — Een organisatie die met dezelfde doelgroep werkt in een andere stad leert je meer dan een congres. → [Joker-praktijk › netwerk en uitwisseling](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Uitwisselen is geven én nemen** — Eerst haalde Formaat expertise op, later leverde het organisatorische ervaring; een uitwisseling die één kant op gaat houdt geen stand. → [Joker-praktijk › netwerk en uitwisseling](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Train samen, dan leer je elkaars taal** — Jaarlijks samen een Rainbow of Desire-training geven scherpt de eigen praktijk meer dan een bezoek. → [Arsenaal › Rainbow of Desire](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Cardboard Citizens, Annual Report (Londen, februari 2010), vermelding van Formaat
 - Zie ook de kaarten Home & Away, The Power of Dialogue en DUNK

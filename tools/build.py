@@ -50,7 +50,7 @@ CSS = open(D('tools/site.css'), encoding='utf-8').read()
 
 def page(title, body, depth=0, desc=''):
     rel = '../' * depth
-    nav = ''.join(f'<a href="{rel}{h}">{t}</a>' for h, t in [('index.html', 'Tijdlijn'), ('route.html', "Virgilio's route"), ('thema.html', "Thema's"), ('organisatie.html', 'De organisatie'), ('alles.html', 'Alle activiteiten'), ('bronnen.html', 'Bronnen'), ('over.html', 'Over')])
+    nav = ''.join(f'<a href="{rel}{h}">{t}</a>' for h, t in [('index.html', 'Tijdlijn'), ('route.html', 'Begin hier'), ('thema.html', "Thema's"), ('organisatie.html', 'De organisatie'), ('alles.html', 'Alle activiteiten'), ('bronnen.html', 'Bronnen'), ('over.html', 'Over')])
     return f'''<!doctype html>
 <html lang="nl" data-theme="light">
 <head>
@@ -219,6 +219,10 @@ def kaart_page(gid):
         if v:
             meta += f'<dt>{lab}</dt><dd>{esc(", ".join(map(str, v)))}</dd>'
     concept = '<span class="mono proto">concept · nog te controleren</span>' if fm.get('status') == 'concept' else ''
+    ars = fm.get('arsenaal')
+    ars_html = ''
+    if ars:
+        ars_html = f'<a class="ars-blok" href="{esc(ars.get("url", ARSENAAL))}"><span class="mono">→ Arsenaal van de joker</span><span class="ars-tekst">{esc(ars.get("tekst", ""))}</span></a>'
     body = f'''<article class="kaart" style="--c:{s['kleur']}">
 <div class="wrap">
 <div class="kaart-head">
@@ -228,9 +232,9 @@ def kaart_page(gid):
   {concept}
 </div>
 <div class="kaart-grid">
-<div class="kaart-body">{facts_html(fm)}{body_html}{media_html(gid)}{items_html(gid)}</div>
+<div class="kaart-body">{facts_html(fm)}{ars_html}{body_html}{media_html(gid)}{items_html(gid)}</div>
 <aside class="kaart-side"><dl>{meta}</dl>
-<p class="small">Deze kaart hoort bij het spoor <b>{esc(s['naam'])}</b>. Het <a href="{ARSENAAL}">Arsenaal van de joker</a> beschrijft de oefeningen en houdingen waarnaar de jokerlessen verwijzen.</p>
+<p class="small">Deze kaart hoort bij het spoor <b>{esc(s['naam'])}</b>. Het <a href="{ARSENAAL}">Arsenaal van de joker</a> beschrijft de oefeningen en houdingen achter dit werk.</p>
 </dl></aside>
 </div></div></article>'''
     return page(fm.get('titel', g['naam']), body, depth=1, desc=fm.get('ondertitel', ''))
@@ -264,11 +268,11 @@ def route_page():
         link = f'kaarten/{g["id"]}.html' if g['id'] in kaarten else f'alles.html#{g["id"]}'
         halts += f'<li style="--c:{s["kleur"]}"><a href="{link}"><span class="mono">halte {r["halte"]} · {esc(s["naam"])}</span><b>{esc(r["titel"])}</b><em>{esc(r["vraag"])}</em></a><a class="ars" href="{esc(r["arsenaal"])}">→ Arsenaal</a></li>'
     body = f'''<section><div class="wrap">
-<div class="sec-head"><h2>Virgilio's route</h2><span class="mono">{len(route)} haltes</span></div>
+<div class="sec-head"><h2>Begin hier</h2><span class="mono">{len(route)} haltes</span></div>
 <p class="lede">{esc(site['route_intro'])}</p>
 <ol class="route">{halts}</ol>
 </div></section>'''
-    return page("Virgilio's route", body)
+    return page("Begin hier", body)
 
 def thema_page():
     by = defaultdict(list)

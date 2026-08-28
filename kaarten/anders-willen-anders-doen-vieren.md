@@ -37,13 +37,6 @@ Het Verwey-Jonker Instituut onderzocht het effect bij drie groepen (VMBO, cluste
 ## Mensen en partners
 Opdrachtgever en netwerk was het Landelijk Werkverband ZMOK-scholen, later de Landelijke Vereniging Cluster 4, met een klankbordgroep van vijf instellingen. Financiers waren VSBfonds, Stichting Kinderpostzegels Nederland, het Prins Bernhard Cultuurfonds, de Gravin van Bylandt Stichting, de gemeenten Vlaardingen, Maassluis en Zoetermeer, de werkgroep Trek die Lijn en de Provincie Zuid-Holland; instellingen betaalden gemiddeld 500 euro eigen bijdrage per eerste speeldag. HALT-bureaus, GGD en politie werkten mee in de regio's; het Verwey-Jonker Instituut deed het onderzoek. Leerlingen en gedetineerde jongeren blijven ongenoemd.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Drie versies, oplopend in ernst** — Hetzelfde stuk speelde in VMBO, cluster 4 en jeugdinrichting; de joker kiest de gradatie die het publiek aankan zonder het dilemma te verzachten. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Bouw met de leerkrachten, niet over hen** — De klankbordgroep van ZMOK-docenten leverde het materiaal en de wachtlijst; eigenaarschap van het veld is de beste marketing. → [Joker-praktijk › Samenwerking met professionals](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Meet het gesprek, niet alleen het oordeel** — Verwey-Jonker vond geen meetbaar effect op morele oordelen maar wel een aansprekend gesprek; formuleer vooraf wat de voorstelling wél kan veranderen. → [Arsenaal › Evaluatie](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Jaarverslag 2002-2003, p.9
 - Jaarverslag 2003-2004, Vieren p.12-15, Partners p.43

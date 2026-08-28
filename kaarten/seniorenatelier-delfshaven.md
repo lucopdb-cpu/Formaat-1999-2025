@@ -39,13 +39,6 @@ Een vervolg met zorgorganisatie Laurens, waarin senioren, medewerkers en verwant
 ## Mensen en partners
 Het atelier startte als samenwerking van Formaat met DISCK SC&W en werd gefinancierd door Sluyterman van Loo, Laurensfonds, Skanfonds, VSBfonds, Oranjefonds, RCOAK, Volkskracht en het Bewoners Activiteitenfonds Delfshaven. In 2013-2014 kwamen daar de deelgemeente Delfshaven en Woonbron bij, met Opzoomer Mee, 24 uur Cultuur en WS Feijenoord als speelpartners. Het atelier werd begeleid door een joker van Formaat; de spelers waren 55-plussers uit Delfshaven.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Speel voor wie de zorg maakt** — Een publiek dat half uit zorgbegeleiders en ambtenaren bestaat, maakt van het forum een gesprek tussen senioren en het systeem waar zij van afhankelijk zijn. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Eén personage draagt de wijk** — Mevrouw Van Dijk bundelt de ervaringen van acht spelers in één herkenbare figuur, zodat niemand zijn eigen verhaal hoeft te spelen. → [Arsenaal › van verhaal naar scène](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Houd de groep, ook als de partner wegvalt** — Toen de welzijnspartner failliet ging, bleef het wekelijkse atelier de constante; de continuïteit zit in de groep, niet in de organisatie. → [Joker-praktijk › groepsopbouw](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Formaat jaarverslag 2011-2012, hoofdstuk 3.3.2 (p. 30)
 - Formaat jaarverslag 2012-2013, hoofdstuk 3.3.2 (p. 22)

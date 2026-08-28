@@ -37,13 +37,6 @@ Luc Opdebeeck beschrijft Circus Pa Meijer als een emotioneel en leerzaam proces 
 ## Mensen en partners
 Opdrachtgever was Pameijer. De spelers waren cliënten uit de VG-sector van Pameijer; het jokerwerk en de regie lagen bij het team van Formaat, dat er in totaal 47 dagdelen aan besteedde. De dvd werd gemaakt door een videomaker in opdracht van Formaat. Het project verscheen in het relatieblad Partners van Pameijer (oktober 2009 en juli 2010), in Markant (december 2010) en in Klik (maart 2011).
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Stemmen kan iedereen** — Een stelling waar je met je hand over stemt, is toegankelijker dan een vergadering; legislatief theater maakt zeggenschap concreet voor wie geen notulen leest. → [Arsenaal › Legislatief theater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Lever de uitkomst af bij wie beslist** — 28 voorstellen op dvd aan de directie overhandigen maakt van een voorstelling een adviesronde met een adres. → [Joker-praktijk › terugkoppeling](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Betutteling en overschatting zijn hetzelfde probleem** — De scènes toonden dat begeleiders zowel te veel als te weinig overnemen; laat de spelers de nuance bepalen, niet de opdrachtgever. → [Joker-praktijk › de joker als agoog](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Formaat jaarverslag 2009-2010, hoofdstuk 2.2 (p. 23-25) en 5.4 (dvd)
 - Circus Pa Meijer – Procesverslag (Stichting Formaat, mei 2010); DVD Circus Pa Meijer en dvd-booklet (2010)

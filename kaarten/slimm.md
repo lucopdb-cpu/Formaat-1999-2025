@@ -41,13 +41,6 @@ De laatste jaren verbreedde het thema naar groepsdruk, drugs en schulden, in com
 ## Mensen en partners
 De methode kwam van het TiPP Centre in Manchester (James Thompson). De Nederlandse cursussen werden gefinancierd door Stichting Kinderpostzegels Nederland en de Provincie Zuid-Holland; de workshops door gemeenten (Almere, Maassluis, Lisse), scholen en HALT-bureaus. Bouman GGZ verzorgde in Maassluis de voorlichtingslessen. De uitvoering lag bij de jokers en dramadocenten van Formaat; de Slimm!-handleiding (2005) is een eigen uitgave.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Een verzonnen personage spreekt eerlijker** — Jongeren vertellen via 'Jo Slimm' wat ze over zichzelf nooit zouden zeggen; bouw het personage samen en laat niemand eigenaar zijn. → [Beeldentheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Vrijwilligheid is geen luxe** — In gesloten groepen werkte Slimm! alleen waar jongeren zelf kozen mee te doen; forceren levert weerstand, geen inzicht. → [Joker-praktijk › groepsvorming](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Kom na vier weken terug** — Het nagesprek in Maassluis toonde wat bleef hangen; zonder nameting weet je alleen wat er in de zaal gebeurde. → [Joker-praktijk › evaluatie](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Formaat jaarverslag 2002-2003, 'Methodiek in ontwikkeling', p. 31
 - Formaat jaarverslag 2003-2004, 'CTO Rotterdam', p. 36; OPDRUK nr. 16

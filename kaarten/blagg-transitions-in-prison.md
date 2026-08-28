@@ -35,13 +35,6 @@ Het eindrapport concludeerde dat Blagg! een modulair programma is dat het best i
 ## Mensen en partners
 Het project werd gedragen door het Europese partnerschap Transitions in Prison, met het TiPP Centre in Manchester als methodische partner en de inrichtingen Ter Peel en Gelsenkirchen als gastheer. De workshops werden gegeven door jokers van Formaat. De deelneemsters waren gedetineerde vrouwen; zij blijven in dit archief anoniem.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Het delict is zelden het echte thema** — Achter de veroordeling zat bij bijna alle vrouwen een partner; laat de groep zelf bepalen waar het verhaal begint. → [Joker-praktijk › thema vinden](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Intensief werkt beter dan uitgesmeerd** — Zes dagdelen kort op elkaar bouwen solidariteit en vertrouwen op die een wekelijkse reeks in detentie niet haalt. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Draag over aan wie meegaat naar buiten** — Overdracht aan trajectbegeleiders in plaats van aan bewaarders zorgt dat het werk de poort uit reist. → [Joker-praktijk › overdracht](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Formaat jaarverslag 2005-2006, hoofdstuk 2 'Blagg – Transitions in Prison: methodiekontwikkeling in de vrouwengevangenis' (p. 26-27)
 - Formaat jaarverslag 2006-2007, 2.2 'Blagg! – Transitions in Prison' (p. 21-22)

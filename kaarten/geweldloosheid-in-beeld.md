@@ -35,13 +35,6 @@ De aanpak kreeg een uitloper in Waalwijk. In oktober 2002 werkten leerlingen van
 ## Mensen en partners
 Initiatiefnemers waren het Humanistisch Vredesberaad en de vereniging Pais; Knooppunt Kralingen was de wijkpartner en de gemeente Rotterdam financierde. De Waalwijkse workshops werden uitgevoerd in opdracht van K2, het Brabantse kenniscentrum jeugd, met steun van de provincie Noord-Brabant. Jokers en begeleiders kwamen van Formaat; de jongeren traden op onder eigen naam van hun groep, niet individueel.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Laat elke groep haar eigen beeld maken** — Acht aparte groepen die pas in het repetitieweekend samenkomen, geven een veelstemmiger beeld van de wijk dan één gemengde groep. → [Arsenaal › Beeldentheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Terugtrekken is informatie** — Als een groep afhaakt uit angst voor de gevolgen, zegt dat iets over de wijk; respecteer het en benoem het. → [Joker-praktijk › veiligheid in de groep](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Laat de beslissers zelf ook een beeld maken** — Statenleden die hun eigen beeld van onveiligheid bouwen, praten daarna anders met jongeren dan vanuit de zaal. → [Joker-praktijk › dialoog met beleid](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Formaat jaarverslag 2001-2002, p. 17-18 en 43
 - Formaat jaarverslag 2002-2003, Geweldloosheid in beeld (p. 16-17), Participatie en dialoog (p. 15) en Partners (p. 37)

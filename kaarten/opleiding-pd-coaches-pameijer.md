@@ -37,13 +37,6 @@ Bij de afronding waren tien professionals van Pameijer opgeleid tot Participatie
 ## Mensen en partners
 Opdrachtgever was Pameijer, waarbij de module Pameijer Werkt werd ontwikkeld met de afdeling Productontwikkeling en gefinancierd via de GGD-subsidie. De opleiding werd begeleid door Luc Opdebeeck, met inzet van het team van het kenniscentrum van Formaat. Deelnemers waren groepswerkers en supportmedewerkers van diverse afdelingen van Pameijer.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Leid de begeleider op, niet alleen de groep** — Veertien groepswerkers die zelf spellen kunnen leiden, bereiken meer cliënten dan één joker ooit kan. → [Joker-praktijk › multiplicatie](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Wissel workshop en intervisie af** — Anderhalf jaar van meerdaagse blokken, intervisie en coaching op locatie laat de methodiek landen in het dagelijks werk in plaats van in een cursusmap. → [Joker-praktijk › opleiden](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Begin bij het spel** — Voor supportmedewerkers in de zorg is het activerende spel de toegangspoort tot het arsenaal; forum en legislatief theater komen daarna. → [Arsenaal › Spellen en oefeningen](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Formaat jaarverslag 2012-2013, hoofdstuk 1.5 (p. 10) en 5.3.2
 - Formaat jaarverslag 2014-2016, §3.2 'Trainingen op maat'

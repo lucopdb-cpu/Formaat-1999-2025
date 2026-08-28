@@ -33,13 +33,6 @@ Op 12 juni 2003 wonnen de deelnemers, tot hun eigen verrassing, de Samen Sociaal
 ## Mensen en partners
 Opdrachtgever was PJ Partners; Stichting De Binnenvest, de Leidse opvangorganisatie, was inhoudelijk partner. Fonds 1818 en de gemeente Leiden financierden het project en de verlenging. Het Ministerie van VWS en Hogeschool InHolland vormden het publiek van de slotvoorstelling. De vijf deelnemers, de kern van het project, blijven ongenoemd; ook de foto's van het groepsetentje zijn intern.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Richt de voorstelling op wie kan beslissen** — Kijkdoos werd gespeeld voor VWS-ambtenaren en Kamerleden, niet alleen voor buurtgenoten; legislatief theater kiest zijn publiek strategisch. → [Arsenaal › Legislatief theater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Van levensverhaal naar beeld naar scène** — Beeldentheater beschermde de deelnemers: het beeld draagt het verhaal, zodat niemand zichzelf opnieuw hoeft bloot te geven. → [Arsenaal › Beeldentheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Plan het vervolg vóór het slotapplaus** — Een verlenging en een Theateratelier voorkwamen dat de groep na de laatste voorstelling in het gat viel. → [Joker-praktijk › Groepsopbouw](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Jaarverslag 2001-2002, p.28-29, p.43
 - Jaarverslag 2002-2003, Kijkdoos/Theateratelier p.22-23, Statistiek p.36

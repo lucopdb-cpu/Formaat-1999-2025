@@ -37,13 +37,6 @@ Formaat coördineerde Trek die Lijn tot eind 2004 via een eigen projectleider. I
 ## Mensen en partners
 Trek die Lijn was een samenwerkingsverband van stadsdeel Escamp, de gemeente Den Haag, HTM, HALT Haaglanden, politie Haaglanden en het Terra College, gefinancierd door de gemeente en Stichting DOEN. Buiten Den Haag betaalden de gemeenten Vlaardingen, Maassluis, Capelle, Haarlemmermeer, Zoetermeer en Leiden, met Fonds 1818; HALT en GGD Nieuwe Waterweg-Noord en politie Rijnmond werkten mee. Formaat leverde de voorstelling, de joker en in 2004-2005 de projectleider. Leerlingen en pioniers blijven ongenoemd.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Zet het publiek in de situatie** — Een tram als speelvlak maakte de toeschouwer letterlijk passagier; de drempel om in te grijpen wordt lager als de setting klopt. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Nodig de tegenpartij op het podium** — Trambestuurders en controleurs die zelf inspringen veranderen het gesprek van "wij tegen zij" in een gezamenlijk probleem. → [Joker-praktijk › Wie mag inspringen](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Theater is één schakel in de keten** — De 30 procent daling kwam van voorstelling, Lagerhuislessen, HTM-voorlichting en een gedragscode samen; verkoop de voorstelling niet los. → [Joker-praktijk › Inbedding](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Jaarverslag 2001-2002, p.30
 - Jaarverslag 2002-2003, Wagenziek p.12-13, Statistiek p.36, Partners p.37

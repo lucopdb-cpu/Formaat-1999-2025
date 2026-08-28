@@ -17,6 +17,9 @@ cijfers:
   - label: Rotterdamse delegatie werkbezoek sept 2014
     waarde: 8 personen
 status: concept
+arsenaal:
+  tekst: "Jokeren tussen twee groepen die elkaar niet vertrouwen."
+  url: "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/"
 ---
 
 ## De vraag
@@ -36,13 +39,6 @@ Wel kreeg de uitwisseling een tweede ronde, 'Grassroots Peacebuilding II', gekop
 
 ## Mensen en partners
 Combatants for Peace was de inhoudelijke partner en inspiratiebron; Oxfam Novib financierde via E-Motive. In Nederland werkten onder meer Radar, Pax Christi, Theater Zuidplein, De Balie, de Universiteit van Amsterdam, Hogeschool Rotterdam en Gate 48 mee aan het programma van 2013, en Pameijer, DOCK, NCDO en het Rotterdams Centrum voor Theater aan het werkbezoek van 2014. Formaat trad op als organisator, leider van de Nederlandse delegaties en methodisch vertaler; de handleiding werd uitgegeven door Stichting Formaat in samenwerking met Combatants for Peace. Het werkbezoek van 2015 werd fotografisch vastgelegd.
-
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Werk met beide kanten tegelijk** — In een gepolariseerd conflict speel je niet vóór één partij maar ensceneer je de botsing zelf, zodat beide groepen hun eigen aandeel zien. → [Arsenaal](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Vertaal voordat je importeert** — Een methodiek uit een oorlogsgebied werkt in Nederland pas na een werkgroep die haar ontleedt en herschrijft voor lokale conflicten. → [Joker-praktijk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Een handleiding overleeft de tournee** — Grote tournees sneuvelen op financiering; de tekst die de methode vastlegt blijft en wordt elders opnieuw gebruikt.
 
 ## Bronnen
 - Formaat jaarverslag 2012-2013, hoofdstuk 4.1 en 5.3

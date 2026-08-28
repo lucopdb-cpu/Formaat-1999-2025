@@ -17,6 +17,9 @@ cijfers:
   - label: omzet kenniscentrum 2022 (euro)
     waarde: "31.914"
 status: concept
+arsenaal:
+  tekst: "De jokeropleiding: houdingen en oefeningen staan in het Arsenaal."
+  url: "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html"
 ---
 
 ## De vraag
@@ -36,13 +39,6 @@ Corona verschoof de Forumtheater-vijfdaagse van maart naar september 2020. In 20
 
 ## Mensen en partners
 Stichting DOEN financierde de interne training voor dramadocenten in 2002-2003; de latere opleiding was grotendeels zelfdragend uit cursusgeld. HALT, HALO en NCSU waren partners in het sectoraanbod van 2004. Partnerorganisaties als Theatersmederij en Omnizorg stuurden cursisten. Luc Opdebeeck was vanaf het begin hoofdtrainer, geflankeerd door wisselende docenten uit het Formaat-team, in 2013-2014 vijf, en internationale gastdocenten.
-
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Jokeren leer je door te jokeren** — Toerbeurten op een lopende voorstelling en video-nabespreking vormden de kern van elk traject sinds 2005. → [Joker-praktijk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Verbind forum met moreel redeneren** — De koppeling van forumtheater aan MDDM in 2000 werd de rode draad van het hele curriculum. → [Morele Dilemma Theatermethode](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Modulair, maar met een basis** — Losse modules trekken deelnemers; wie de hele opleiding doet, begint altijd bij het Basisprogramma. → [Arsenaal](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
 
 ## Bronnen
 - Jaarverslag 2004-2005 (definitief), hoofdstuk 1 p. 9 en hoofdstuk 3 p. 33; Jokertraject 2005-2006

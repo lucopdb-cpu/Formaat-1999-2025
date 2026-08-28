@@ -17,6 +17,9 @@ cijfers:
   - label: dorpen op de tournee
     waarde: "30"
 status: concept
+arsenaal:
+  tekst: "Theatre for Development: wat je meeneemt en wat je thuislaat als gast-joker."
+  url: "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html"
 ---
 
 ## De vraag
@@ -34,13 +37,6 @@ In januari 2005 publiceerde Formaat het evaluatie- en missierapport "We Like the
 
 ## Mensen en partners
 Financier was de Belgian Technical Cooperation; aan Laotiaanse zijde was het Committee for Planning & Cooperation partner. Luc Opdebeeck was trainer en coach; de negen leden van het Awareness Team waren onderwijspromotoren en -consulenten uit de provincie. Zij blijven hier ongenoemd; de foto's uit Savannakhet, waaronder een reeks van een meereizende fotograaf, moeten op herkenbaarheid worden beoordeeld voordat ze worden gepubliceerd.
-
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Train het team, speel niet zelf** — Het Awareness Team, niet de trainer, trok langs dertig dorpen; overdracht binnen twee weken is mogelijk als het stuk uit hun eigen materiaal komt. → [Arsenaal › Theatre for Development](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Try-out in het dorp vóór de tournee** — De try-out van 30 augustus 2004 in Ban Paloy testte of de scènes en de jokervragen in de dorpscontext werkten; corrigeer daar, niet onderweg. → [Joker-praktijk › Try-out en bijstelling](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Kom terug voor de tweede fase** — Tien dagen coaching na de tournee bleken nodig om het team zelfstandig te maken; begroot follow-up vanaf het begin. → [Joker-praktijk › Coaching](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
 
 ## Bronnen
 - Jaarverslag 2004-2005 definitief, hoofdstuk 2 "Theatre for Development", p.26-27

@@ -33,13 +33,6 @@ Het project bleek een aanloop. In september 2010 startte, mede op basis van deze
 ## Mensen en partners
 Opdrachtgever was Pameijer, met Beschermd Wonen Strevelswijk als thuisbasis van de spelers. De spelers waren bewoners en begeleiders van de voorziening; zij worden hier niet bij naam genoemd. Het jokerwerk en de regie lagen bij het team van Formaat. Het publiek kwam van Pameijer, Bavo Europoort en BoumanGGZ.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Speel voor wie over je beslist** — Een zaal vol begeleiders en managers maakt van een voorstelling een gesprek met de sector zelf. → [Joker-praktijk › terugkoppeling](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Begeleiders op het toneel, naast bewoners** — Twee begeleiders die meespelen verschuiven de verhouding: niet 'wij over hen', maar samen over de plek. → [Joker-praktijk › de joker als agoog](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Beeldentheater als nagesprek** — Na een zware voorstelling laat een beeldenanalyse het publiek denken met het lichaam in plaats van te discussiëren. → [Arsenaal › Beeldentheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Formaat jaarverslag 2009-2010, hoofdstuk 2.1.4 'Strevelswijk' (p. 21-22)
 - Stichting Formaat, Eindverslag Productie Strevelswijk – The Last Resort (2010)

@@ -4,7 +4,7 @@ Dit archief maakt dat werk toegankelijk voor wie er zich aan wil inspireren: soc
 
 ## Opbouw
 
-De **tijdlijn** is de voordeur: zes sporen over 27 jaar, elke balk een projectlijn. Een **projectkaart** beschrijft per lijn de vraag, de aanpak, wat er gebeurde, de cijfers, de mensen en partners, en sluit af met *jokerlessen* die naar het Arsenaal verwijzen. **Virgilio's route** leidt langs acht sleutelprojecten. De **index** bevat alle activiteiten uit de inventaris, ook wat gepland was en niet doorging.
+De **tijdlijn** is de voordeur: zes sporen over 27 jaar, elke balk een projectlijn. Een **projectkaart** beschrijft per lijn de vraag, de aanpak, wat er gebeurde, de cijfers, de mensen en partners, de mensen en partners en de bronnen; waar dat zinvol is staat bovenaan een verwijzing naar het [Arsenaal van de joker](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/). **Begin hier** leidt langs acht sleutelprojecten. De **index** bevat alle activiteiten uit de inventaris, ook wat gepland was en niet doorging.
 
 ## Werkwijze en bronnen
 

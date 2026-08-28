@@ -39,13 +39,6 @@ Het programma werkte door. In 2008-2009 gaf Luc Opdebeeck supervisie aan een pro
 ## Mensen en partners
 De Dutch Oak Tree Foundation / DOB Foundation financierde het volledige programma. Cardboard Citizens (Adrian Jackson) leverde de gevorderdentrainingen; HCDO organiseerde in Kroatië, ApsArt werd de blijvende partner in Servië. In Belgrado werd gesproken met UNICEF, de British Council en de ambassades van Canada en Nederland. De lokale coördinatoren in Moldavië, Servië en Kroatië en de assistent-joker van Formaat worden hier in functie genoemd; de Moldavische starters' kit werd geschreven door de lokale coördinator en de medewerker onderzoek van Formaat.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Praktijk tussen de blokken** — Een verplichte praktijkperiode tussen twee trainingsweken scheidt de nieuwsgierigen van de toekomstige trainers. → [Multiplicatie](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Eindig op straat** — Een onzichtbaar-theateractie als examen maakt de training meteen politiek en publiek. → [Onzichtbaar theater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Laat een handboek achter in de taal van het land** — 880 exemplaren in het Roemeens, Servisch en Kroatisch deden meer voor de continuïteit dan een derde trainingsweek. → [Joker-praktijk › overdracht](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Jaarverslag 2005-2006 (definitief), hoofdstuk 2 'The Power of Dialogue: Multiplicatie in Moldavië', p. 24-25
 - Formaat jaarverslag 2006-2007, 4.1 'Power of Dialogue' – Servië (p. 32-33), Kroatië (p. 33), Moldavië (p. 34)

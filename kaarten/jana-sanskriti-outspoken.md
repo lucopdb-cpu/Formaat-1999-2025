@@ -35,13 +35,6 @@ Het contact werd traditie: in december 2012 was Formaat opnieuw vertegenwoordigd
 ## Mensen en partners
 Jana Sanskriti en zijn oprichter Sanjoy Ganguly waren de inhoudelijke partner; Oxfam Novib financierde via E-Motive, dat Outspoken ook als best practice uitdroeg. Aan Nederlandse kant deden wijkbewoners, community artists, jokers en deelnemers van de Theaterateliers van Formaat mee. Luc Opdebeeck leidde de uitwisseling en werd later bestuurslid van JSIRRI. De flyers voor 'Shona Meye' en 'Where we stand' en het script van 'Shonar Meye' zijn in het archief bewaard.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Laat de leraar uit het Zuiden komen** — Een Indiase dorpsgroep die op het Kapelplein speelt, leert Rotterdamse jokers meer over forum dan een Europese conferentie. → [Arsenaal](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Herbronnen is werk** — Een joker moet periodiek terug naar een plek waar het Theater van de Onderdrukten in zijn kern wordt beoefend; Muktadhara was die plek. → [Joker-praktijk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Een uitwisseling eindigt niet bij de eindrapportage** — Wat als project van één jaar begon, werd een jarenlang netwerk met bestuurlijke verantwoordelijkheid.
-
 ## Bronnen
 - Formaat jaarverslag 2007-2008, hoofdstuk 4.2 (p. 33-34)
 - Formaat jaarverslag 2008-2009, hoofdstuk 4.1 (p. 36-37)

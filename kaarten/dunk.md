@@ -17,6 +17,9 @@ cijfers:
   - label: studenten bereikt 2014-2015
     waarde: ca. 300
 status: concept
+arsenaal:
+  tekst: "Peereducatie: gelijken jokeren voor gelijken, vastgelegd in het DUNK-handboek."
+  url: "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/"
 ---
 
 ## De vraag
@@ -34,13 +37,6 @@ Daarna ging het team door als landelijk gezelschap. De drie biggetjes toerde in 
 
 ## Mensen en partners
 Het project werd geleid door Ronald Matthijssen, die ook het methodiekhandboek "DUNK – Implementatie Participatief Drama" schreef. Partners waren Pameijer, Roads (Theateratelier Haarlem), het Basisberaad GGZ Rotterdam en Cardboard Citizens in Londen; financiers waren de provincie Zuid-Holland, GGD Rotterdam, VSBfonds, Skanfonds en de Gravin van Bylandtstichting. De spelers zijn ervaringsdeskundigen uit de Theaterateliers en blijven ongenoemd.
-
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Laat gelijken jokeren voor gelijken** — Een ervaringsdeskundige spelersgroep opent in de nachtopvang deuren die voor hulpverleners dicht blijven; scholing in regelgeving maakt de nabespreking concreet. → [Arsenaal › Peereducatie](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Eén repertoire, drie publieken** — Hetzelfde stuk werkt als dialoog met gelijken, als spiegel voor professionals en als oefenmateriaal voor studenten; de joker stemt de inspringvraag af op wie er zit. → [Joker-praktijk › Publiek lezen](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Bouw doorstroom in het atelier** — Het DUNKteam gaf gevorderde atelierdeelnemers een volgende stap; zonder zo'n traject stagneert een atelier. → [Joker-praktijk › Groepsopbouw](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
 
 ## Bronnen
 - Formaat jaarverslag 2007-2008, hoofdstuk 2.1 (p. 21) en 5.5

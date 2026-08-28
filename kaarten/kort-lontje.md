@@ -33,13 +33,6 @@ In het seizoen 2009-2010 volgde Rotterdam-Delfshaven. Gepland waren twintig work
 ## Mensen en partners
 Opdrachtgevers en financiers waren de gemeente Schiedam, via twee subsidieregelingen, en de deelgemeente Delfshaven. De workshops werden gespeeld en gejokerd door spelers en jokers van Formaat. Deelnemers waren leerlingen van groep 6, 7 en 8 en hun leerkrachten.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Kinderen springen makkelijker in dan pubers** — Een op de drie 9- tot 12-jarigen greep in; de vorm werkt het best voordat schaamte de overhand krijgt. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Kort en herhaalbaar** — Een compacte workshop met een vaste korte voorstelling kan in twee maanden alle openbare basisscholen van een gemeente bedienen. → [Joker-praktijk › formats voor scholen](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Van inspringen naar eigen scènes** — Het verlengde format laat kinderen na de voorstelling hun eigen conflicten spelen; dat is waar het gesprek in de klas begint. → [Arsenaal › Beeldentheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Formaat jaarverslag 2008-2009, hoofdstuk 1.4 'Kort Lontje: workshops voor basisscholen' (p. 19-20)
 - Formaat jaarverslag 2009-2010, hoofdstuk 1.3 'Kort Lontje' (p. 17)

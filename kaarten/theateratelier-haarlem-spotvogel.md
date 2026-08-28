@@ -35,13 +35,6 @@ In 2008-2009, met steun van Stichting DOEN en Roads inmiddels onderdeel van Arki
 ## Mensen en partners
 Opdrachtgevers waren Stichting Roads (later Roads Kennemerland, onderdeel van Arkin), Stichting Radius en de GGD Kennemerland; de Provincie Noord-Holland financierde het eerste seizoen en Stichting DOEN de methodiekoverdracht. Na het faillissement van Roads nam Stichting Buitenamstel/Geestgronden tijdelijk de rol van zorgpartner over. Jokers van Formaat begeleidden het atelier en het supervisietraject; begeleiders van Roads en enkele deelnemers werden opgeleid om het werk over te nemen.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Stel vragen, geef geen antwoorden** — De presentaties legden het uitkeringsbeleid en de medicatie als vraag voor aan beleidsmakers; dat is sterker dan een klacht. → [Legislatief theater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Draag over vanaf het tweede jaar** — Spotvogel begon zodra het atelier stond en was in twee jaar klaar; wie te lang wacht, maakt de partner afhankelijk. → [Joker-praktijk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Het Jokeroverleg is de leerschool** — Begeleiders van Roads leerden het vak door maandelijks met jokers van Formaat mee te denken, niet uit een handleiding. → [Joker-praktijk › intervisie](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Formaat jaarverslag 2006-2007, 2.1 'Theateratelier Haarlem', p. 20-21
 - Formaat jaarverslag 2007-2008, hoofdstuk 2.1, p. 22-23 en 3.1, p. 28

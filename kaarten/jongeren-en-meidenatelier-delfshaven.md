@@ -35,13 +35,6 @@ Na dit seizoen gingen Jongeren- en Meidenatelier vanaf januari 2013 op in het Bu
 ## Mensen en partners
 Financiers waren Skanfonds, Laurensfonds, Volkskracht, VSBfonds en de deelgemeente Delfshaven. Het Buurtatelier Delfshaven was medespeler in 'Leuker kunnen we het niet maken'. De begeleiding lag bij jokers van Formaat; de spelers waren jongeren en meiden uit de wijk.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Besloten groep, open gesprek** — Een meidenatelier zonder publiek in de eerste maanden maakt thema's als grenzen en loverboys bespreekbaar voordat ze op het podium komen. → [Joker-praktijk › veilige groep](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Generaties op één podium** — Jongeren en volwassen buurtbewoners die samen over geld en opvoeding spelen, zetten het conflict in de scène in plaats van in de zaal. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Een atelier mag opgaan in een ander** — Samenvoegen met het Buurtatelier hield de deelnemers vast toen aparte financiering ophield. → [Joker-praktijk › continuïteit](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Formaat jaarverslag 2011-2012, hoofdstuk 2.2.1 (p. 20-21)
 - Flyer 'Diva' (Stichting Formaat, 2012)

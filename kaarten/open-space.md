@@ -37,13 +37,6 @@ Het jaar 2025 begon met de voorstelling 'Besmet' met Maia's aan de Maas (50 bezo
 ## Mensen en partners
 De Open Space werd gefinancierd door Couleur Locale Delfshaven en georganiseerd door het team van Formaat, met wisselende facilitators uit eigen huis en van buiten. Programmapartners waren de eigen groepen (Theateratelier Bloemhof, Stadsatelier, Studio Maia, 2DO) en gasten als het Rotterdams Wijktheater, het Gezond Verstand Festival, Combatants for Peace, Maia's aan de Maas, Collective Brown Out, Stichting Mano / Stadscoalitie en Har Tortike.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Een vaste avond is het cement** — De tweede dinsdag van de maand hield groepen bij elkaar die anders langs elkaar heen werkten; ritme weegt zwaarder dan programma. → [Joker-praktijk › groepsvorming](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Laat de groep het publiek zijn** — Als het Theateratelier Bloemhof presenteert voor het Stadsatelier, leren beide; wissel rollen tussen maker en kijker. → [Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Klein en vaak wint van groot en zelden** — Gemiddeld 23 mensen per avond, elf keer per jaar, bereikte meer verschillende Rotterdammers dan één groot evenement. → [Arsenaal](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Formaat jaarverslag 2017, 1.5 'Open Space'
 - Formaat in beeld 2023 (jaarverslag), secties 'Open Space' en 'Bruggen van dialoog'

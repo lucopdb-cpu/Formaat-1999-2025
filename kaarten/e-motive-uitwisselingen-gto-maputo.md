@@ -33,13 +33,6 @@ Van 11 tot 17 juli 2011 reisde Luc Opdebeeck naar Mozambique voor een zesdaagse 
 ## Mensen en partners
 De uitwisseling werd gedragen door het E-Motivenetwerk van Oxfam Novib. Partner in Mozambique was GTO Maputo, met Alvim Cossa als artistiek leider en trainer. Van de kant van Formaat organiseerden en begeleidden de jokers en medewerkers het programma in Rotterdam; Luc Opdebeeck gaf de training in Maputo. Deelnemers in Nederland waren preventiewerkers, Participatief Drama-professionals en publiek uit Delfshaven; in Mozambique theatermakers van GTO en verwante groepen.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Haal de directheid van het Zuiden op** — GTO Maputo speelt hiv/aids en de positie van de vrouw zonder omwegen; die directheid is precies wat Nederlandse preventiewerkers kunnen gebruiken. → [Joker-praktijk › netwerk en uitwisseling](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Een uitwisseling heeft twee helften** — Bezoek en tegenbezoek in hetzelfde jaar houden de relatie gelijkwaardig; wie alleen ontvangt, leert de helft. → [Joker-praktijk › netwerk en uitwisseling](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Combineer voorstelling, training en masterclass** — Drie vormen in één week bereiken drie publieken: buurt, werkers en vakgenoten. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Formaat jaarverslag 2009-2010, hoofdstuk 4.1 'E-Motivenetwerk' (p. 32)
 - Formaat jaarverslag 2010-2011, hoofdstuk 4.1 (p. 32-33)

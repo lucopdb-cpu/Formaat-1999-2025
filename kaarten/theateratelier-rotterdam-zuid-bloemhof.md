@@ -35,13 +35,6 @@ Volkskracht zegde in het najaar van 2016 financiering toe en het atelier ging do
 ## Mensen en partners
 Het atelier begon als samenwerking met Pameijer, gefinancierd door de GGD Rotterdam-Rijnmond. Na de doorstart droegen de gebiedscommissie Feijenoord, DOCK, Volkskracht, Wmo Radar, Humanitas en Couleur Locale Feijenoord bij; Pameijer, Wmo Radar en het Huis van de Wijk verwezen deelnemers door. De begeleiding lag bij jokers van Formaat, in de latere jaren met stagiairs. De uitwisseling met Molenbeek werd georganiseerd met het gebied Feijenoord, buurtcentrum De Vaartkapoen en de gemeente Sint-Jans-Molenbeek.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **De groep is de voorziening** — Toen de financiering stopte, bleef de kerngroep bijeen en dwong een doorstart af; bouw vanaf dag één aan eigenaarschap. → [Joker-praktijk › groepsvorming](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Speel voor wie de regels maakt** — Een presentatie voor begeleiders leidde tot nieuwe omgangsregels in een woonvorm; kies het publiek dat iets kan veranderen. → [Legislatief theater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Eén personage voor honderd verhalen** — 'Sjaak' bundelde alle verhalen over isolement in één man achter een gesloten deur; zo werd eenzaamheid speelbaar. → [Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Formaat jaarverslag 2010-2011, hoofdstuk 2.1.2, p. 21-22
 - Formaat jaarverslag 2011-2012, hoofdstuk 3.1.2, p. 25-26

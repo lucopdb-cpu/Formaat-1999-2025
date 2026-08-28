@@ -37,13 +37,6 @@ Het werk met Movisie begon in 2012-2013 met de uitwerking van de bouwsteen; plaa
 ## Mensen en partners
 Het meetinstrument werd ontwikkeld door een afstudeerstagiaire van de Vrije Universiteit Amsterdam in opdracht van Formaat; de effectmeting werd uitgevoerd door de medewerkers en jokers van de theaterateliers en Studio Sterk. De databank-beschrijving kwam tot stand met Movisie, het landelijk kenniscentrum voor het sociaal domein in Utrecht.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Meet welzijn per domein** — Acht Quality of Life-domeinen laten zien dát een atelier werkt en wáár: emotioneel welzijn, persoonlijke ontwikkeling, zelfbeschikking. → [Joker-praktijk › evaluatie](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Registreer alleen wat herleidbaar is** — Door alleen veranderingen te noteren die direct aan deelname waren toe te schrijven, bleef het cijfer bescheiden en geloofwaardig. → [Joker-praktijk › onderzoek](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Beschrijf de methodiek zodat een ander hem kan uitvoeren** — De bouwsteen voor Movisie dwong Formaat het jokerwerk stap voor stap op te schrijven; dat is de basis van elke overdracht. → [Arsenaal › Theateratelier](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Formaat jaarverslag 2011-2012, hoofdstuk 1.4 (p. 15)
 - Formaat jaarverslag 2012-2013, hoofdstuk 1.3 (p. 9-10), 1.4 (p. 10), 3.2.1 en 5.3.2

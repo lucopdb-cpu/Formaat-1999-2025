@@ -35,13 +35,6 @@ Op 2 mei 2009 overleed Augusto Boal. Op de site werd een condoleanceregister geo
 ## Mensen en partners
 Augusto Boal en Julián Boal (CTO Rio) waren de medeoprichters; Stichting DOEN en de Sponsorloterij financierden de website, waaraan in 2004 een Canadese stagiaire meewerkte. Formaat leverde de artistiek leider, de internationaal coördinator en de uren voor webbeheer, op vrijwillige basis. De voorzitter van het bestuur van Formaat bezocht de Jokertop in Rio.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Begin met een adresboek** — De Yellow Pages waren geen bijzaak maar het fundament van een wereldverband; zichtbaarheid gaat vooraf aan organisatie. → [Arsenaal](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Een netwerk hoeft geen instituut te zijn** — Graz 2009 leerde dat regionale uitwisseling levensvatbaarder is dan een mondiaal bestuur. → [Joker-praktijk › netwerken](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Vervang de mislukte stage door een programma** — Flying Jokers strandde, maar het plan erachter werd The Power of Dialogue. → [Multiplicatie](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Jaarverslag 2001-2002, p. 36; OPDRUK nr. 11, 12, 13 en 16
 - Jaarverslag 2002-2003, Internationale projecten p. 32-33

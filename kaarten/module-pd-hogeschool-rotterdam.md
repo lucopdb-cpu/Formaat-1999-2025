@@ -35,13 +35,6 @@ De samenwerking kreeg in 2019 een vervolg op een ander niveau. Voor docenten van
 ## Mensen en partners
 Partner was de Hogeschool Rotterdam, eerst de opleiding Culturele en Maatschappelijke Vorming en later de opleiding Social Work. Luc Opdebeeck gaf de module; de artistiek leider en jokers van Formaat verzorgden de docententraining. Het DUNK-team van ervaringsdeskundige spelers trad op bij de openingen. Studenten die de module hadden gevolgd, kwamen als stagiair terug bij Formaat en werkten mee in de theaterateliers en wijkprojecten.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Met een brongroep, niet voor een doelgroep** — Het belangrijkste dat studenten meenamen was geen techniek maar een houding; maak dat onderscheid in les één expliciet. → [Joker-praktijk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Studenten zijn zelf een brongroep** — De module werkte omdat studenten hun eigen zorgen inbrachten in plaats van te oefenen op fictieve cliënten. → [Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Open met de ervaringsdeskundigen** — Een optreden van DUNK bij de start liet zien wat de methode oplevert voordat er één oefening was gedaan. → [Arsenaal](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Formaat jaarverslag 2010-2011, hoofdstuk 3.3, p. 29-30
 - Formaat jaarverslag 2011-2012, hoofdstuk 1.3, p. 14 en 5.3.1

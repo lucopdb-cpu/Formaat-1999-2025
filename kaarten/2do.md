@@ -35,13 +35,6 @@ In 2025 volgden onder meer de voorstelling 'Bang' (13 en 15 mei, veertig bezoeke
 ## Mensen en partners
 De gemeente Rotterdam (directie Veiligheid, NCTV-middelen) was opdrachtgever van 2021 en 2022; daarna financierden Couleur Locale Delfshaven, Erasmus+, ZonMw, Rotterdam Circulair en fondsen. Hogeschool Rotterdam (tweedejaars kregen vier studiepunten) en Inholland waren onderwijspartners; Zadkine, Gezond Verstand, Arminius en Buitenplaats Brienenoord boden podia en locaties. In Pendrecht werkten college '53 en het programma Aardgasvrij Pendrecht mee, in Pijnacker-Nootdorp jongerenwerk gro-up. Trainers van Formaat coachten; Luc Opdebeeck droeg de methodische supervisie.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Begin met een summerschool** — Vijf dagen samen op een eiland bouwen meer vertrouwen dan twintig losse avonden; de rest van het jaar teert daarop. → [Arsenaal](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Van speler naar joker in twee jaar** — Een kernteam dat trainingen volgt en zelf interventies leidt, is de enige manier om 'jongeren in the lead' waar te maken. → [Joker-praktijk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Laat het publiek stemmen** — Legislatief theater geeft een jongerenvoorstelling over de GGZ een uitkomst die naar bestuurders kan; forum alleen blijft in de zaal.
-
 ## Bronnen
 - Formaat in beeld 2023 – Jaarverslag, secties 'De Formaat Community', 'Het jaar 2023', 'Voorstelling SORRY!'
 - Formaat in beeld 2024 – jaarverslag, secties 'Jongeren in the lead', 'Grip op het leven', 'Breaking the rules'

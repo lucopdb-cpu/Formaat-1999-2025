@@ -35,13 +35,6 @@ In september 2010 verscheen de methodiekbeschrijving van 'Iedereen heeft gelijk'
 ## Mensen en partners
 Opdrachtgever was K2, Brabants kenniscentrum jeugd, in opdracht van de provincie Noord-Brabant en met de gemeente Oosterhout als lokale partner. De workshops en het jokerwerk lagen bij het team van Formaat; het stuk werd gespeeld door acteurs van Formaat. Deelnemers waren professionals, jongeren en bewoners uit Oosterhout-Zuid, in het bijzonder uit de Marokkaanse gemeenschap.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Een afgelaste workshop is een signaal** — Als bewoners niet komen, is de wijk nog niet aan het gesprek toe; forceer de vorm niet, pas het programma aan. → [Joker-praktijk › groepsvorming](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Forumtheater past in een groter programma** — Als onderdeel van een negen maanden lang traject krijgt één bewonersavond een vervolg; als losstaande avond niet. → [Joker-praktijk › inbedding](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Dilemma's eerst, scènes daarna** — De morele-dilemmamethode in de workshops levert de scènes waar het publiek later op inspringt. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Formaat jaarverslag 2009-2010, hoofdstuk 2.3 'Werken in de wijk' (p. 25-26)
 - K2 Brabants kenniscentrum jeugd, Methodiekbeschrijving 'Iedereen heeft gelijk' (september 2010)

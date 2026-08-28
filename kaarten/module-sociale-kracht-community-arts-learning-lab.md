@@ -25,12 +25,5 @@ De module werd in het seizoen 2011-2012 uitgevoerd en valt in het jaarverslag on
 ## Mensen en partners
 Opdrachtgever en organisator was het Community Arts Learning Lab. Luc Opdebeeck trad op als kerndocent; de deelnemers waren post-hbo-studenten community arts, doorgaans zelf al werkzaam als kunstenaar of sociaal professional.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Leer het door het te doen** — Vijf dagdelen zijn kort; laat studenten zelf beelden en scènes maken in plaats van over de methode te praten. → [Arsenaal › Beeldentheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Macht is het onderwerp, niet de techniek** — Een module onder de noemer Power & Arts moet beginnen bij de vraag wie wat te zeggen heeft in een wijk. → [Joker-praktijk › de joker als agoog](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Multiplicatie vraagt een tweede ronde** — Een eenmalige module levert kennismaking op; overdracht slaagt pas als deelnemers daarna ergens kunnen oefenen. → [Joker-praktijk › opleiden van jokers](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Formaat jaarverslag 2011-2012, hoofdstuk 1.3 (p. 14) en 5.3.1

@@ -31,13 +31,6 @@ Wat de voorstellingen volgens het jaarverslag lieten zien: jongeren tonen wel de
 ## Mensen en partners
 De voorstellingen werden mogelijk gemaakt door een brede kring van financiers en opdrachtgevers: de deelgemeente Feijenoord, Stichting Bevordering Volkskracht, de Rotary Club Leiden, de gemeenten Vlaardingen en Maassluis, GGD Nieuwe Waterweg-Noord en HALT Vlaardingen-Maassluis, plus scholen als het Zuiderpark-College en het Moller-College in Ossendrecht. De voorstelling werd gespeeld door acteurs en gejokerd door het team van Formaat.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Bouw voort op wat er ligt** — Twee bestaande producties combineren tot een nieuwe module is sneller en zekerder dan van nul beginnen. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Een goede scène overleeft haar productie** — De tramscène uit de Geweldmodules werd de kern van Wagenziek; bewaar wat werkt. → [Joker-praktijk › scènebouw](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Empathie vraagt een vorm** — Jongeren tonen sociale moed als het inspringen dat mogelijk maakt; oordeel niet vooraf over de doelgroep. → [Joker-praktijk › de joker als agoog](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Formaat jaarverslag 2001-2002, p. 12-13, 18 en 43
 - Formaat jaarverslag 2002-2003, Voor het blok (p. 9) en Wagenziek (p. 12)

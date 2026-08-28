@@ -35,13 +35,6 @@ In augustus en september 2011 volgden twee trainingsweken in Kasterlee, met circ
 ## Mensen en partners
 Opdrachtgever was Pax Christi Vlaanderen. Bij de training van 2010 waren ook Critical Mass (Nederland), de Joods-Arabische organisatie Sadaka-Reut en het Tsjetsjeense Sintem betrokken. De trainingen werden gegeven door jokers van Formaat; in 2011 door trainers van Pax Christi onder supervisie van Formaat. De deelnemers, onder wie veel vluchtelingen, worden hier niet bij naam genoemd.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Train de trainers, dan blijft het** — Na één jaar zelf trainen en één jaar superviseren kon Pax Christi het programma zelf dragen. → [Joker-praktijk › overdracht](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Neem het antimodel mee naar huis** — Een scène die deelnemers zelf maken over hun eigen context is meer waard dan een demonstratie van de trainer. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Speel voor de instantie** — Een vluchtelingenvoorstelling op de politieschool brengt het verhaal naar de plek waar het gehoord moet worden. → [Joker-praktijk › terugkoppeling](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Formaat jaarverslag 2009-2010, hoofdstuk 4.2.1 'Pax Christi Vlaanderen' (p. 33)
 - Formaat jaarverslag 2010-2011, hoofdstuk 4.2 (p. 33-34) en 5.3.1

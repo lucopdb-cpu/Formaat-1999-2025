@@ -35,13 +35,6 @@ De eigen locatie veranderde Formaat. De Werkplaats gaf directe herkenbaarheid in
 ## Mensen en partners
 De ingebruikname in juni 2007 gebeurde samen met de Pameijer Stichting (Beschermd Wonen Delfshaven) en Woonbron (ABCD-project Delfshaven). Bij de officiële opening in januari 2008 waren de gemeente Rotterdam, het Prins Claus Fonds, Augusto Boal en lokale instellingen en zelforganisaties uit Delfshaven betrokken. Gasten bij het debat van 2007 waren Sanjoy Ganguly (Jana Sanskriti) en Eugène van Erven (Theaterwetenschap, Universiteit Utrecht). Het openingsprogramma werd gemaakt door het team van Formaat met bewoners en professionals uit de wijk.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Open de deur met een scène van de buurt** — De eerste voorstelling in de Werkplaats ging over de eigen straat; een plek in de wijk begint met het verhaal van de buren. → [Joker-praktijk › werken in de wijk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Laat het debat een opdracht opleveren** — 'De wijk aan het woord' eindigde niet in meningen maar in een conclusie die drie jaar werk in gang zette. → [Arsenaal › Legislatief theater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Verbind wijk en wereld** — Boal en Ganguly in dezelfde zaal als bewoners van Delfshaven: het internationale netwerk is geen decor maar een gesprekspartner. → [Joker-praktijk › internationaal netwerk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Formaat jaarverslag 2006-2007, 3.4 'Werkplaats voor Participatief Drama – Informatie, debatten en lezingen' (p. 29) en 5.1 'De Werkplaats en het kantoor' (p. 38)
 - Formaat jaarverslag 2007-2008, hoofdstuk 5.1 (p. 38)

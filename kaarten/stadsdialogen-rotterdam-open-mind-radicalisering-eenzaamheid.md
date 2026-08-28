@@ -37,13 +37,6 @@ De laatste stadsdialoog kreeg een ander thema. In opdracht van het Masterplan Ou
 ## Mensen en partners
 Opdrachtgevers waren RotterdamV, de gemeente Rotterdam (directie Veilig, gebied Feijenoord, Integratie en Stedelijk Welzijn), de gebiedscommissies en welzijnsorganisaties DOCK en Zowel!. Over de Brug werd gefinancierd door het Fonds voor Cultuurparticipatie en het VSBfonds, met Combatants for Peace als methodische partner. Luc Opdebeeck voerde de regie over Open Mind en, met een joker van Formaat, over Over de Brug; 'Als ik een ziel vond' werd geregisseerd door een regisseur uit het team.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Haal de verhalen op waar ze zijn** — De rijdende huiskamer in Spangen bracht meer op dan een oproep voor een workshop; ga naar het plein. → [Joker-praktijk › groepsvorming](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Eindig met een actieverzoek** — Elke dialoog sloot af met concrete verzoeken aan gemeente of gebied; zonder adres verdampt het gesprek. → [Legislatief theater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Zet tegenpolen in één groep** — Het gepolariseerde model van Combatants for Peace werkte in Rotterdam alleen als jong en oud, West en Zuid, samen repeteerden. → [Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Formaat jaarverslag 2014-2016, 2.1.1 'Open Mind Rotterdam', 'Over de Brug', 'Stadsdialoog Feijenoord' en 2.2
 - Formaat jaarverslag 2017, 1.6 'Stadsatelier en Stadsdialogen' en 1.7 'Integratietour'

@@ -39,13 +39,6 @@ Vanaf januari 2013 gingen Jongeren- en Meidenatelier op in het Buurtatelier, dat
 ## Mensen en partners
 De deelgemeente Delfshaven en het VSBfonds financierden de eerste jaren; Delphi Opbouwwerk was inhoudelijk partner. Voor 'Kansloos' kwamen woningcorporaties Havensteder en Woonbron en de dienst Kunst en Cultuur van de gemeente Rotterdam aan boord. De RET en de politie waren gesprekspartner in de zaal. De bewoners die speelden, worden hier niet met naam genoemd.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Een metafoor breekt een taboe** — Het bombardement van 1943 maakte het mogelijk over wapens en boetes te spelen zonder dat iemand zich direct aangesproken voelde. → [Beeldentheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Nodig de tegenspeler uit** — RET en politie in de zaal maken van forum een onderhandeling in plaats van een klacht. → [Joker-praktijk › publiek samenstellen](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Speel hetzelfde verhaal vanuit twee kanten** — 'Kansloos' vanuit de dochter én de ouders dwong beide generaties in de zaal om in te springen. → [Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Formaat jaarverslag 2008-2009, hoofdstuk 2.2 p. 28
 - Formaat jaarverslag 2009-2010, hoofdstuk 2.3 p. 26 en 5.3.1 p. 36

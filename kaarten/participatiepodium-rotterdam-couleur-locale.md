@@ -37,12 +37,5 @@ Het programma voor 2025 richtte zich op het empoweren van Rotterdammers in kwets
 ## Mensen en partners
 Hoofdfinancier was de gemeente Rotterdam via Couleur Locale (Delfshaven, Feijenoord, Kralingen-Crooswijk en stedelijk), aangevuld met het Luistergoud Fonds en Stichting Droom en Daad. Welzijnspartners in de wijken verzorgden de doorverwijzing. In 2025 werkte Formaat samen met Maia's aan de Maas, Collective Brown Out, Stichting Mano / Stadscoalitie, de Rotterdam Palestina Coalitie, 2DO en de Pauluskerk. De uitvoering lag bij de artistiek leider, de jokers en stagiairs van Formaat.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Bouw een structuur, geen project** — Atelier, Stadsatelier, Open Space en dialoog vormen één keten; wie alleen losse projecten doet, begint elk jaar opnieuw. → [Legislatief theater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Meng kwetsbaar en minder kwetsbaar** — Het podium werkt pas als bewoners met verschillende posities dezelfde scène delen; scheiding in doelgroepen reproduceert de uitsluiting. → [Joker-praktijk › groepsvorming](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Jaarlijkse subsidie vraagt jaarlijkse zichtbaarheid** — Open Spaces en publieke bijeenkomsten waren niet alleen dialoog maar ook het bewijs voor de volgende aanvraag; plan ze als onderdeel van het werk. → [Joker-praktijk › evaluatie](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Formaat jaarverslag 2014-2016, 2.1.2 'Participatiepodium Delfshaven'

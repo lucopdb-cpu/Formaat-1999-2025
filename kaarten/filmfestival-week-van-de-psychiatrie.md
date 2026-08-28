@@ -31,13 +31,6 @@ De tweede editie, 'Pillen voor de geest', werd gehouden op woensdag 24 maart 201
 ## Mensen en partners
 Partners waren het Basisberaad GGZ Rijnmond (2009) en de landelijke organisatie van de Week van de Psychiatrie. De jury van de tweede editie bestond uit drie leden uit het Rotterdamse ggz- en cultuurveld. De organisatie en de techniek lagen bij medewerkers van Formaat en het filmatelier; de filmmakers waren cliënten en ervaringsdeskundigen en worden hier niet bij naam genoemd.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Een telefoon is genoeg** — Door camcorder en telefoon toe te laten en tien minuten als maximum te stellen, werd het maken van een film bereikbaar voor wie nooit een camera had vastgehouden. → [Joker-praktijk › laagdrempeligheid](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Laat het publiek meestemmen** — Een publieksstemming naast de jury maakt van de zaal een deelnemer, net als bij forumtheater. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Een festival is ook een wervingsavond** — Wie zijn film ziet vertoond, is een stap dichter bij het atelier; koppel evenementen aan de doorlopende praktijk. → [Joker-praktijk › instroom in het atelier](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Formaat jaarverslag 2008-2009, hoofdstuk 2.2 (p. 28)
 - Formaat jaarverslag 2009-2010, hoofdstuk 2.1.5 (p. 22-23)

@@ -27,13 +27,6 @@ De leerwerkgemeenschap startte in studiejaar 2016-2017 en werd in 2017-2018 voor
 ## Mensen en partners
 Partners waren de opleiding Social Work van de Hogeschool Rotterdam, Museum Rotterdam en Verhalenhuis Belvedère. De supervisie van de studenten lag bij een docent van de hogeschool; de begeleiding bij Formaat bij de jokers en medewerkers van het Participatiepodium. Deelnemende studenten en docenten worden hier niet met naam genoemd.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Vier dagen per week is meedoen** — Een korte stage laat studenten kijken; detachering maakt hen tijdelijk deel van het team. → [Joker-praktijk › opleiden van jokers](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Train ook de docent** — Overdracht beklijft alleen als de opleiding zelf mensen heeft die de methodiek kunnen doorgeven. → [Joker-praktijk › multiplicatie](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Drie huizen, één leerroute** — Museum, verhalenhuis en theaterwerkplaats laten zien dat verhalen ophalen en spelen verschillende vormen van hetzelfde werk zijn. → [Arsenaal › Beeldentheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Formaat jaarverslag 2017, §3.2 Samenwerking met hogescholen en universiteiten
 - Formaat jaarverslag 2014-2016, §3.2 Vooruitblik

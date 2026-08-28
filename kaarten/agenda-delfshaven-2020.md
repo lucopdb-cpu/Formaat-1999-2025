@@ -37,13 +37,6 @@ Het eindrapport 'Agenda Delfshaven 2020', een uitgave van Formaat en de deelgeme
 ## Mensen en partners
 De deelgemeente Delfshaven was opdrachtgever en mede-uitgever van het eindrapport; Your World, Stichting Volkskracht en het VSBfonds financierden. Meidenwerk DISCK, jongerencentrum VAJO, het Melanchthon College en de Jongerenraad brachten de jongeren aan tafel. Formaat leverde de jokers en de projectleiding. De zeven jongeren die speelden en de 35 die scènes maakten, worden hier niet met naam genoemd.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Inventariseer breed, speel smal** — 35 jongeren leverden het materiaal, zeven speelden; zo blijft het stuk representatief zonder dat elke deelnemer op het podium moet. → [Legislatief theater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Reserveer de laatste voorstelling voor de raad** — De vierde voorstelling was geen reprise maar de overdracht: agenda op tafel bij wie erover gaat. → [Joker-praktijk › de legislatieve sessie](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Een sterk thema verdient een eigen atelier** — De vraag van meiden om veilige ruimte paste niet in één agendapunt en werd het Meidenatelier. → [Ateliers](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Formaat jaarverslag 2008-2009, hoofdstuk 1.6 p. 21 en 5.4 p. 44
 - Formaat jaarverslag 2009-2010, hoofdstuk 1.2.1 p. 14-16, 5.3.1 p. 36 en 5.4 (projectverslag)

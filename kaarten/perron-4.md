@@ -39,13 +39,6 @@ Perron 4 bleef een eenmalig project, maar de werkwijze, jongeren die zelf spelen
 ## Mensen en partners
 Opdrachtgevers waren Stichting Kinderpostzegels Nederland en Defence for Children International, die ook het initiatief namen om de uitkomsten in de Tweede Kamer te presenteren. De drie deelnemende scholen stelden hun leerlingen en lokalen beschikbaar. Formaat leverde de jokers en de artistieke leiding; Paul de Bont Producties maakte de dvd. De jongeren die speelden, worden hier bewust niet met naam genoemd.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **De auditie is al inventarisatie** — Workshops als auditie leverden niet alleen spelers, maar ook de ervaringen van vijftig leerlingen als grondstof voor het stuk. → [Beeldentheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Speel voor wie beslist** — Vier voorstellingen voor volwassenen naast vier voor scholieren: legislatief theater werkt pas als de mensen met macht in de zaal zitten. → [Legislatief theater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Plan het vervolg vóór de première** — De veertien voorstellen kregen een eigenaar (Kinderpostzegels) die het lobbytraject voortzette toen Formaat klaar was. → [Joker-praktijk › nazorg](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Formaat jaarverslag 2009-2010, hoofdstuk 1.2.2 p. 16-17
 - Formaat jaarverslag 2010-2011, hoofdstuk 1.2.1 (p. 14-17)

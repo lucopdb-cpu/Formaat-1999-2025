@@ -17,6 +17,9 @@ cijfers:
   - label: deelnemers waarden-en-normenvoorstellingen t/m 2003
     waarde: bijna 20.000
 status: concept
+arsenaal:
+  tekst: "Forumtheater met de morele dilemma-check: hoe een scène echt open blijft."
+  url: "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/"
 ---
 
 ## De vraag
@@ -38,13 +41,6 @@ In het derde seizoen volgden nog 24 voorstellingen. De slotvoorstelling werd op 
 
 ## Mensen en partners
 Opdrachtgever was het Platform Morele Communicatie, de koepel van provinciale ondersteuningsorganisaties in het jeugdwelzijnswerk. Afnemers waren scholen en gemeenten door het hele land, met HALT (onder meer HALT Kennemerland-Zuid) als vaste partner en de Provincie Noord-Holland als financier in het laatste seizoen. De Universiteit Leiden deed het effectonderzoek. De voorstelling werd gespeeld door acteurs uit het eerste opleidingstraject van Formaat en begeleid door in MDDM geschoolde jokers.
-
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Check het dilemma vóór de voorstelling** — Een forumscène werkt alleen als het dilemma echt open is; de MDDM-check vooraf voorkwam dat de joker een moraal zat te verkopen. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Argumenten eerst, dan de vloer** — Laat het publiek het dilemma benoemen en de argumenten wegen voordat iemand inspringt; het inspringen wordt dan een toets van een standpunt, geen show. → [Joker-praktijk › Gespreksleiding](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Eén voorstelling is geen interventie** — Het Leidse onderzoek leerde dat de voorstelling in een schoolproject ingebed moet zijn; plan vanaf het begin wat er na de joker gebeurt. → [Joker-praktijk › Inbedding](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
 
 ## Bronnen
 - Jaarverslag 2001-2002, p.8, p.10-11, p.18, p.43

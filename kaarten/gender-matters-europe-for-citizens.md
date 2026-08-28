@@ -29,12 +29,5 @@ In het archief is de aanvraag terug te vinden in het werkplan van 2020, onder de
 ## Mensen en partners
 Aanvrager was Stichting Formaat; partners waren International Women* Space e.V. (Duitsland), WIDE+ (België) en GIOLLI (Italië). Het beoogde financieringsprogramma was Europe for Citizens van de Europese Unie.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Beleid heeft een lichaam nodig** — Abstracte termen als 'gender proof' worden pas bespreekbaar als vrouwen hun eigen route door het systeem spelen. → [Arsenaal › Beeldentheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Kies partners die al jokeren** — Een partner als GIOLLI werkt met dezelfde methode; dat maakt een internationaal project meer dan een reeks bezoeken. → [Joker-praktijk › internationale samenwerking](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Bewaar ook de niet-toegekende plannen** — Een aanvraag documenteert een visie; wie het archief leest, ziet waar de werkplaats naartoe wilde. → [Joker-praktijk › documentatie](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Geen openbare bron; beschrijving gebaseerd op projectdocumentatie in het Formaat-archief.

@@ -33,13 +33,6 @@ De deelname aan de repetities viel tegen; twintig bewoners werden er tien. Toch 
 ## Mensen en partners
 Opdrachtgever was Stichting Boog, financier de gemeente Den Haag. De spelers waren bewoners van Transvaal; regie en regie-assistentie lagen bij het team van Formaat. De voorstellingen werden omlijst met publieksacties in de openbare ruimte om bewoners naar de zaal te krijgen.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Tien trouwe spelers zijn genoeg** — Een kleinere groep dan gepland kan nog steeds een stuk dragen; investeer in wie blijft in plaats van te blijven werven. → [Joker-praktijk › groepsvorming](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Speel waar het publiek al is** — Vijf voorstellingen op verschillende plekken in de wijk, met een aparte voorstelling voor kinderen en voor vrouwen, bereiken wie nooit naar een theater komt. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Aanspreken zonder escalatie is de kernvaardigheid** — In een wijkstuk over overlast draait bijna elke interventie om de toon waarop je een buur aanspreekt; laat het publiek daarop oefenen. → [Joker-praktijk › interventies](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Formaat jaarverslag 2002-2003, Palet Transvaal (p. 24-25) en Statistiek (p. 36)
 - OPDRUK nr. 13, 14 en 15

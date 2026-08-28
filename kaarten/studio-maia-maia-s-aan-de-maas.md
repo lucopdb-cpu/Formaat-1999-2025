@@ -37,13 +37,6 @@ Vanaf 2018 had de groep een vaste plek in de Werkplaats, en daar ging het na cor
 ## Mensen en partners
 DOCK was in Feijenoord, Crooswijk en Schiebroek de vaste partner; de gemeente Rotterdam financierde via Couleur Locale, Wij Samenleving, Flexbudget, Jeugd en het actieprogramma Relax. De Stadsmarinier ondersteunde de uitwisseling met Sering. In Crooswijk werkten ouderkamers, Ondro Bong en Onwijze Moeders mee, in 2020 ook Avant Sanare. Formaat begeleidde met trainers, deels op vrijwillige basis, met Luc Opdebeeck als supervisor.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Ontbijt is methodiek** — De gedeelde maaltijd vóór het spel maakt de groep; wie het schrapt, verliest de helft van het atelier. → [Arsenaal](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Beeld vóór taal** — In een meertalige vrouwengroep begint elke sessie met beeldentheater, zodat niemand op woordenschat wordt afgerekend. → [Joker-praktijk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Geef de groep een thuis** — Wijkgroepen sneuvelen bij wisselende financiering; een vaste plek in de Werkplaats hield de beweging negen jaar bijeen.
-
 ## Bronnen
 - Jaarverslag 2017 Formaat, Samenvatting, §1.2 Studio Maia Feijenoord en §1.4 Studio Maia Crooswijk
 - Formaat in beeld 2023 – Jaarverslag, secties 'De Formaat Community' en 'Vrouwelijke moed'

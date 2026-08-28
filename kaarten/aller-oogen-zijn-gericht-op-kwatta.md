@@ -31,12 +31,5 @@ In 2017 vonden 23 workshops en repetities plaats met in totaal 39 unieke deelnem
 ## Mensen en partners
 Initiatiefnemers waren Avant Sanare en Humanitas; DOCK was betrokken als welzijnspartner en Fonds NutsOhra als financier. Formaat leverde de jokers en de artistieke leiding. De spelers waren Rotterdamse senioren, die hier niet met naam worden genoemd.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Het levensverhaal is de tekst** — Bij 75-plussers hoeft niets verzonnen te worden; de joker helpt kiezen welk verhaal een scène wordt. → [Arsenaal › Beeldentheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Gezien worden is al een uitkomst** — Voor een groep die eenzaamheid kent, is het podium zelf een interventie, nog voor het forum begint. → [Joker-praktijk › de joker als agoog](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Zorgpartners in de zaal** — Laat de organisaties die het project betalen als publiek meespelen; zo wordt de dialoog over ouderenbeleid concreet. → [Joker-praktijk › terugkoppeling](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Formaat jaarverslag 2017, §1.3 Aller oogen zijn gericht op Kwatta

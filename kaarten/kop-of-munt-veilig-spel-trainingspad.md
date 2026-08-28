@@ -17,6 +17,9 @@ cijfers:
   - label: getrainde verenigingsbegeleiders 2006-2008
     waarde: bijna 200
 status: concept
+arsenaal:
+  tekst: "Dezelfde dilemma-methode, maar dan voor volwassenen in de sportkantine."
+  url: "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/"
 ---
 
 ## De vraag
@@ -36,13 +39,6 @@ Daarna verschoof het werk naar overdracht: twee cursussen Trainingspad op het KN
 
 ## Mensen en partners
 De KNVB (districten West 1 en West 2, project Grotestedenbeleid en Tijd voor Sport) was de belangrijkste partner, met NOC*NSF, de KNHB, het SportCode Platform, NISB, Sportraad Overijssel en Platform Breedtesport Zwolle. Financiers waren VSB-Fonds, Fonds 1818, de Provincie Noord-Holland en de gemeenten Amsterdam, Utrecht, Den Haag en Rotterdam. Luc Opdebeeck schreef het artikel "Heads or Tails" voor Education through Sport. Spelers en kaderleden blijven ongenoemd.
-
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Speel waar het conflict woont** — Een kantine vol kaderleden is een ander forum dan een theaterzaal; de joker gebruikt de vertrouwde plek om de drempel naar het podium te verlagen. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Laat het publiek de scène aanleveren** — De modules van 2004 improviseerden situaties die bestuurders zelf inbrachten; een kort vast stuk plus open ruimte haalde een op de vijf aanwezigen op de vloer. → [Joker-praktijk › Improvisatie op aanvraag](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Van voorstelling naar handboek naar cursus** — Kop of Munt eindigde als TrainingsPAD in handen van tweehonderd verenigingsbegeleiders; overdracht is het eigenlijke eindproduct. → [Joker-praktijk › Multiplicatie](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
 
 ## Bronnen
 - Jaarverslag 2001-2002, p.16, p.39

@@ -39,13 +39,6 @@ Het gewijzigde subsidiebeleid dwong Studio Sterk in april 2014 te sluiten. Met e
 ## Mensen en partners
 Pameijer was de vaste partner, via het Empowermentteam en later PZW; het VSBfonds financierde drie jaar, met in jaar drie 20.220 euro. De RTC, MIDDIN, AdB RADAR, Theater Zuidplein, Theater 2 Hondjes en het Cardo Theater boden podium en publiek. Formaat leverde de jokers en de methodische leiding. Deelnemers speelden onder de naam van het atelier en worden hier niet met naam genoemd.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Twee groepen, twee tempo's** — Een veilige empowermentgroep naast een productiegroep laat iedereen meedoen zonder dat de voorstelling de zwakste speler opjaagt. → [Beeldentheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Laat de doelgroep de trainer zijn** — Deelnemers die zelf taxichauffeurs en RADAR-medewerkers trainen, keren de rolverdeling van zorg om. → [Joker-praktijk › de joker als agoog](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Meet welzijn, niet alleen publiek** — De Kwaliteit van Leven-matrix gaf argumenten toen het subsidiebeleid kantelde; cijfers over deelnemers wegen zwaarder dan bezoekersaantallen.
-
 ## Bronnen
 - Formaat jaarverslag 2010-2011, hoofdstuk 2.2 (p. 24-25)
 - Formaat jaarverslag 2011-2012, hoofdstuk 3.2.1 (p. 28-29) en 5.3.1

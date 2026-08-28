@@ -25,12 +25,5 @@ In mei tot en met juli 2014 speelde het Seniorenatelier ongeveer acht keer: bij 
 ## Mensen en partners
 Spelers waren de leden van het Seniorenatelier, oudere bewoners van Delfshaven. Formaat leverde joker en begeleiding. Gastheren waren Radar, Zowel, de woonlocaties Schiezicht en Schiemond en Doros in Amsterdam; het BAF subsidieerde de reeks.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Kort werkt op locatie** — Losse scènes van enkele minuten passen in een bijeenkomst van een welzijnsorganisatie; een hele voorstelling niet. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Senioren als spelers, niet als doelgroep** — Als ouderen zelf hun situatie spelen, verandert de toon van het gesprek met professionals. → [Joker-praktijk › de joker als agoog](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Reizen houdt een atelier levend** — Optredens buiten de eigen wijk geven een langlopende groep een nieuw doel. → [Joker-praktijk › continuïteit](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Geen openbare bron; beschrijving gebaseerd op projectdocumentatie in het Formaat-archief.

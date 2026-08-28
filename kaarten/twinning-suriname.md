@@ -35,13 +35,6 @@ Het beoogde effect op middellange termijn was ambitieus: een kenniscentrum Theat
 ## Mensen en partners
 ArtLab Suriname was penvoerder en uitvoerder; UTSN financierde namens het ministerie van Buitenlandse Zaken. Formaat leverde de methodische overdracht met Luc Opdebeeck als trainer en coach op afstand. Deelnemers waren sociaal werkers en theatermakers van ArtLab; publiek waren vrouwen en gemeenschappen in Paramaribo en de districten.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Twee weken, twee producties** — Een training die na elke week een echte voorstelling oplevert, zet deelnemers direct in de rol van maker in plaats van cursist. → [Arsenaal](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Jokeren kun je op afstand coachen** — Als de basis ter plekke is gelegd, volstaan plenaire Zoomsessies om scripts en jokervragen voor nieuwe districten te ontwikkelen. → [Joker-praktijk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Speel het beeld terug in de eigen zaal** — Scènes uit Nickerie naspelen in de Rotterdamse Open Space maakt van een exportproject een uitwisseling.
-
 ## Bronnen
 - Formaat in beeld 2023 – Jaarverslag; Formaat in beeld 2024 – jaarverslag
 - Twinningfaciliteit Suriname-Nederland, projectenoverzicht 2018-2021 (UTSN)

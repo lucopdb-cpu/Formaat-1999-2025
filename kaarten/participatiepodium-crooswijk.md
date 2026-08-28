@@ -17,6 +17,9 @@ cijfers:
   - label: bezoekers slotvoorstelling jongeren (2020)
     waarde: "75"
 status: concept
+arsenaal:
+  tekst: "Stadsdialoog en forum: als het publiek zelf de antagonist speelt."
+  url: "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/"
 ---
 
 ## De vraag
@@ -36,13 +39,6 @@ Het meest ambitieuze onderdeel was 'Van verhaal naar actie': een Bewonersplatfor
 
 ## Mensen en partners
 Opdrachtgever was de gemeente Rotterdam, gebied Kralingen-Crooswijk, via Couleur Locale en aanverwante budgetten; Fonds ZOZ financierde de jongerenprojecten. DOCK was de vaste uitvoeringspartner met jongerenwerkers en de locatie De (Nieuwe) Branding. Politie Rotterdam, Havensteder, het Melanchthon (maatschappelijke stages) en Digital Playground (vlogtraining voor twee meiden) werkten mee. Formaat begeleidde met een joker, een stagiair en later een jonge facilitator onder supervisie van Luc Opdebeeck. Het jongerentraject was casus in het onderzoek 'Autoritatieve allianties' van Stijn Sieckelinck.
-
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Laat de wijk zelf spelen** — Scènes over radicalisering werken pas als Crooswijkers ze spelen; een gastgezelschap zou het gesprek juist afsluiten. → [Arsenaal](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Bouw een keten, geen event** — Een dialoog levert vragen op die alleen een wekelijks atelier kan beantwoorden; plan het vervolg vóór de eerste avond. → [Joker-praktijk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Check de agenda van de macht** — Legislatief theater rond een motie vereist zekerheid dat de motie nog open is; anders repeteren bewoners voor een gesloten deur.
 
 ## Bronnen
 - Jaarverslag 2017 Formaat, §1.4 Studio Maia Crooswijk, §3.4 Expertmeetings, §4 Organisatieontwikkeling

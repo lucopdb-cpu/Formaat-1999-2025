@@ -37,13 +37,6 @@ In dezelfde beginjaren maakte Formaat ook KiesPijn, een forumtheaterstuk over di
 ## Mensen en partners
 Veni, Vidi, Vici ontstond uit de samenwerking van de theaterbureaus Opmaat en Popmaat, die samen opgingen in Stichting Maat, het latere Formaat. Voor Tolero waren de initiatiefnemers een Rotary Club, de Universiteit Leiden, Leidse scholen en het Meldpunt discriminatie, met contacten met het Regieteam Jeugd van het arrondissement Rotterdam en het Landelijk Platform tegen geweld op straat. Luc Opdebeeck regisseerde beide producties; de stukken werden gespeeld door professionele acteurs. KiesPijn werd gemaakt in opdracht van welzijnsinstellingen.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Toon wat zelden wordt getoond** — Tolero zette de koppeling tussen discriminatie en geweld op het toneel; forumtheater werkt het best rond het thema waar niemand over durft te beginnen. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Bed de voorstelling in een traject in** — Workshops vooraf, dilemmadiscussies en onderzoek achteraf maken van een losse voorstelling een leerproces van weken. → [Joker-praktijk › voorbereiding en nazorg](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Hergebruik wat werkt** — De inhoud van Tolero werd na de tournee omgebouwd tot de Geweldmodules; een productie is materiaal voor de volgende. → [Joker-praktijk › van productie naar module](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-
 ## Bronnen
 - Formaat jaarverslag 2001-2002, p. 13 en p. 20
 - OPDRUK nr. 12

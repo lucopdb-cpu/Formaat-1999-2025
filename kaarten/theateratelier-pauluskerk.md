@@ -35,13 +35,6 @@ De projectperiode 2021-2023 bracht de splitsing in twee lijnen: de ongedocumente
 ## Mensen en partners
 Het Diaconaal Centrum Pauluskerk was tien jaar lang partner en penvoerder van fondsaanvragen; het Oranje Fonds en andere fondsen droegen bij, en Formaat leverde een forse eigen bijdrage. Theater Zuidplein, ICAF/Rotterdams Wijktheater, Pluspunt en Zorgvrijstaat Delfshaven waren partners bij voorstellingen en de wijkgerichte fase. Luc Opdebeeck regisseerde en begeleidde, ondersteund door een vaste vrijwilliger, stagiairs en voor de empowermentgroep een tweede trainer. Deelnemers waren bezoekers van de kerk.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Wachten is ook een verhaal** — Waar het leven stilstaat, is de stilstand zelf het materiaal; een performance over wachten neemt de deelnemer serieus. → [Arsenaal](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Continuïteit boven verplichting** — Een open wekelijks atelier zonder aanwezigheidsplicht houdt een groep van mensen in overleving langer bij elkaar dan een strak productieschema. → [Joker-praktijk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Bij lockdown: van podium naar museum** — Als spelen onmogelijk is, laat de groep dan een ruimte inrichten; het schaduwmuseum bereikte meer bezoekers dan menige voorstelling.
-
 ## Bronnen
 - Dubbeldik jaarverslag 2014-2016 (concept), §2.1.3 Theateratelier Pauluskerk en §2.2 Producties
 - Formaat in beeld 2023 – Jaarverslag, sectie 'De Formaat Community'

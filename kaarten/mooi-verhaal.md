@@ -17,6 +17,9 @@ cijfers:
   - label: MI-deelname op de C-vleugel na de cursus
     waarde: ">25% (landelijk ca. 10%)"
 status: concept
+arsenaal:
+  tekst: "Werken met eigen verhalen in detentie: bescherming van de speler voorop."
+  url: "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html"
 ---
 
 ## De vraag
@@ -36,13 +39,6 @@ De derde cursus, in tweedaagse blokken tussen 24 september en 16 oktober 2003, w
 
 ## Mensen en partners
 Opdrachtgever en gastheer was PI Noord, locatie De Marwei in Leeuwarden; financiering kwam van ESF en het Ministerie van Justitie, later ook van PI Noord zelf. Mentoren en individuele trajectbegeleiders van de inrichting vormden de werkgroep die de monitor invulde. De workshops werden gegeven door trainers van Formaat. Deelnemers blijven ongenoemd; ook de fotoserie uit De Marwei is niet voor publicatie bestemd.
-
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Meet wat de opdrachtgever meet** — Het LG-8-monitortraject vertaalde theaterwerk naar de taal van Justitie (leefgebieden, MI-deelname) en maakte het programma daardoor overdraagbaar. → [Arsenaal › Evaluatie](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Een dilemma trekt aandacht waar oefeningen falen** — Toen de groep in 2003 niet te concentreren was, keerde de motivatie door morele dilemma's; begin bij wat mensen werkelijk verdeelt. → [Joker-praktijk › Morele dilemma's](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Kort en dik houdt de groep bijeen** — Verkorting tot vier weken en tweedaagse blokken bracht de uitval van zeven op elf naar nul; plan rond overplaatsingen en zittingen. → [Joker-praktijk › Groepsopbouw](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
 
 ## Bronnen
 - Jaarverslag 2001-2002, p.26-27, p.43

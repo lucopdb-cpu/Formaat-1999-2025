@@ -33,12 +33,5 @@ What's Up Doc! werd in september en oktober 2019 uitgevoerd: zes workshops op he
 ## Mensen en partners
 Financier van NP Jongeren was Couleur Locale Jeugd Delfshaven; TOS en Wmo Radar waren beoogde uitvoeringspartners. What's Up Doc! kwam tot stand met IFFR, Digital Playground, Melanchthon Mathenesse en Rotterdam Design College, met een prijs van het KCR. Jokers van Formaat verzorgden de workshops; de deelnemers waren scholieren uit het voortgezet onderwijs en mbo.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Zonder aanvoerpartner geen groep** — Een jongerenreeks staat of valt met wie de jongeren binnenbrengt; regel dat vóór de toekenning, niet erna. → [Joker-praktijk › opdrachtgeverschap](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Schuif een plan in een ander** — Toegekend geld dat niet in de oorspronkelijke vorm kan worden besteed, kan in een lopend project alsnog dezelfde doelgroep bereiken. → [Joker-praktijk › maatwerk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Film opent, forum verdiept** — Een documentaire geeft leerlingen afstand; forumtheater brengt het onderwerp terug naar hun eigen klas en straat. → [Arsenaal › Forumtheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-
 ## Bronnen
 - Geen openbare bron; beschrijving gebaseerd op projectdocumentatie in het Formaat-archief.

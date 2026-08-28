@@ -37,13 +37,6 @@ Vanaf najaar 2021 richtte de groep zich op armoede: onder de werktitel 'Armoede 
 ## Mensen en partners
 De gemeente Rotterdam was de belangrijkste financier, via Burgerschapsbeleid, Couleur Locale Delfshaven, de Directie Veiligheid en Cultuurconcreet. Zowel Delfshaven!, LOKAAL, DOCK, PPO Rotterdam, WMO Radar, de gebiedscommissie Delfshaven, Pluspunt, Krachtvrouwen Oude Westen, Huize Middelland, Humanitas en de Dienst Justitiële Instellingen vroegen om scènes of boden podia. Luc Opdebeeck leidde de groep, met een tweede joker en tijdens corona een online begeleider.
 
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Eén groep, veel opdrachtgevers** — Een vaste spelersgroep met repertoire kan binnen een week reageren op een vraag van een ministerie of een buurthuis; losse projecten kunnen dat niet. → [Arsenaal](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Ervaringsdeskundigheid is casting** — Wie speelt over armoede of mantelzorg moet het kennen; het publiek voelt het verschil en deelt dan zelf verhalen. → [Joker-praktijk](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
-- **Stop als de instroom stokt** — Een groep die tien jaar dezelfde is, wordt een gezelschap; het Stadsatelier eindigde toen nieuwe stemmen uitbleven.
-
 ## Bronnen
 - Jaarverslag 2017 Formaat, §1.6 Stadsatelier en Stadsdialogen
 - Formaat in beeld 2023 – Jaarverslag; Formaat in beeld 2024 – jaarverslag, secties 'De gemeenschap' en 'Samen sterker in 2024'

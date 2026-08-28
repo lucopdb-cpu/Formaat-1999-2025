@@ -17,6 +17,9 @@ cijfers:
   - label: fasen in het programma-model
     waarde: "4"
 status: concept
+arsenaal:
+  tekst: "Legislatief theater: van wens van bewoners naar voorstel aan de gemeente."
+  url: "https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/"
 ---
 
 ## De vraag
@@ -38,13 +41,6 @@ De evaluatie over januari-juni 2001 formuleerde vier randvoorwaarden die sindsdi
 
 ## Mensen en partners
 In Leiden was de gemeente opdrachtgever binnen het Grote Stedenbeleid; de spelers waren bewoners en jongeren uit stadsdeel Zuid. In Wijchen-Zuid werkte Formaat met gemeente en wijkorganisaties; hier speelden de eigen acteurs van Formaat en verzorgde een scriptschrijver de bewerking. Luc Opdebeeck was regisseur van het Leidse stuk en ontwerper van de methode. Deelnemers en bewoners blijven in dit archief ongenoemd.
-
-## Jokerlessen
-> Voorstel — te schrijven of goed te keuren door Luc Opdebeeck.
-
-- **Het gepresenteerde probleem is zelden het probleem** — In Wijchen bleek de hangplek een symptoom van slechte communicatie met gemeente en politie; begin met beeldentheater om het echte thema te vinden. → [Arsenaal › Beeldentheater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Geen legislatief theater zonder ontvanger** — Regel vooraf ambtelijke capaciteit, politiek commitment en budget; anders eindigt de dialoog in een mooie avond zonder gevolg. → [Arsenaal › Legislatief theater](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/)
-- **Sluit af met werkgroepen, niet met applaus** — De tweede voorstelling in Wijchen ging direct over in twee bewonerswerkgroepen met een plan; de joker plant de overgang van forum naar besluit. → [Joker-praktijk › Van forum naar actie](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/joker-praktijk.html)
 
 ## Bronnen
 - Jaarverslag 2001-2002, p.20, p.31
