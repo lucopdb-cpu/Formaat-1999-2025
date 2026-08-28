@@ -252,7 +252,7 @@ def index_page():
 <div class="hero-meta mono">{n_items} activiteiten · {n_groups} projectlijnen · {n_cards} kaarten · zusterproject van het <a href="{ARSENAAL}">Arsenaal van de joker</a></div>
 </div></section>
 <section><div class="wrap">
-<div class="sec-head"><h2>Zes sporen, 27 jaar</h2><span class="mono">klik op een balk</span></div>
+<div class="sec-head"><h2>Zes sporen, 26 jaar</h2><span class="mono">klik op een balk</span></div>
 {tijdlijn(0)}
 </div></section>
 <section><div class="wrap">

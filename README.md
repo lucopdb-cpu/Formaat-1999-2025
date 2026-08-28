@@ -1,6 +1,6 @@
 # Formaat 1999–2025
 
-Publiek archief van Stichting Formaat, Werkplaats voor Participatief Drama (Rotterdam, 1999–2025): een kwart eeuw forumtheater, beeldentheater en legislatief theater in onderwijs, zorg, wijk en internationale uitwisseling. Zusterproject van het [Arsenaal van de joker](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/).
+Publiek archief van Stichting Formaat, Werkplaats voor Participatief Drama (Rotterdam, 1999–2025): 26 jaar forumtheater, beeldentheater en legislatief theater in onderwijs, zorg, wijk en internationale uitwisseling. Zusterproject van het [Arsenaal van de joker](https://lucopdb-cpu.github.io/Theatre-of-the-Oppressed/).
 
 ## Opbouw
 
