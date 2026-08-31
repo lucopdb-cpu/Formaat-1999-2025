@@ -50,7 +50,7 @@ CSS = open(D('tools/site.css'), encoding='utf-8').read()
 
 def page(title, body, depth=0, desc=''):
     rel = '../' * depth
-    nav = ''.join(f'<a href="{rel}{h}">{t}</a>' for h, t in [('index.html', 'Tijdlijn'), ('route.html', 'Begin hier'), ('thema.html', "Thema's"), ('organisatie.html', 'De organisatie'), ('alles.html', 'Alle activiteiten'), ('bronnen.html', 'Bronnen'), ('over.html', 'Over')])
+    nav = ''.join(f'<a href="{rel}{h}">{t}</a>' for h, t in [('index.html', 'Tijdlijn'), ('route.html', 'Maak kennis'), ('thema.html', "Thema's"), ('organisatie.html', 'De organisatie'), ('alles.html', 'Alle activiteiten'), ('bronnen.html', 'Bronnen'), ('over.html', 'Over')])
     return f'''<!doctype html>
 <html lang="nl" data-theme="light">
 <head>
@@ -256,7 +256,7 @@ def index_page():
 {tijdlijn(0)}
 </div></section>
 <section><div class="wrap">
-<div class="sec-head"><h2>Begin hier</h2><a class="mono" href="route.html">hele route →</a></div>
+<div class="sec-head"><h2>Maak kennis met het werk van Formaat</h2><a class="mono" href="route.html">hele route →</a></div>
 <div class="minis">{cards}</div>
 </div></section>'''
     return page('Tijdlijn', body)
@@ -268,11 +268,11 @@ def route_page():
         link = f'kaarten/{g["id"]}.html' if g['id'] in kaarten else f'alles.html#{g["id"]}'
         halts += f'<li style="--c:{s["kleur"]}"><a href="{link}"><span class="mono">halte {r["halte"]} · {esc(s["naam"])}</span><b>{esc(r["titel"])}</b><em>{esc(r["vraag"])}</em></a><a class="ars" href="{esc(r["arsenaal"])}">→ Arsenaal</a></li>'
     body = f'''<section><div class="wrap">
-<div class="sec-head"><h2>Begin hier</h2><span class="mono">{len(route)} haltes</span></div>
+<div class="sec-head"><h2>Maak kennis met het werk van Formaat</h2><span class="mono">{len(route)} haltes</span></div>
 <p class="lede">{esc(site['route_intro'])}</p>
 <ol class="route">{halts}</ol>
 </div></section>'''
-    return page("Begin hier", body)
+    return page("Maak kennis met het werk van Formaat", body)
 
 def thema_page():
     by = defaultdict(list)
