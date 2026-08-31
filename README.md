@@ -29,4 +29,4 @@ Daarna: `python3 tools/build.py` (vereist `pip install markdown pyyaml`). GitHub
 
 ## Licentie
 
-Nog vast te stellen. Voorstel: teksten en eigen beeld CC BY-SA 4.0, code MIT. Foto's van deelnemers en documenten van derden vallen buiten die licentie tenzij anders vermeld.
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — dezelfde licentie als het zusterproject [Arsenaal van de joker](https://github.com/lucopdb-cpu/Theatre-of-the-Oppressed). Zie [`LICENSE`](LICENSE). Teksten, eigen beeld en de code van de site vallen eronder; foto's van deelnemers en documenten van derden niet, tenzij anders vermeld.
